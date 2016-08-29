@@ -1,0 +1,7 @@
+on *:text:*:#: {
+  write chatlog.txt $nick
+  var %lines = $lines(chatlog.txt)
+  if (%lines >= 100) {
+    write -dl1 chatlog.txt
+  }
+}

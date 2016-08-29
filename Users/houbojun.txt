@@ -1,0 +1,35 @@
+5
+4
+42
+0
+[R042] Mogyutto Maki
+[SR276] 'I'm Really Happy!' Honoka
+[R049] Wonderful Rush Umi
+[R035] Natsu-iro Hanayo
+[R046] Wonderful Rush Honoka
+[R037] Mogyutto Honoka
+[R289] Bokura Maki
+[R287] Bokura Umi
+[R285] Bokura Eli
+[SR278] 'Sweet Ramen' Rin
+[R044] Mogyutto Hanayo
+[SR072] 'Destined Card' Nozomi
+[R041] Mogyutto Rin
+[R291] Bokura Hanayo
+[R292] Bokura Nico
+[SR221] 'Mochi and Rice' Hanayo
+[IPUR082] 'Nawatobi' Hanayo
+[R046] Wonderful Rush Honoka
+[R290] Bokura Nozomi
+[UR094] 'I Will Take Your Heart' Eli
+[SR417] 'A Hero Has Arrived!' Umi
+[SR192] 'Silent Night' Umi
+[SR213] 'A Fuku Musume is Here' Nico
+[SR441] 'Listen to What I Say!' Rin
+[SR123] 'Charming Mermaid' Eli
+[SR163] 'Victory Charm' Nozomi
+[SR295] 'Sweets Idol' Nico
+[SR293] 'Fruits Girl' Maki
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[UR330] 'Simple Dress' Eli
+[ISR394] 'I Want to Give You a Smile' Umi

@@ -1,0 +1,39 @@
+0
+13
+2
+5
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[ISR259] 'Demons In' Maki
+[ISR365] 'Colorful Scales' Kotori
+[R038] Mogyutto Eli
+[R048] Wonderful Rush Kotori
+[R051] Wonderful Rush Maki
+[R335] Snow Halation Eli
+[SR058] 'Mental Concentration' Umi
+[SR059] 'The Energy of mu's' Rin
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR078] 'Here's Your Order' Hanayo
+[SR162] 'The Capable Manager' Umi
+[SR169] 'Angelic Whistle' Kotori
+[SR210] 'An Amazing First Dream' Kotori
+[SR219] 'Secret New Year's Money' Eli
+[SR221] 'Mochi and Rice' Hanayo
+[SR221] 'Mochi and Rice' Hanayo
+[SR261] 'Sunny Power' Honoka
+[SR276] 'I'm Really Happy!' Honoka
+[SR293] 'Fruits Girl' Maki
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR321] 'No Eating Me' Nico
+[SR332] 'A Big Puddle' Rin
+[SR355] 'Friends from the Sea' Umi
+[SR360] 'Breath of Relief' Nozomi
+[SR366] 'Mermaid Idol' Hanayo
+[SR404] 'Look at the Back Too' Kotori
+[SR407] 'Cooking Power' Nico
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[UR066] 'Devilish Girl' Nico
+[UR280] 'Together with Alisa' Eli
+[UR346] 'Until That Day Comes' Honoka
+[UR358] 'My Present Happiness' Maki
+[UR408] 'A Serving of Parfait!' Rin
+[UR456] 'To the World of Mythology' Maki

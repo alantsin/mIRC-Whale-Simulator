@@ -1,0 +1,84 @@
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR056] 'Harasho' Eli
+[SR057] 'Soothing Goddess' Kotori
+[SR058] 'Mental Concentration' Umi
+[SR059] 'The Energy of mu's' Rin
+[SR060] 'After School Songstress' Maki
+[SR061] 'Spiritual Power' Nozomi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR063] 'Nico Nico Smile' Nico
+[SR071] 'Heart of Flames' Honoka
+[SR072] 'Destined Card' Nozomi
+[SR077] 'The Secret Examination Room' Maki
+[SR078] 'Here's Your Order' Hanayo
+[SR086] 'Love Bind' Umi
+[SR087] 'Take a Look at Rin, Meow' Rin
+[SR092] 'Amazing Sweets' Kotori
+[SR093] 'Whimsical Kitten' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR100] 'I'll Teach You' Nico
+[SR103] 'Eli's Confessional' Eli
+[SR104] 'Feigning Sleep' Nozomi
+[SR122] 'The Beach's Sun' Honoka
+[SR123] 'Charming Mermaid' Eli
+[SR124] 'Today is Umi's Day' Umi
+[SR125] 'Summer Sunset Girl' Rin
+[SR131] 'Sweet Marine Girl' Kotori
+[SR132] 'Songstress of the Beach' Maki
+[SR133] 'Princess on the Shore' Hanayo
+[SR141] 'Summer Festival with Everyone' Honoka
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR144] 'Festival Girl' Nozomi
+[SR152] 'Sharing a Candied Apple' Eli
+[SR153] 'Visiting the Stalls' Hanayo
+[SR154] 'Summer Memories' Nico
+[SR161] 'Good Work!' Eli
+[SR162] 'The Capable Manager' Umi
+[SR163] 'Victory Charm' Nozomi
+[SR164] 'Furious Cheering' Hanayo
+[SR169] 'Angelic Whistle' Kotori
+[SR170] 'First Place Smile' Maki
+[SR171] 'Nico Nico Support' Nico
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR177] 'Specially Made Borscht' Eli
+[SR178] 'Here, Open Wide' Kotori
+[SR179] 'Family-Oriented Idol' Nico
+[SR184] 'Giving Thanks to the Food' Umi
+[SR185] 'Handmade Ramen' Rin
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[SR192] 'Silent Night' Umi
+[SR193] 'Christmas Bell' Rin
+[SR194] 'Christmas Carol' Maki
+[SR195] 'A Good Girl on Christmas' Nico
+[SR200] 'Candle Night' Honoka
+[SR201] 'White Christmas' Kotori
+[SR202] 'Christmas Feast' Hanayo
+[SR210] 'An Amazing First Dream' Kotori
+[SR211] 'Great Luck This Year!' Rin
+[SR212] 'New Year's Fortune Nozomi
+[SR213] 'A Fuku Musume is Here' Nico
+[SR219] 'Secret New Year's Money' Eli
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR221] 'Mochi and Rice' Hanayo
+[SR245] 'Animals Galore' Honoka
+[SR246] 'Secret Feelings' Umi
+[SR247] 'Rin's Secret' Rin
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR254] 'A Piece of Chocolate' Eli
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR256] 'Happy Valentine's' Nozomi
+[SR261] 'Sunny Power' Honoka
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR263] 'Season of Melting Snow' Umi
+[SR264] 'A New Wind' Nozomi
+[SR269] 'Kotori's Pillow' Kotori
+[SR270] 'Intensifying Feelings' Maki
+[SR271] 'Challenger Nico' Nico
+[SR276] 'I'm Really Happy!' Honoka
+[SR277] 'Lots of Sweetness' Kotori
+[SR278] 'Sweet Ramen' Rin
+[SR279] 'Leave It to Me!' Hanayo
+[SR293] 'Fruits Girl' Maki
+[SR294] 'Natural Blessing' Nozomi
+[SR295] 'Sweets Idol' Nico

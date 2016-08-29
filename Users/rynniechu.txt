@@ -1,0 +1,22 @@
+3
+8
+50
+0
+[R284] Bokura Honoka
+[SR278] 'Sweet Ramen' Rin
+[R036] Natsu-iro Nico
+[R286] Bokura Kotori
+[SR184] 'Giving Thanks to the Food' Umi
+[UR134] 'Midsummer Fruits' Nozomi
+[R045] Mogyutto Nico
+[R044] Mogyutto Hanayo
+[R029] Natsu-iro Eli
+[R038] Mogyutto Eli
+[R285] Bokura Eli
+[SR313] 'Kiss of Awakening' Maki
+[SR170] 'First Place Smile' Maki
+[SR246] 'Secret Feelings' Umi
+[SR057] 'Soothing Goddess' Kotori
+[SR194] 'Christmas Carol' Maki
+[SR170] 'First Place Smile' Maki
+[UR187] 'Secret Home Cooking' Maki

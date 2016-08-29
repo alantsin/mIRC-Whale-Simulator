@@ -1,0 +1,29 @@
+3
+0
+42
+0
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR132] 'Songstress of the Beach' Maki
+[R341] Snow Halation Hanayo
+[R287] Bokura Umi
+[R291] Bokura Hanayo
+[R033] Natsu-iro Maki
+[R037] Mogyutto Honoka
+[SR167] 'Let Me Serve You' Maki
+[R031] Natsu-iro Umi
+[R038] Mogyutto Eli
+[R338] Snow Halation Rin
+[R284] Bokura Honoka
+[R052] Wonderful Rush Nozomi
+[R047] Wonderful Rush Eli
+[SR295] 'Sweets Idol' Nico
+[SR279] 'Leave It to Me!' Hanayo
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[R043] Mogyutto Nozomi
+[SR364] 'The Little Mermaid's Strength' Eli
+[R046] Wonderful Rush Honoka
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[SR247] 'Rin's Secret' Rin
+[R033] Natsu-iro Maki
+[R039] Mogyutto Kotori
+[R286] Bokura Kotori

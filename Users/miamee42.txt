@@ -1,0 +1,68 @@
+3
+2
+1
+0
+[R285] Bokura Eli
+[SR326] 'Snuggling Pose' Umi
+[R039] Mogyutto Kotori
+[R287] Bokura Umi
+[SR171] 'Nico Nico Support' Nico
+[R037] Mogyutto Honoka
+[UR172] 'A Goal Together' Rin
+[IPUR095] 'Beat in Angel' Rin
+[SR345] 'My First Dress' Hanayo
+[UR073] 'Love Arrow Shoot!' Umi
+[SR321] 'No Eating Me' Nico
+[R053] Wonderful Rush Hanayo
+[UR322] 'Little Onigiri!' Hanayo
+[R033] Natsu-iro Maki
+[R044] Mogyutto Hanayo
+[SR193] 'Christmas Bell' Rin
+[SR169] 'Angelic Whistle' Kotori
+[R288] Bokura Rin
+[R046] Wonderful Rush Honoka
+[UR272] 'Let's Go on a Trip!' Rin
+[SR063] 'Nico Nico Smile' Nico
+[UR280] 'Together with Alisa' Eli
+[SR366] 'Mermaid Idol' Hanayo
+[SR211] 'Great Luck This Year!' Rin
+[UR155] 'Evening Breeze Girl' Kotori
+[R047] Wonderful Rush Eli
+[R337] Snow Halation Umi
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[SR141] 'Summer Festival with Everyone' Honoka
+[R291] Bokura Hanayo
+[SR153] 'Visiting the Stalls' Hanayo
+[SR245] 'Animals Galore' Honoka
+[SR317] 'Gallant Maiden' Umi
+[UR346] 'Until That Day Comes' Honoka
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR104] 'Feigning Sleep' Nozomi
+[SR200] 'Candle Night' Honoka
+[SR061] 'Spiritual Power' Nozomi
+[ISR264] 'A New Wind' Nozomi
+[SR278] 'Sweet Ramen' Rin
+[IR054] Wonderful Rush Nico
+[SR329] 'Popular Model Nico' Nico
+[SR412] 'Maid-in-Training' Honoka
+[R290] Bokura Nozomi
+[SR154] 'Summer Memories' Nico
+[SR308] 'Rice and Miso Soup' Hanayo
+[SR201] 'White Christmas' Kotori
+[SR086] 'Love Bind' Umi
+[UR094] 'I Will Take Your Heart' Eli
+[SR294] 'Natural Blessing' Nozomi
+[SR355] 'Friends from the Sea' Umi
+[R028] Natsu-iro Honoka
+[UR079] 'Stage of Smiles' Honoka
+[SR394] 'I Want to Give You a Smile' Umi
+[R032] Natsu-iro Rin
+[R336] Snow Halation Kotori
+[R042] Mogyutto Maki
+[R334] Snow Halation Honoka
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR064] 'An Idol's Feelings' Hanayo
+[ISR270] 'Intensifying Feelings' Maki
+[IUR358] 'My Present Happiness' Maki
+[R435] Korekara no Someday Maki
+[R034] Natsu-iro Nozomi

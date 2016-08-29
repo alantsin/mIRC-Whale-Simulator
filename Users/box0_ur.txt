@@ -1,0 +1,27 @@
+[UR064] 'An Idol's Feelings' Hanayo
+[UR066] 'Devilish Girl' Nico
+[UR073] 'Love Arrow Shoot!' Umi
+[UR079] 'Stage of Smiles' Honoka
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR094] 'I Will Take Your Heart' Eli
+[UR101] 'Destined Partner' Nozomi
+[UR105] 'The Legendary Ramen!' Rin
+[UR126] 'The Melody of Our Vow' Maki
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR134] 'Midsummer Fruits' Nozomi
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR155] 'Evening Breeze Girl' Kotori
+[UR165] 'A Cheer for You' Honoka
+[UR172] 'A Goal Together' Rin
+[UR180] 'Soothing Menu' Hanayo
+[UR187] 'Secret Home Cooking' Maki
+[UR196] 'My Present to You' Eli
+[UR203] 'Your Santa' Nozomi
+[UR214] 'Happy New Year' Umi
+[UR222] 'Happy New Year' Honoka
+[UR250] 'Super Rare Chocolate' Nico
+[UR257] 'Maki's Secret' Maki
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[UR280] 'Together with Alisa' Eli
+[UR296] 'The Power of Sweetness' Umi

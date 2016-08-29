@@ -1,0 +1,29 @@
+0
+6
+6
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[IPUR068] 'Anemone Heart' Umi
+[IPUR118] 'Nicopuri Joshidou' Nico
+[R031] Natsu-iro Umi
+[R034] Natsu-iro Nozomi
+[R041] Mogyutto Rin
+[R053] Wonderful Rush Hanayo
+[R053] Wonderful Rush Hanayo
+[R292] Bokura Nico
+[SR057] 'Soothing Goddess' Kotori
+[SR060] 'After School Songstress' Maki
+[SR072] 'Destined Card' Nozomi
+[SR122] 'The Beach's Sun' Honoka
+[SR133] 'Princess on the Shore' Hanayo
+[SR154] 'Summer Memories' Nico
+[SR178] 'Here, Open Wide' Kotori
+[SR192] 'Silent Night' Umi
+[SR194] 'Christmas Carol' Maki
+[SR252] 'Winter Memories' Rin
+[SR295] 'Sweets Idol' Nico
+[SR319] 'Gooey Cheese' Honoka
+[SR327] 'Ladylike' Rin
+[SR350] 'Time Together With You' Eli
+[UR079] 'Stage of Smiles' Honoka
+[UR079] 'Stage of Smiles' Honoka
+[UR257] 'Maki's Secret' Maki

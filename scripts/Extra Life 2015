@@ -1,0 +1,148 @@
+on *:text:!extralifecommands:#:{
+  msg # [Extra Life Commands] !extralife, !donate, !giveaway, !rank top, !rank total
+}
+
+on *:text:!extralife:#:{
+  msg # [Extra Life] https://www.reddit.com/r/SchoolIdolFestival/comments/3r6qed/love_live_community_extra_life_2015_stream/
+}
+
+on *:text:!donate:#: {
+  msg # [Donate] https://www.extra-life.org/index.cfm?fuseaction=donate.participant&participantID=152188
+}
+
+on *:text:!code*:#:{
+  if ($nick == umidah) {
+    var %name = $2
+    var %filename = codes $+ $2 $+ .txt
+    var %currentcode = $read(%filename, n)
+    var %line = $readn
+    write -dl $+ %line %filename
+    var %randomdisplay = $rand(1,30)
+    var %randommessage = $rand(1,30)
+    timer 1 %randomdisplay write -c codescurrent.txt %currentcode
+    timer 1 %randommessage msg # [ $+ $2 Code] %currentcode
+  }
+}
+
+on *:text:!giveaway*:#: {
+  if ($nick == umidah) {
+    if ($2 == rigged) {
+      msg # [Giveaway] The winner is: $read(giveaway.txt,n) $+ !
+    }
+    else if ($2 == reset) {
+      write -c giveaway.txt
+      msg # [Giveaway] Names cleared.
+    }
+  }
+  else {
+    if ($read(giveaway.txt,w,$nick)) {
+      return
+    }
+    write giveaway.txt $nick
+  }
+}
+
+on *:text:!rank*:#: {
+  var %directory = C:\Users\Alan\AppData\Roaming\mIRC\Donators\
+  if ($2 == total) {
+    msg # [Rankings] #TeamHonoka: $ $+ $read(%directory $+ teamHonoka.txt,0) $+ , #TeamKotori: $ $+ $read(%directory $+ teamKotori.txt,0) $+ , #TeamUmi: $ $+ $read(%directory $+ teamUmi.txt,0) $+ ,
+    msg # [Rankings] #TeamMaki: $ $+ $read(%directory $+ teamMaki.txt,0) $+ , #TeamRin: $ $+ $read(%directory $+ teamRin.txt,0) $+ , #TeamHanayo: $ $+ $read(%directory $+ teamHanayo.txt,0) $+ ,
+    msg # [Rankings] #TeamNico: $ $+ $read(%directory $+ teamNico.txt,0) $+ , #TeamNozomi: $ $+ $read(%directory $+ teamNozomi.txt,0) $+ , #TeamEli: $ $+ $read(%directory $+ teamEli.txt,0)
+  }
+  else if ($2 == top) {
+    msg # [Rankings] #TeamHonoka: $read(%directory $+ teamHonokaTop.txt,1) @ $ $+ $read(%directory $+ teamHonokaTop.txt,0) $+ , #TeamKotori: $read(%directory $+ teamKotoriTop.txt,1) @ $ $+ $read(%directory $+ teamKotoriTop.txt,0) $+ , #TeamUmi: $read(%directory $+ teamUmiTop.txt,1) @ $ $+ $read(%directory $+ teamUmiTop.txt,0) $+ ,
+    msg # [Rankings] #TeamMaki: $read(%directory $+ teamMakiTop.txt,1) @ $ $+ $read(%directory $+ teamMakiTop.txt,0) $+ , #TeamRin: $read(%directory $+ teamRinTop.txt,1) @ $ $+ $read(%directory $+ teamRinTop.txt,0) $+ , #TeamHanayo: $read(%directory $+ teamHanayoTop.txt,1) @ $ $+ $read(%directory $+ teamHanayoTop.txt,0) $+ ,
+    msg # [Rankings] #TeamNico: $read(%directory $+ teamNicoTop.txt,1) @ $ $+ $read(%directory $+ teamNicoTop.txt,0) $+ , #TeamNozomi: $read(%directory $+ teamNozomiTop.txt,1) @ $ $+ $read(%directory $+ teamNozomiTop.txt,0) $+ , #TeamEli: $read(%directory $+ teamEliTop.txt,1) @ $ $+ $read(%directory $+ teamEliTop.txt,0)
+  }
+}
+
+on *:text:!team*:#: {
+  if ($nick == umidah) {
+    var %name = C:\Users\Alan\AppData\Roaming\mIRC\Donators\ $+ team $+ $2 $+ .txt
+    var %nametop = C:\Users\Alan\AppData\Roaming\mIRC\Donators\ $+ team $+ $2 $+ Top.txt
+    var %current = $read(%name, 0)
+    var %total = %current + $3
+    write -dl1  %name
+    write %name %total
+    if ($2 = honoka) {
+      var %emote = HonkHonk
+    }
+    else if ($2 = umi) {
+      var %emote = UmiLewd
+    }
+    else if ($2 = kotori) {
+      var %emote = PFK
+    }
+    else if ($2 = hanayo) {
+      var %emote = RiceLife
+    }
+    else if ($2 = rin) {
+      var %emote = RinShake
+    }
+    else if ($2 = maki) {
+      var %emote = Tomaki
+    }
+    else if ($2 = nico) {
+      var %emote = NicoMunch
+    }
+    else if ($2 = nozomi) {
+      var %emote = NozoQuag
+    }
+    else if ($2 = eli) {
+      var %emote = KKE
+    }
+    var %donatorfile = C:\Users\Alan\AppData\Roaming\mIRC\Donators\ $+ $4 $+ $2 $+ .txt
+    if ($isfile(%donatorfile)) {
+      var %current = $read(%donatorfile,0)
+      var %newtotal = %current + $3
+      write -c %donatorfile %newtotal 
+    }
+    else {
+      var %newtotal = $3
+      write %donatorfile %newtotal
+    }
+    if (%newtotal > $read(%nametop,0)) {
+      write -c %nametop %newtotal
+      write %nametop $4
+      msg # [Extra Life] %emote New highest donation of $ $+ %newtotal by $4 for Team $2 $+ ! %emote
+    }
+    msg # [Extra Life] %emote $4 has donated $ $+ $3 to Team $2 $+ ! $ $+ %total total donated! %emote
+    var %i = 0
+    while (%i < $3) {
+      write C:\Users\Alan\AppData\Roaming\mIRC\Donators\finalgiveaway.txt $4
+      inc %i
+    }
+    var %random = $rand(1,47)
+    splay -p C:\Users\Alan\AppData\Roaming\mIRC\Donators\ $+ $2 $+ _ $+ %random $+ .ogg
+  }
+  else {
+    var %directory = C:\Users\Alan\AppData\Roaming\mIRC\Donators\
+    if ($2 == Honoka) {
+      msg # [Extra Life] #TeamHonoka Total: $ $+ $read(%directory $+ teamHonoka.txt,0) $+ , Top: $read(%directory $+ teamHonokaTop.txt,1) @ $ $+ $read(%directory $+ teamHonokaTop.txt,0)
+    }
+    else if ($2 == Kotori) {
+      msg # [Extra Life] #TeamKotori Total: $ $+ $read(%directory $+ teamKotori.txt,0) $+ , Top: $read(%directory $+ teamKotoriTop.txt,1) @ $ $+ $read(%directory $+ teamKotoriTop.txt,0)
+    }
+    else if ($2 == Umi) {
+      msg # [Extra Life] #TeamUmi Total: $ $+ $read(%directory $+ teamUmi.txt,0) $+ , Top: $read(%directory $+ teamUmiTop.txt,1) @ $ $+ $read(%directory $+ teamUmiTop.txt,0)
+    }
+    else if ($2 == Maki) {
+      msg # [Extra Life] #TeamMaki Total: $ $+ $read(%directory $+ teamMaki.txt,0) $+ , Top: $read(%directory $+ teamMakiTop.txt,1) @ $ $+ $read(%directory $+ teamMakiTop.txt,0)
+    }
+    else if ($2 == Rin) {
+      msg # [Extra Life] #TeamRin Total: $ $+ $read(%directory $+ teamRin.txt,0) $+ , Top: $read(%directory $+ teamRinTop.txt,1) @ $ $+ $read(%directory $+ teamRinTop.txt,0)
+    }
+    else if ($2 == Hanayo) {
+      msg # [Extra Life] #TeamHanayo Total: $ $+ $read(%directory $+ teamHanayo.txt,0) $+ , Top: $read(%directory $+ teamHanayoTop.txt,1) @ $ $+ $read(%directory $+ teamHanayoTop.txt,0)
+    }
+    else if ($2 == Nico) {
+      msg # [Extra Life] #TeamNico Total: $ $+ $read(%directory $+ teamNico.txt,0) $+ , Top: $read(%directory $+ teamNicoTop.txt,1) @ $ $+ $read(%directory $+ teamNicoTop.txt,0)
+    }
+    else if ($2 == Nozomi) {
+      msg # [Extra Life] #TeamNozomi Total: $ $+ $read(%directory $+ teamNozomi.txt,0) $+ , Top: $read(%directory $+ teamNozomiTop.txt,1) @ $ $+ $read(%directory $+ teamNozomiTop.txt,0)
+    }
+    else if ($2 == Eli) {
+      msg # [Extra Life] #TeamEli Total: $ $+ $read(%directory $+ teamEli.txt,0) $+ , Top: $read(%directory $+ teamEliTop.txt,1) @ $ $+ $read(%directory $+ teamEliTop.txt,0)
+    }     
+  }
+}

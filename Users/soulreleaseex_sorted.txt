@@ -1,0 +1,160 @@
+0
+1
+25
+3
+[IPSR108] 'Mermaid Festa Vol.2' Honoka
+[IPSR352] 'Otomeshiki Renai Juku' Nozomi
+[IPSR447] 'Soldier Game' Umi
+[IPUR067] 'Anemone Heart' Kotori
+[IPUR068] 'Anemone Heart' Umi
+[IPUR082] 'Nawatobi' Hanayo
+[IPUR096] 'Beat in Angel' Maki
+[IPUR118] 'Nicopuri Joshidou' Nico
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[IR028] Natsu-iro Honoka
+[IR028] Natsu-iro Honoka
+[IR029] Natsu-iro Eli
+[IR030] Natsu-iro Kotori
+[IR031] Natsu-iro Umi
+[IR031] Natsu-iro Umi
+[IR033] Natsu-iro Maki
+[IR033] Natsu-iro Maki
+[IR034] Natsu-iro Nozomi
+[IR034] Natsu-iro Nozomi
+[IR035] Natsu-iro Hanayo
+[IR036] Natsu-iro Nico
+[IR038] Mogyutto Eli
+[IR039] Mogyutto Kotori
+[IR039] Mogyutto Kotori
+[IR040] Mogyutto Umi
+[IR040] Mogyutto Umi
+[IR041] Mogyutto Rin
+[IR041] Mogyutto Rin
+[IR042] Mogyutto Maki
+[IR042] Mogyutto Maki
+[IR044] Mogyutto Hanayo
+[IR044] Mogyutto Hanayo
+[IR045] Mogyutto Nico
+[IR046] Wonderful Rush Honoka
+[IR047] Wonderful Rush Eli
+[IR048] Wonderful Rush Kotori
+[IR049] Wonderful Rush Umi
+[IR051] Wonderful Rush Maki
+[IR052] Wonderful Rush Nozomi
+[IR053] Wonderful Rush Hanayo
+[IR053] Wonderful Rush Hanayo
+[IR054] Wonderful Rush Nico
+[IR284] Bokura Honoka
+[IR285] Bokura Eli
+[IR288] Bokura Rin
+[IR288] Bokura Rin
+[IR288] Bokura Rin
+[IR289] Bokura Maki
+[IR289] Bokura Maki
+[IR289] Bokura Maki
+[IR290] Bokura Nozomi
+[IR290] Bokura Nozomi
+[IR291] Bokura Hanayo
+[IR291] Bokura Hanayo
+[IR292] Bokura Nico
+[IR338] Snow Halation Rin
+[IR338] Snow Halation Rin
+[IR340] Snow Halation Nozomi
+[IR341] Snow Halation Hanayo
+[R028] Natsu-iro Honoka
+[R028] Natsu-iro Honoka
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R031] Natsu-iro Umi
+[R033] Natsu-iro Maki
+[R033] Natsu-iro Maki
+[R035] Natsu-iro Hanayo
+[R037] Mogyutto Honoka
+[R037] Mogyutto Honoka
+[R039] Mogyutto Kotori
+[R039] Mogyutto Kotori
+[R041] Mogyutto Rin
+[R041] Mogyutto Rin
+[R041] Mogyutto Rin
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R044] Mogyutto Hanayo
+[R044] Mogyutto Hanayo
+[R048] Wonderful Rush Kotori
+[R049] Wonderful Rush Umi
+[R049] Wonderful Rush Umi
+[R050] Wonderful Rush Rin
+[R051] Wonderful Rush Maki
+[R052] Wonderful Rush Nozomi
+[R052] Wonderful Rush Nozomi
+[R052] Wonderful Rush Nozomi
+[R052] Wonderful Rush Nozomi
+[R053] Wonderful Rush Hanayo
+[R053] Wonderful Rush Hanayo
+[R054] Wonderful Rush Nico
+[R083] Alpaca
+[R284] Bokura Honoka
+[R286] Bokura Kotori
+[R286] Bokura Kotori
+[R287] Bokura Umi
+[R287] Bokura Umi
+[R287] Bokura Umi
+[R289] Bokura Maki
+[R290] Bokura Nozomi
+[R334] Snow Halation Honoka
+[R336] Snow Halation Kotori
+[R337] Snow Halation Umi
+[R338] Snow Halation Rin
+[R338] Snow Halation Rin
+[R338] Snow Halation Rin
+[R340] Snow Halation Nozomi
+[R341] Snow Halation Hanayo
+[R342] Snow Halation Nico
+[SR058] 'Mental Concentration' Umi
+[SR060] 'After School Songstress' Maki
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR063] 'Nico Nico Smile' Nico
+[SR072] 'Destined Card' Nozomi
+[SR077] 'The Secret Examination Room' Maki
+[SR093] 'Whimsical Kitten' Rin
+[SR093] 'Whimsical Kitten' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR104] 'Feigning Sleep' Nozomi
+[SR107] 'I'll Eat You Up' Honoka
+[SR107] 'I'll Eat You Up' Honoka
+[SR124] 'Today is Umi's Day' Umi
+[SR125] 'Summer Sunset Girl' Rin
+[SR153] 'Visiting the Stalls' Hanayo
+[SR170] 'First Place Smile' Maki
+[SR179] 'Family-Oriented Idol' Nico
+[SR189] 'Homura's Poster Girl' Honoka
+[SR189] 'Homura's Poster Girl' Honoka
+[SR189] 'Homura's Poster Girl' Honoka
+[SR189] 'Homura's Poster Girl' Honoka
+[SR193] 'Christmas Bell' Rin
+[SR193] 'Christmas Bell' Rin
+[SR195] 'A Good Girl on Christmas' Nico
+[SR198] 'Fairy of the Rink' Hanayo
+[SR198] 'Fairy of the Rink' Hanayo
+[SR206] 'On a Snowy Night' Umi
+[SR206] 'On a Snowy Night' Umi
+[SR206] 'On a Snowy Night' Umi
+[SR211] 'Great Luck This Year!' Rin
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR224] 'Making a Prayer' Nozomi
+[SR246] 'Secret Feelings' Umi
+[SR259] 'Demons In' Maki
+[SR264] 'A New Wind' Nozomi
+[SR274] 'Beautiful Birds' Kotori
+[SR278] 'Sweet Ramen' Rin
+[SR324] 'Let's Take It Slowly!' Honoka
+[SR326] 'Snuggling Pose' Umi
+[SR326] 'Snuggling Pose' Umi
+[SR327] 'Ladylike' Rin
+[SR343] 'Kotori Design' Kotori
+[SR355] 'Friends from the Sea' Umi
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[UR222] 'Happy New Year' Honoka
+[UR257] 'Maki's Secret' Maki
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR330] 'Simple Dress' Eli

@@ -1,0 +1,69 @@
+3
+3
+12
+0
+[R041] Mogyutto Rin
+[SR194] 'Christmas Carol' Maki
+[IPUR138] 'Garasu no Hanazono' Eli
+[SR267] 'What Girls Love' Nico
+[IPUR068] 'Anemone Heart' Umi
+[IPSR307] 'Mermaid Festa Vol.2' Rin
+[SR369] 'Summer Water Girl' Kotori
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[SR294] 'Natural Blessing' Nozomi
+[R028] Natsu-iro Honoka
+[R043] Mogyutto Nozomi
+[SR100] 'I'll Teach You' Nico
+[R051] Wonderful Rush Maki
+[IR338] Snow Halation Rin
+[R289] Bokura Maki
+[R337] Snow Halation Umi
+[UR165] 'A Cheer for You' Honoka
+[IR030] Natsu-iro Kotori
+[SR206] 'On a Snowy Night' Umi
+[IPSR351] 'Soldier Game' Eli
+[R040] Mogyutto Umi
+[R052] Wonderful Rush Nozomi
+[SR185] 'Handmade Ramen' Rin
+[IR292] Bokura Nico
+[R286] Bokura Kotori
+[R048] Wonderful Rush Kotori
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR278] 'Sweet Ramen' Rin
+[SR277] 'Lots of Sweetness' Kotori
+[SR354] 'Swaying Dance' Honoka
+[IR050] Wonderful Rush Rin
+[R292] Bokura Nico
+[UR066] 'Devilish Girl' Nico
+[R285] Bokura Eli
+[R044] Mogyutto Hanayo
+[R033] Natsu-iro Maki
+[IPUR095] 'Beat in Angel' Rin
+[R054] Wonderful Rush Nico
+[R036] Natsu-iro Nico
+[SR153] 'Visiting the Stalls' Hanayo
+[R030] Natsu-iro Kotori
+[R031] Natsu-iro Umi
+[R045] Mogyutto Nico
+[IR037] Mogyutto Honoka
+[IR029] Natsu-iro Eli
+[R335] Snow Halation Eli
+[SR133] 'Princess on the Shore' Hanayo
+[ISR279] 'Leave It to Me!' Hanayo
+[UR408] 'A Serving of Parfait!' Rin
+[SR179] 'Family-Oriented Idol' Nico
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[R051] Wonderful Rush Maki
+[SR319] 'Gooey Cheese' Honoka
+[SR395] 'Made to Order' Maki
+[SR099] 'You're My Next Prey' Maki
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[R292] Bokura Nico
+[R045] Mogyutto Nico
+[SR071] 'Heart of Flames' Honoka
+[SR078] 'Here's Your Order' Hanayo
+[SR261] 'Sunny Power' Honoka
+[SR221] 'Mochi and Rice' Hanayo
+[R340] Snow Halation Nozomi

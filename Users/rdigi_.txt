@@ -1,0 +1,35 @@
+3
+0
+42
+0
+[SR162] 'The Capable Manager' Umi
+[UR073] 'Love Arrow Shoot!' Umi
+[R043] Mogyutto Nozomi
+[R286] Bokura Kotori
+[R033] Natsu-iro Maki
+[R032] Natsu-iro Rin
+[UR250] 'Super Rare Chocolate' Nico
+[SR213] 'A Fuku Musume is Here' Nico
+[SR177] 'Specially Made Borscht' Eli
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR246] 'Secret Feelings' Umi
+[SR264] 'A New Wind' Nozomi
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR100] 'I'll Teach You' Nico
+[SR184] 'Giving Thanks to the Food' Umi
+[R028] Natsu-iro Honoka
+[R034] Natsu-iro Nozomi
+[SR060] 'After School Songstress' Maki
+[R054] Wonderful Rush Nico
+[R028] Natsu-iro Honoka
+[SR056] 'Harasho' Eli
+[UR066] 'Devilish Girl' Nico
+[SR179] 'Family-Oriented Idol' Nico
+[UR203] 'Your Santa' Nozomi
+[SR219] 'Secret New Year's Money' Eli
+[SR259] 'Demons In' Maki
+[SR213] 'A Fuku Musume is Here' Nico
+[SR125] 'Summer Sunset Girl' Rin
+[SR345] 'My First Dress' Hanayo
+[SR212] 'New Year's Fortune Nozomi

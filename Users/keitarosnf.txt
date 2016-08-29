@@ -1,0 +1,106 @@
+5
+4
+0
+5
+[R335] Snow Halation Eli
+[SR328] 'Dreamy Bride' Nozomi
+[R286] Bokura Kotori
+[SR170] 'First Place Smile' Maki
+[SR245] 'Animals Galore' Honoka
+[SR171] 'Nico Nico Support' Nico
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[UR214] 'Happy New Year' Umi
+[SR271] 'Challenger Nico' Nico
+[SR262] 'Otonokizaka's Big Sister' Eli
+[IR029] Natsu-iro Eli
+[UR155] 'Evening Breeze Girl' Kotori
+[ISR162] 'The Capable Manager' Umi
+[R033] Natsu-iro Maki
+[R288] Bokura Rin
+[SR267] 'What Girls Love' Nico
+[SR059] 'The Energy of mu's' Rin
+[UR079] 'Stage of Smiles' Honoka
+[IR049] Wonderful Rush Umi
+[SR263] 'Season of Melting Snow' Umi
+[IR040] Mogyutto Umi
+[ISR314] 'The Maiden in the Tower' Nozomi
+[R434] Korekara no Someday Rin
+[R029] Natsu-iro Eli
+[R039] Mogyutto Kotori
+[R031] Natsu-iro Umi
+[SR395] 'Made to Order' Maki
+[R046] Wonderful Rush Honoka
+[R433] Korekara no Someday Umi
+[IR431] Korekara no Someday Eli
+[SR103] 'Eli's Confessional' Eli
+[UR415] 'Classic Maid' Umi
+[R043] Mogyutto Nozomi
+[IR052] Wonderful Rush Nozomi
+[R285] Bokura Eli
+[SR439] 'You're Getting a Trick' Eli
+[SR246] 'Secret Feelings' Umi
+[IR028] Natsu-iro Honoka
+[IR054] Wonderful Rush Nico
+[IR436] Korekara no Someday Nozomi
+[R337] Snow Halation Umi
+[R291] Bokura Hanayo
+[IR342] Snow Halation Nico
+[UR315] 'A Small Princess' Kotori
+[R037] Mogyutto Honoka
+[R437] Korekara no Someday Hanayo
+[R054] Wonderful Rush Nico
+[R292] Bokura Nico
+[R287] Bokura Umi
+[IR050] Wonderful Rush Rin
+[IR051] Wonderful Rush Maki
+[IR292] Bokura Nico
+[IR035] Natsu-iro Hanayo
+[IR047] Wonderful Rush Eli
+[R030] Natsu-iro Kotori
+[R435] Korekara no Someday Maki
+[R338] Snow Halation Rin
+[R032] Natsu-iro Rin
+[R051] Wonderful Rush Maki
+[R036] Natsu-iro Nico
+[SR163] 'Victory Charm' Nozomi
+[SR269] 'Kotori's Pillow' Kotori
+[SR211] 'Great Luck This Year!' Rin
+[UR165] 'A Cheer for You' Honoka
+[SR332] 'A Big Puddle' Rin
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR369] 'Summer Water Girl' Kotori
+[SR072] 'Destined Card' Nozomi
+[UR180] 'Soothing Menu' Hanayo
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[SR455] 'I'm Touched!' Hanayo
+[SR195] 'A Good Girl on Christmas' Nico
+[IR036] Natsu-iro Nico
+[IR053] Wonderful Rush Hanayo
+[IR290] Bokura Nozomi
+[IPUR068] 'Anemone Heart' Umi
+[R336] Snow Halation Kotori
+[R049] Wonderful Rush Umi
+[R047] Wonderful Rush Eli
+[R430] Korekara no Someday Honoka
+[SR345] 'My First Dress' Hanayo
+[R040] Mogyutto Umi
+[R339] Snow Halation Maki
+[R433] Korekara no Someday Umi
+[R433] Korekara no Someday Umi
+[R341] Snow Halation Hanayo
+[SR424] 'A Halloween of Hiding Embarrassment' Maki
+[SR452] 'Together with Everyone...' Honoka
+[R038] Mogyutto Eli
+[R031] Natsu-iro Umi
+[SR326] 'Snuggling Pose' Umi
+[R028] Natsu-iro Honoka
+[R338] Snow Halation Rin
+[R037] Mogyutto Honoka
+[R031] Natsu-iro Umi
+[R042] Mogyutto Maki
+[R038] Mogyutto Eli
+[R437] Korekara no Someday Hanayo
+[UR066] 'Devilish Girl' Nico
+[SR422] 'Let's Play Until the End!' Honoka
+[SR150] 'Breast Rub' Nozomi
+[SR405] 'Picture Pancakes' Maki

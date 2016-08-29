@@ -1,0 +1,86 @@
+3
+1
+25
+0
+[R042] Mogyutto Maki
+[SR056] 'Harasho' Eli
+[R031] Natsu-iro Umi
+[R046] Wonderful Rush Honoka
+[R047] Wonderful Rush Eli
+[R052] Wonderful Rush Nozomi
+[R040] Mogyutto Umi
+[R033] Natsu-iro Maki
+[SR078] 'Here's Your Order' Hanayo
+[SR123] 'Charming Mermaid' Eli
+[R043] Mogyutto Nozomi
+[R053] Wonderful Rush Hanayo
+[SR100] 'I'll Teach You' Nico
+[R030] Natsu-iro Kotori
+[R035] Natsu-iro Hanayo
+[R030] Natsu-iro Kotori
+[IR54] Wonderful Rush Nico
+[R042] Mogyutto Maki
+[R053] Wonderful Rush Hanayo
+[R038] Mogyutto Eli
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[SR057] 'Soothing Goddess' Kotori
+[R048] Wonderful Rush Kotori
+[UR155] 'Evening Breeze Girl' Kotori
+[R054] Wonderful Rush Nico
+[R033] Natsu-iro Maki
+[R048] Wonderful Rush Kotori
+[R043] Mogyutto Nozomi
+[R083] Alpaca
+[R382] Alpaca
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R288] Bokura Rin
+[R047] Wonderful Rush Eli
+[R034] Natsu-iro Nozomi
+[SR133] 'Princess on the Shore' Hanayo
+[SR195] 'A Good Girl on Christmas' Nico
+[SR170] 'First Place Smile' Maki
+[R050] Wonderful Rush Rin
+[SR308] 'Rice and Miso Soup' Hanayo
+[R048] Wonderful Rush Kotori
+[IPUR095] 'Beat in Angel' Rin
+[SR206] 'On a Snowy Night' Umi
+[R052] Wonderful Rush Nozomi
+[R289] Bokura Maki
+[SR366] 'Mermaid Idol' Hanayo
+[SR252] 'Winter Memories' Rin
+[ISR256] 'Happy Valentine's' Nozomi
+[SR202] 'Christmas Feast' Hanayo
+[SR150] 'Breast Rub' Nozomi
+[SR350] 'Time Together With You' Eli
+[R284] Bokura Honoka
+[UR257] 'Maki's Secret' Maki
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR328] 'Dreamy Bride' Nozomi
+[SR169] 'Angelic Whistle' Kotori
+[IUR214] 'Happy New Year' Umi
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR322] 'Little Onigiri!' Hanayo
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR157] 'Let's Go Moon Viewing, Meow!' Rin
+[SR295] 'Sweets Idol' Nico
+[R049] Wonderful Rush Umi
+[UR315] 'A Small Princess' Kotori
+[R028] Natsu-iro Honoka
+[SR072] 'Destined Card' Nozomi
+[SR132] 'Songstress of the Beach' Maki
+[SR184] 'Giving Thanks to the Food' Umi
+[SR153] 'Visiting the Stalls' Hanayo
+[SR246] 'Secret Feelings' Umi
+[SR394] 'I Want to Give You a Smile' Umi
+[SR154] 'Summer Memories' Nico
+[UR214] 'Happy New Year' Umi
+[SR192] 'Silent Night' Umi
+[SR326] 'Snuggling Pose' Umi
+[IPSR309] 'Kokuhaku Biyori, desu!' Hanayo
+[SR405] 'Picture Pancakes' Maki
+[SR141] 'Summer Festival with Everyone' Honoka
+[IUR101] 'Destined Partner Nozomi
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR075] 'A Sheep's Feelings' Kotori
+[SR374] 'Thanks to the World' Honoka

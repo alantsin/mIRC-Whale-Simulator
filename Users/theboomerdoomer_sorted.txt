@@ -1,0 +1,76 @@
+0
+0
+13
+2
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[IPUR138] 'Garasu no Hanazono' Eli
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[IR028] Natsu-iro Honoka
+[IR035] Natsu-iro Hanayo
+[IR051] Wonderful Rush Maki
+[IR053] Wonderful Rush Hanayo
+[ISR122] 'The Beach's Sun' Honoka
+[ISR193] 'Christmas Bell' Rin
+[ISR345] 'My First Dress' Hanayo
+[R031] Natsu-iro Umi
+[R031] Natsu-iro Umi
+[R032] Natsu-iro Rin
+[R033] Natsu-iro Maki
+[R035] Natsu-iro Hanayo
+[R039] Mogyutto Kotori
+[R039] Mogyutto Kotori
+[R040] Mogyutto Umi
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R045] Mogyutto Nico
+[R047] Wonderful Rush Eli
+[R048] Wonderful Rush Kotori
+[R050] Wonderful Rush Rin
+[R050] Wonderful Rush Rin
+[R284] Bokura Honoka
+[R285] Bokura Eli
+[R340] Snow Halation Nozomi
+[R341] Snow Halation Hanayo
+[R342] Snow Halation Nico
+[SR057] 'Soothing Goddess' Kotori
+[SR057] 'Soothing Goddess' Kotori
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR086] 'Love Bind' Umi
+[SR100] 'I'll Teach You' Nico
+[SR103] 'Eli's Confessional' Eli
+[SR123] 'Charming Mermaid' Eli
+[SR125] 'Summer Sunset Girl' Rin
+[SR129] 'The Fox's Wedding' Eli
+[SR131] 'Sweet Marine Girl' Kotori
+[SR133] 'Princess on the Shore' Hanayo
+[SR200] 'Candle Night' Honoka
+[SR211] 'Great Luck This Year!' Rin
+[SR221] 'Mochi and Rice' Hanayo
+[SR245] 'Animals Galore' Honoka
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR274] 'Beautiful Birds' Kotori
+[SR279] 'Leave It to Me!' Hanayo
+[SR295] 'Sweets Idol' Nico
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR312] 'Magic Lamp' Rin
+[SR313] 'Kiss of Awakening' Maki
+[SR327] 'Ladylike' Rin
+[SR329] 'Popular Model Nico' Nico
+[SR345] 'My First Dress' Hanayo
+[SR356] 'A Real Mermaid' Rin
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR366] 'Mermaid Idol' Hanayo
+[SR404] 'Look at the Back Too' Kotori
+[SR405] 'Picture Pancakes' Maki
+[SR413] 'Loosened Ribbon' Eli
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR094] 'I Will Take Your Heart' Eli
+[UR187] 'Secret Home Cooking' Maki
+[UR250] 'Super Rare Chocolate' Nico
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[UR280] 'Together with Alisa' Eli
+[UR296] 'The Power of Sweetness' Umi
+[UR408] 'A Serving of Parfait!' Rin

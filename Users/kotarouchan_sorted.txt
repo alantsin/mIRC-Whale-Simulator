@@ -1,0 +1,28 @@
+0
+1
+8
+[IPUR95] 'Beat in Angel' Rin
+[IR54] Wonderful Rush Nico
+[IUR250] 'Super Rare Chocolate' Nico
+[R285] Bokura Eli
+[R30] Natsu-iro Kotori
+[R39] Mogyutto Kotori
+[R41] Mogyutto Rin
+[R41] Mogyutto Rin
+[SR144] 'Festival Girl' Nozomi
+[SR161] 'Good Work!' Eli
+[SR162] 'The Capable Manager' Umi
+[SR195] 'A Good Girl on Christmas' Nico
+[SR198] 'Fairy of the Rink' Hanayo
+[SR213] 'A Fuku Musume is Here' Nico
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR267] 'What Girls Love' Nico
+[SR324] 'Let's Take It Slowly!' Honoka
+[SR62] 'Freshly Cooked Rice' Hanayo
+[SR71] 'Heart of Flames' Honoka
+[UR101] 'Destined Partner' Nozomi
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR203] 'Your Santa' Nozomi
+[UR257] 'Maki's Secret' Maki
+[UR88] 'An Angel's Singing Voice' Kotori

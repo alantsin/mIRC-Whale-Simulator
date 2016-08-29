@@ -1,0 +1,99 @@
+3
+2
+20
+0
+[R040] Mogyutto Umi
+[SR200] 'Candle Night' Honoka
+[R029] Natsu-iro Eli
+[R048] Wonderful Rush Kotori
+[R032] Natsu-iro Rin
+[SR201] 'White Christmas' Kotori
+[R286] Bokura Kotori
+[R054] Wonderful Rush Nico
+[R031] Natsu-iro Umi
+[R053] Wonderful Rush Hanayo
+[SR276] 'I'm Really Happy!' Honoka
+[R284] Bokura Honoka
+[R290] Bokura Nozomi
+[IR284] Bokura Honoka
+[R047] Wonderful Rush Eli
+[SR217] 'Home-Cooked New Year's Food' Nico
+[IPUR068] 'Anemone Heart' Umi
+[SR170] 'First Place Smile' Maki
+[R035] Natsu-iro Hanayo
+[R031] Natsu-iro Umi
+[SR125] 'Summer Sunset Girl' Rin
+[R035] Natsu-iro Hanayo
+[IPUR138] 'Garasu no Hanazono' Eli
+[IPUR067] 'Anemone Heart' Kotori
+[SR177] 'Specially Made Borscht' Eli
+[R040] Mogyutto Umi
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[R036] Natsu-iro Nico
+[R051] Wonderful Rush Maki
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR100] 'I'll Teach You' Nico
+[SR254] 'A Piece of Chocolate' Eli
+[SR271] 'Challenger Nico' Nico
+[R039] Mogyutto Kotori
+[R287] Bokura Umi
+[R054] Wonderful Rush Nico
+[IPUR118] 'Nicopuri Joshidou' Nico
+[R045] Mogyutto Nico
+[R037] Mogyutto Honoka
+[SR262] 'Otonokizaka's Big Sister' Eli
+[UR315] 'A Small Princess' Kotori
+[SR321] 'No Eating Me' Nico
+[UR126] 'The Melody of Our Vow' Maki
+[SR124] 'Today is Umi's Day' Umi
+[SR184] 'Giving Thanks to the Food' Umi
+[R030] Natsu-iro Kotori
+[R031] Natsu-iro Umi
+[R287] Bokura Umi
+[SR153] 'Visiting the Stalls' Hanayo
+[R292] Bokura Nico
+[R046] Wonderful Rush Honoka
+[R053] Wonderful Rush Hanayo
+[R038] Mogyutto Eli
+[SR072] 'Destined Card' Nozomi
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[R040] Mogyutto Umi
+[R290] Bokura Nozomi
+[R338] Snow Halation Rin
+[UR196] 'My Present to You' Eli
+[IPUR096] 'Beat in Angel' Maki
+[R341] Snow Halation Hanayo
+[R286] Bokura Kotori
+[UR346] 'Until That Day Comes' Honoka
+[UR280] 'Together with Alisa' Eli
+[R336] Snow Halation Kotori
+[R292] Bokura Nico
+[R034] Natsu-iro Nozomi
+[R052] Wonderful Rush Nozomi
+[SR313] 'Kiss of Awakening' Maki
+[UR378] 'Pleasant Dreams' Kotori
+[SR279] 'Leave It to Me!' Hanayo
+[SR256] 'Happy Valentine's' Nozomi
+[R034] Natsu-iro Nozomi
+[R049] Wonderful Rush Umi
+[SR056] 'Harasho' Eli
+[SR294] 'Natural Blessing' Nozomi
+[SR103] 'Eli's Confessional' Eli
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR320] 'Even After the Spell's Worn Off' Eli
+[UR203] 'Your Santa' Nozomi
+[SR394] 'I Want to Give You a Smile' Umi
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[ISR071] 'Heart of Flames' Honoka
+[ISR123] 'Charming Mermaid' Eli
+[ISR246] 'Secret Feelings' Umi
+[ISR264] 'A New Wind' Nozomi
+[SR357] 'I'll Charm You' Nico
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[UR330] 'Simple Dress' Eli
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR078] 'Here's Your Order' Hanayo
+[SR136] 'Mysterious Sympathy' Hanayo
+[UR165] 'A Cheer for You' Honoka
+[R437] Korekara no Someday Hanayo
+[IPUR082] 'Nawatobi' Hanayo

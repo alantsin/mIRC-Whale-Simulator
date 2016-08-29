@@ -1,0 +1,68 @@
+0
+4
+0
+0
+[R335] Snow Halation Eli
+[SR125] 'Summer Sunset Girl' Rin
+[R035] Natsu-iro Hanayo
+[R036] Natsu-iro Nico
+[IR051] Wonderful Rush Maki
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[IR050] Wonderful Rush Rin
+[R030] Natsu-iro Kotori
+[SR356] 'A Real Mermaid' Rin
+[R285] Bokura Eli
+[IR054] Wonderful Rush Nico
+[SR453] 'Letting My Singing Voice Resound' Kotori
+[SR312] 'Magic Lamp' Rin
+[R340] Snow Halation Nozomi
+[R034] Natsu-iro Nozomi
+[IR290] Bokura Nozomi
+[R433] Korekara no Someday Umi
+[R337] Snow Halation Umi
+[SR061] 'Spiritual Power' Nozomi
+[SR399] 'I Hate Ghosts!' Maki
+[IR046] Wonderful Rush Honoka
+[IR334] Snow Halation Honoka
+[R050] Wonderful Rush Rin
+[IPUR118] 'Nicopuri Joshidou' Nico
+[R032] Natsu-iro Rin
+[SR278] 'Sweet Ramen' Rin
+[R049] Wonderful Rush Umi
+[UR408] 'A Serving of Parfait!' Rin
+[UR358] 'My Present Happiness' Maki
+[IR038] Mogyutto Eli
+[IR287] Bokura Umi
+[IR430] Korekara no Someday Honoka
+[R287] Bokura Umi
+[R339] Snow Halation Maki
+[IR028] Natsu-iro Honoka
+[SR276] 'I'm Really Happy!' Honoka
+[SR185] 'Handmade Ramen' Rin
+[R289] Bokura Maki
+[R046] Wonderful Rush Honoka
+[IR291] Bokura Hanayo
+[IR341] Snow Halation Hanayo
+[IR286] Bokura Kotori
+[IR043] Mogyutto Nozomi
+[R437] Korekara no Someday Hanayo
+[IR284] Bokura Honoka
+[SR294] 'Natural Blessing' Nozomi
+[SR056] 'Harasho' Eli
+[SR329] 'Popular Model Nico' Nico
+[R288] Bokura Rin
+[IR031] Natsu-iro Umi
+[R047] Wonderful Rush Eli
+[IR042] Mogyutto Maki
+[SR357] 'I'll Charm You' Nico
+[IR342] Snow Halation Nico
+[IR033] Natsu-iro Maki
+[IR037] Mogyutto Honoka
+[R052] Wonderful Rush Nozomi
+[SR410] 'Festival Happi Coats' Honoka
+[SR193] 'Christmas Bell' Rin
+[UR079] 'Stage of Smiles' Honoka
+[IR041] Mogyutto Rin
+[R438] Korekara no Someday Nico
+[R037] Mogyutto Honoka

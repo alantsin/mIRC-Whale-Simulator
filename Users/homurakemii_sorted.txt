@@ -1,0 +1,36 @@
+0
+8
+8
+[IPUR096] 'Beat in Angel' Maki
+[IR286] Bokura Kotori
+[IUR064] 'An Idol's Feelings' Hanayo
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R035] Natsu-iro Hanayo
+[R043] Mogyutto Nozomi
+[R047] Wonderful Rush Eli
+[R052] Wonderful Rush Nozomi
+[R053] Wonderful Rush Hanayo
+[R284] Bokura Honoka
+[R284] Bokura Honoka
+[R289] Bokura Maki
+[R290] Bokura Nozomi
+[R336] Snow Halation Kotori
+[SR081] 'White Bunny of Fortune' Umi
+[SR087] 'Take a Look at Rin, Meow' Rin
+[SR107] 'I'll Eat You Up' Honoka
+[SR107] 'I'll Eat You Up' Honoka
+[SR107] 'I'll Eat You Up' Honoka
+[SR184] 'Giving Thanks to the Food' Umi
+[SR194] 'Christmas Carol' Maki
+[SR259] 'Demons In' Maki
+[SR277] 'Lots of Sweetness' Kotori
+[SR279] 'Leave It to Me!' Hanayo
+[SR308] 'Rice and Miso Soup' Hanayo
+[SR313] 'Kiss of Awakening' Maki
+[SR324] 'Let's Take It Slowly!' Honoka
+[UR094] 'I Will Take Your Heart' Eli
+[UR222] 'Happy New Year' Honoka
+[UR296] 'The Power of Sweetness' Umi
+[UR322] 'Little Onigiri!' Hanayo
+[UR330] 'Simple Dress' Eli

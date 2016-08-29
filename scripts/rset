@@ -1,0 +1,502 @@
+alias newperson {
+  msg # You seem to be new, $nick $+ . Type "!scout" to start your Whale Simulator experience!
+}
+
+on *:TEXT:!rset1:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET1] isin %currentline) {
+        msg # [RSET1] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR028]
+        }
+        else if (%total = 1) {
+          var %card = [IR029]
+        }
+        else if (%total = 2) {
+          var %card = [IR030]
+        }
+        else if (%total = 3) {
+          var %card = [IR031]
+        }
+        else if (%total = 4) {
+          var %card = [IR032]
+        }
+        else if (%total = 5) {
+          var %card = [IR033]
+        }
+        else if (%total = 6) {
+          var %card = [IR034]
+        }
+        else if (%total = 7) {
+          var %card = [IR035]
+        }
+        else if (%total = 8) {
+          var %card = [IR036]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET1] Natsu-iro Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET1] $nick has completed the Natsu-iro set! 3 vouchers and [RSET1] added to your account.
+      }
+      else {
+        msg # [RSET1] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+
+on *:TEXT:!rset2:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET2] isin %currentline) {
+        msg # [RSET2] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR037]
+        }
+        else if (%total = 1) {
+          var %card = [IR038]
+        }
+        else if (%total = 2) {
+          var %card = [IR039]
+        }
+        else if (%total = 3) {
+          var %card = [IR040]
+        }
+        else if (%total = 4) {
+          var %card = [IR041]
+        }
+        else if (%total = 5) {
+          var %card = [IR042]
+        }
+        else if (%total = 6) {
+          var %card = [IR043]
+        }
+        else if (%total = 7) {
+          var %card = [IR044]
+        }
+        else if (%total = 8) {
+          var %card = [IR045]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET2] Mogyutto Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET2] $nick has completed the Mogyutto set! 3 vouchers and [RSET2] added to your account.
+      }
+      else {
+        msg # [RSET2] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!rset3:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET3] isin %currentline) {
+        msg # [RSET3] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR046]
+        }
+        else if (%total = 1) {
+          var %card = [IR047]
+        }
+        else if (%total = 2) {
+          var %card = [IR048]
+        }
+        else if (%total = 3) {
+          var %card = [IR049]
+        }
+        else if (%total = 4) {
+          var %card = [IR050]
+        }
+        else if (%total = 5) {
+          var %card = [IR051]
+        }
+        else if (%total = 6) {
+          var %card = [IR052]
+        }
+        else if (%total = 7) {
+          var %card = [IR053]
+        }
+        else if (%total = 8) {
+          var %card = [IR054]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET3] Wonderful Rush Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET3] $nick has completed the Wonderful Rush set! 3 vouchers and [RSET3] added to your account.
+      }
+      else {
+        msg # [RSET3] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!rset4:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET4] isin %currentline) {
+        msg # [RSET4] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR284]
+        }
+        else if (%total = 1) {
+          var %card = [IR285]
+        }
+        else if (%total = 2) {
+          var %card = [IR286]
+        }
+        else if (%total = 3) {
+          var %card = [IR287]
+        }
+        else if (%total = 4) {
+          var %card = [IR288]
+        }
+        else if (%total = 5) {
+          var %card = [IR289]
+        }
+        else if (%total = 6) {
+          var %card = [IR290]
+        }
+        else if (%total = 7) {
+          var %card = [IR291]
+        }
+        else if (%total = 8) {
+          var %card = [IR292]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET4] Bokura wa Ima no Naka de Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET4] $nick has completed the Bokura set! 3 vouchers and [RSET4] added to your account.
+      }
+      else {
+        msg # [RSET4] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!rset5:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET5] isin %currentline) {
+        msg # [RSET5] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR334]
+        }
+        else if (%total = 1) {
+          var %card = [IR335]
+        }
+        else if (%total = 2) {
+          var %card = [IR336]
+        }
+        else if (%total = 3) {
+          var %card = [IR337]
+        }
+        else if (%total = 4) {
+          var %card = [IR338]
+        }
+        else if (%total = 5) {
+          var %card = [IR339]
+        }
+        else if (%total = 6) {
+          var %card = [IR340]
+        }
+        else if (%total = 7) {
+          var %card = [IR341]
+        }
+        else if (%total = 8) {
+          var %card = [IR342]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET5] Snow Halation Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET5] $nick has completed the Snow Halation set! 3 vouchers and [RSET5] added to your account.
+      }
+      else {
+        msg # [RSET5] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!rset6:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %continue = 1
+    var %total = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ([RSET6] isin %currentline) {
+        msg # [RSET6] $nick already owns this set.
+        var %continue = 0
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      var %total = 0
+      var %i = 3
+    }
+    if (%continue = 1) {
+      while (%total < 9) {
+        if (%total = 0) {
+          var %card = [IR430]
+        }
+        else if (%total = 1) {
+          var %card = [IR431]
+        }
+        else if (%total = 2) {
+          var %card = [IR432]
+        }
+        else if (%total = 3) {
+          var %card = [IR433]
+        }
+        else if (%total = 4) {
+          var %card = [IR434]
+        }
+        else if (%total = 5) {
+          var %card = [IR435]
+        }
+        else if (%total = 6) {
+          var %card = [IR436]
+        }
+        else if (%total = 7) {
+          var %card = [IR437]
+        }
+        else if (%total = 8) {
+          var %card = [IR438]
+        }
+        while (%i < %idolcount) {
+          var %currentline = $read($nick $+ .txt, %i)
+          if (%card isin %currentline) {
+            inc %total
+            var %i = 3
+            break
+          }
+          else {
+            inc %i
+          }
+        }
+        if (%i >= %idolcount) {
+          break
+        }
+      }
+      if (%total >= 9) {
+        write $nick $+ .txt [RSET6] Korekara no Someday Set
+        var %vouchercount = $read($nick $+ .txt, 2)
+        var %vouchercount = %vouchercount + 3
+        write -dl3 $nick $+ .txt
+        write -il3 $nick $+ .txt %vouchercount
+        msg # [RSET6] $nick has completed the Korekara no Someday set! 3 vouchers and [RSET6] added to your account.
+      }
+      else {
+        msg # [RSET6] $nick is missing 1 or more idolized members of this set.
+      }
+    }
+  }
+  else {
+    newperson
+  }
+}

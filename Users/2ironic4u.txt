@@ -1,0 +1,53 @@
+2
+6
+15
+0
+[SR131] 'Sweet Marine Girl' Kotori
+[IPSR309] 'Kokuhaku Biyori, desu!' Hanayo
+[IR049] Wonderful Rush Umi
+[R336] Snow Halation Kotori
+[R053] Wonderful Rush Hanayo
+[R032] Natsu-iro Rin
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[SR212] 'New Year's Fortune Nozomi
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR090] 'Nico Is Popular' Nico
+[IR038] Mogyutto Eli
+[R043] Mogyutto Nozomi
+[SR365] 'Colorful Scales' Kotori
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR221] 'Mochi and Rice' Hanayo
+[SR058] 'Mental Concentration' Umi
+[IR044] Mogyutto Hanayo
+[R334] Snow Halation Honoka
+[R036] Natsu-iro Nico
+[R052] Wonderful Rush Nozomi
+[SR217] 'Home-Cooked New Year's Food' Nico
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[IR047] Wonderful Rush Eli
+[SR211] 'Great Luck This Year!' Rin
+[ISR075] 'A Sheep's Feelings' Kotori
+[IR284] Bokura Honoka
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR165] 'A Cheer for You' Honoka
+[SR125] 'Summer Sunset Girl' Rin
+[ISR313] 'Kiss of Awakening' Maki
+[R050] Wonderful Rush Rin
+[R289] Bokura Maki
+[SR295] 'Sweets Idol' Nico
+[SR087] 'Take a Look at Rin, Meow' Rin
+[R040] Mogyutto Umi
+[R041] Mogyutto Rin
+[IR049] Wonderful Rush Umi
+[SR213] 'A Fuku Musume is Here' Nico
+[R284] Bokura Honoka
+[ISR063] 'Nico Nico Smile' Nico
+[R029] Natsu-iro Eli
+[R047] Wonderful Rush Eli
+[IR290] Bokura Nozomi
+[UR180] 'Soothing Menu' Hanayo
+[R290] Bokura Nozomi
+[SR394] 'I Want to Give You a Smile' Umi
+[SR355] 'Friends from the Sea' Umi
+[SR200] 'Candle Night' Honoka

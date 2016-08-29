@@ -1,0 +1,24 @@
+0
+13
+6
+[IR47] Wonderful Rush Eli
+[R286] Bokura Kotori
+[R31] Natsu-iro Umi
+[R32] Natsu-iro Rin
+[R34] Natsu-iro Nozomi
+[R38] Mogyutto Eli
+[R43] Mogyutto Nozomi
+[R46] Wonderful Rush Honoka
+[R53] Wonderful Rush Hanayo
+[R53] Wonderful Rush Hanayo
+[SR100] 'I'll Teach You' Nico
+[SR132] 'Songstress of the Beach' Maki
+[SR179] 'Family-Oriented Idol' Nico
+[SR213] 'A Fuku Musume is Here' Nico
+[SR219] 'Secret New Year's Money' Eli
+[SR254] 'A Piece of Chocolate' Eli
+[SR264] 'A New Wind' Nozomi
+[SR56] 'Harasho' Eli
+[SR63] 'Nico Nico Smile' Nico
+[SR77] 'The Secret Examination Room' Maki
+[UR203] 'Your Santa' Nozomi

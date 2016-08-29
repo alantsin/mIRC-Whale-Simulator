@@ -1,0 +1,23 @@
+0
+2
+2
+4
+[ISR072] 'Destined Card' Nozomi
+[ISR122] 'The Beach's Sun' Honoka
+[R043] Mogyutto Nozomi
+[R046] Wonderful Rush Honoka
+[R053] Wonderful Rush Hanayo
+[R340] Snow Halation Nozomi
+[R341] Snow Halation Hanayo
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR099] 'You're My Next Prey' Maki
+[SR123] 'Charming Mermaid' Eli
+[SR261] 'Sunny Power' Honoka
+[SR317] 'Gallant Maiden' Umi
+[SR319] 'Gooey Cheese' Honoka
+[SR344] 'Party With a Chaperone' Maki
+[SR354] 'Swaying Dance' Honoka
+[SR357] 'I'll Charm You' Nico
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[UR105] 'The Legendary Ramen!' Rin

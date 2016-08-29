@@ -1,0 +1,32 @@
+0
+2
+7
+[IPUR82] 'Nawatobi' Hanayo
+[IR38] Mogyutto Eli
+[IR41] Mogyutto Rin
+[IR45] Mogyutto Nico
+[IR46] Wonderful Rush Honoka
+[IR49] Wonderful Rush Umi
+[IR51] Wonderful Rush Maki
+[ISR77] 'The Secret Examination Room' Maki
+[R286] Bokura Kotori
+[R29] Natsu-iro Eli
+[R34] Natsu-iro Nozomi
+[R35] Natsu-iro Hanayo
+[R37] Mogyutto Honoka
+[R40] Mogyutto Umi
+[R42] Mogyutto Maki
+[R47] Wonderful Rush Eli
+[R49] Wonderful Rush Umi
+[R50] Wonderful Rush Rin
+[R52] Wonderful Rush Nozomi
+[R53] Wonderful Rush Hanayo
+[SR122] 'The Beach's Sun' Honoka
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR72] 'Destined Card' Nozomi
+[SR87] 'Take a Look at Rin, Meow' Rin
+[SR99] 'You're My Next Prey' Maki
+[UR155] 'Evening Breeze Girl' Kotori
+[UR180] 'Soothing Menu' Hanayo
+[UR88] 'An Angel's Singing Voice' Kotori
+[UR94] 'I Will Take Your Heart' Eli

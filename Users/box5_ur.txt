@@ -1,0 +1,15 @@
+[UR073] 'Love Arrow Shoot!' Umi
+[UR101] 'Destined Partner' Nozomi
+[UR105] 'The Legendary Ramen!' Rin
+[UR134] 'Midsummer Fruits' Nozomi
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR172] 'A Goal Together' Rin
+[UR203] 'Your Santa' Nozomi
+[UR214] 'Happy New Year' Umi
+[UR272] 'Let's Go on a Trip!' Rin
+[UR296] 'The Power of Sweetness' Umi
+[UR367] 'Devoted Feelings' Nozomi
+[UR408] 'A Serving of Parfait!' Rin
+[UR415] 'Classic Maid' Umi
+[UR442] 'Halloween Date' Nozomi
+[UR464] 'Twinkling Stars' Rin

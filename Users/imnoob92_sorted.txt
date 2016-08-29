@@ -1,0 +1,40 @@
+0
+0
+0
+4
+[IPUR067] 'Anemone Heart' Kotori
+[ISR174] 'The Autumn of Reading' Eli
+[R040] Mogyutto Umi
+[R042] Mogyutto Maki
+[R051] Wonderful Rush Maki
+[R054] Wonderful Rush Nico
+[R286] Bokura Kotori
+[SR071] 'Heart of Flames' Honoka
+[SR086] 'Love Bind' Umi
+[SR103] 'Eli's Confessional' Eli
+[SR132] 'Songstress of the Beach' Maki
+[SR153] 'Visiting the Stalls' Hanayo
+[SR164] 'Furious Cheering' Hanayo
+[SR171] 'Nico Nico Support' Nico
+[SR179] 'Family-Oriented Idol' Nico
+[SR182] 'The Angel of the Nurse's Office' Kotori
+[SR185] 'Handmade Ramen' Rin
+[SR198] 'Fairy of the Rink' Hanayo
+[SR202] 'Christmas Feast' Hanayo
+[SR211] 'Great Luck This Year!' Rin
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR254] 'A Piece of Chocolate' Eli
+[SR278] 'Sweet Ramen' Rin
+[SR293] 'Fruits Girl' Maki
+[SR295] 'Sweets Idol' Nico
+[SR343] 'Kotori Design' Kotori
+[SR344] 'Party With a Chaperone' Maki
+[SR364] 'The Little Mermaid's Strength' Eli
+[UR066] 'Devilish Girl' Nico
+[UR079] 'Stage of Smiles' Honoka
+[UR094] 'I Will Take Your Heart' Eli
+[UR180] 'Soothing Menu' Hanayo
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR315] 'A Small Princess' Kotori
+[UR346] 'Until That Day Comes' Honoka
+Worth: 966

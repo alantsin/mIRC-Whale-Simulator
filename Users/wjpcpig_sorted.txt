@@ -1,0 +1,36 @@
+0
+0
+5
+[IR048] Wonderful Rush Kotori
+[R029] Natsu-iro Eli
+[R031] Natsu-iro Umi
+[R032] Natsu-iro Rin
+[R032] Natsu-iro Rin
+[R034] Natsu-iro Nozomi
+[R034] Natsu-iro Nozomi
+[R039] Mogyutto Kotori
+[R041] Mogyutto Rin
+[R043] Mogyutto Nozomi
+[R045] Mogyutto Nico
+[R050] Wonderful Rush Rin
+[R052] Wonderful Rush Nozomi
+[R053] Wonderful Rush Hanayo
+[R054] Wonderful Rush Nico
+[R285] Bokura Eli
+[R289] Bokura Maki
+[R334] Snow Halation Honoka
+[R335] Snow Halation Eli
+[R341] Snow Halation Hanayo
+[SR124] 'Today is Umi's Day' Umi
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[SR153] 'Visiting the Stalls' Hanayo
+[SR211] 'Great Luck This Year!' Rin
+[SR221] 'Mochi and Rice' Hanayo
+[SR263] 'Season of Melting Snow' Umi
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR350] 'Time Together With You' Eli
+[SR405] 'Picture Pancakes' Maki
+[UR172] 'A Goal Together' Rin
+[UR196] 'My Present to You' Eli
+[UR272] 'Let's Go on a Trip!' Rin

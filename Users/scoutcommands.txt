@@ -1,0 +1,139 @@
+**!getscout** - Receive your 2 scouts for that stream. If used while not streaming, you only get 1 scout for that day.
+
+-----
+
+**!scout** - Uses 1 of your scouts to draw a card from the normal box of cards, which consists of all R, SR, and URs currently released on the English version of the game. Rates are 90% R, 9% SR, 1% UR. There is a 10% of getting an event SR from the SR pool.
+
+-----
+
+**!10scout** - Uses 10 scouts to draw 11 cards with a guaranteed SR+.
+
+-----
+
+**!voucher** - Uses 1 of your vouchers to draw a card from the voucher box of cards, which consists of all SR and URs currently released on the English version of the game. Rates are 80% SR and 20% UR. There is a 10% of getting an event SR from the SR pool.
+
+-----
+
+**!dailybox** - Similar to the special boxes in the game, the daily box changes every day and consists of a reduced pool of cards, allowing you to better scout for specific idols. The "!dailybox" command uses 1 scout. Rates are the same as the normal box if you use a scout.
+
+Daily box changes every day at 12:00 AM PST. The daily box schedule is as follows:
+
+**Sunday** = Pick-up box with older cards (with the same 80-20 rates as regular !voucher)
+
+**Monday** = First Year Box (Rin, Hanayo, Maki)
+
+**Tuesday** = Second Year Box (Honoka, Kotori, Umi)
+
+**Wednesday** = Third Year Box (Nico, Nozomi, Eli)
+
+**Thursday** = Printemps Box (Honoka, Kotori, Hanayo)
+
+**Friday** = Lily White Box (Umi, Rin, Nozomi)
+
+**Saturday** = BiBi Box (Eli, Maki, Nico)
+
+-----
+
+**!dailybox voucher** - Uses a voucher to scout from the daily box with rates of 80% R, 15% SR, 5% UR.
+
+-----
+
+**!progress** - Shows you how many vouchers and seals you currently own, as well as how many scouts you have done towards getting your next voucher.
+
+-----
+
+**!newest** - Shows you your most recent card.
+
+-----
+
+**!members** - Links you to your member list, displayed in the order you obtain your cards. http://whale.moe is only online when the stream is live. It is advised you backup a copy of your member list periodically in case of bugs.
+
+-----
+
+**!sorted** - Links you to your member list, displayed in alphanumeric order.
+
+-----
+
+**!cardlist** - Links you to a list of all cards currently available in the simulator.
+
+-----
+
+**!tap [#]** - Lets you tap cards that you own. Successful tap sounds will be played on stream. Success rate is 36%. Abuse of this feature may result in a channel timeout or ban.
+
+-----
+
+**!idolize [#]** - Takes two of the same card that you own and idolizes the card, just like in the game. Idolized cards have a new, much longer, tap sound and duplicates can be sold for seals.
+
+-----
+
+**!sell [I#]** - If you have 2 or more of the same idolized card, you can sell your additional copies for Seals. Sell rate is 5 seals for IR, 20 seals for ISR, 100 seals for IUR.
+
+-----
+
+**!buy scout** - Buy an additional daily scout for 5 seals. Limited to 20 per stream for everyone.
+
+-----
+
+**!buy voucher** - Buy an additional voucher for 10 seals. Limited to 5 per stream for everyone.
+
+-----
+
+**!buy [#]** - Buy any R, SR (except event SRs), or UR card. Rates are 10 seals for R, 25 seals for SR, 50 seals for UR.
+
+-----
+
+**!buy worth** - Buy a card that has 1000 worth. Idolizing this Worth card will give you 10000 worth.
+
+-----
+
+**!worth** - Shows you your power level in Whale Simulator. Also adds you to the rankings.
+
+Having high worth provides benefits in the channel.
+
+At 5000 worth: You can request your own custom command.
+
+At 10000 Worth: You can use a nerfed version of other custom command as well.
+
+At 20000 Worth: You can use all custom commands as if you were the owner.
+
+-----
+
+**!rankings** - Links the Whale Simulator Rankings, sorted in order of highest Worth.
+
+[http://www.whale.moe/rankings.txt](http://www.whale.moe/rankings.txt)
+
+-----
+
+**!view [#]** - Links you to an image of your card.
+
+-----
+
+**!RSET1 / !RSET2 / !RSET3 / !RSET4 / !RSET5 / !RSET6** - If you own all 9 idolized versions of a rare set, you can use these commands to redeem 3 vouchers.
+
+**RSET1** = Natsu-iro
+
+**RSET2** = Mogyutto
+
+**RSET3** = Wonderful Rush
+
+**RSET4** = Bokura
+
+**RSET5** = Snow Halation
+
+**RSET6** = Korekara no Someday
+
+-----
+
+**!pair NAME** - Pairs you up with a person in the channel and lets you use the "!sync" command for 5 minutes.
+
+-----
+
+**!sync [#]** - Allows you to play songs on stream. Only usable if you own the appropriate IPUR card.
+
+-----
+
+!synccodes - Lists the possible codes for !sync.
+
+[YN1] or [YN2], [AH1] or [AH2], [NT1] or [NT2], [BA1] or [BA2], [NP1] or [NP2], [GH1] or [GH2], [MF1] or [MF2], [OS1] or [OS2], [SG1] or [SG2] or [SG3], [KB1] or [KB2]
+
+-----

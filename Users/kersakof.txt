@@ -1,0 +1,72 @@
+3
+5
+0
+0
+[R041] Mogyutto Rin
+[R288] Bokura Rin
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR193] 'Christmas Bell' Rin
+[R038] Mogyutto Eli
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR270] 'Intensifying Feelings' Maki
+[R028] Natsu-iro Honoka
+[UR180] 'Soothing Menu' Hanayo
+[SR056] 'Harasho' Eli
+[R286] Bokura Kotori
+[SR107] 'I'll Eat You Up' Honoka
+[R289] Bokura Maki
+[UR280] 'Together with Alisa' Eli
+[R035] Natsu-iro Hanayo
+[SR201] 'White Christmas' Kotori
+[SR060] 'After School Songstress' Maki
+[R292] Bokura Nico
+[SR182] 'The Angel of the Nurse's Office' Kotori
+[UR187] 'Secret Home Cooking' Maki
+[R341] Snow Halation Hanayo
+[SR154] 'Summer Memories' Nico
+[UR094] 'I Will Take Your Heart' Eli
+[SR293] 'Fruits Girl' Maki
+[SR195] 'A Good Girl on Christmas' Nico
+[SR164] 'Furious Cheering' Hanayo
+[SR189] 'Homura's Poster Girl' Honoka
+[SR344] 'Party With a Chaperone' Maki
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR295] 'Sweets Idol' Nico
+[SR394] 'I Want to Give You a Smile' Umi
+[R284] Bokura Honoka
+[SR327] 'Ladylike' Rin
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR345] 'My First Dress' Hanayo
+[SR246] 'Secret Feelings' Umi
+[UR088] 'An Angel's Singing Voice' Kotori
+[SR365] 'Colorful Scales' Kotori
+[SR247] 'Rin's Secret' Rin
+[SR092] 'Amazing Sweets' Kotori
+[SR144] 'Festival Girl' Nozomi
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[SR221] 'Mochi and Rice' Hanayo
+[SR328] 'Dreamy Bride' Nozomi
+[ISR245] 'Animals Galore' Honoka
+[IUR134] 'Midsummer Fruits' Nozomi
+[ISR319] 'Gooey Cheese' Honoka
+[ISR271] 'Challenger Nico' Nico
+[ISR171] 'Nico Nico Support' Nico
+[R036] Natsu-iro Nico
+[SR059] 'The Energy of mu's' Rin
+[R335] Snow Halation Eli
+[R432] Korekara no Someday Kotori
+[UR358] 'My Present Happiness' Maki
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[SR212] 'New Year's Fortune Nozomi
+[SR313] 'Kiss of Awakening' Maki
+[SR441] 'Listen to What I Say!' Rin
+[SR103] 'Eli's Confessional' Eli
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[SR071] 'Heart of Flames' Honoka
+[SR314] 'The Maiden in the Tower' Nozomi
+[ISR057] 'Soothing Goddess' Kotori
+[ISR081] 'White Bunny of Fortune' Umi
+[IUR464] 'Twinkling Stars' Rin
+[IUR296] 'The Power of Sweetness' Umi
+[ISR099] 'You're My Next Prey' Maki
+[IPUR096] 'Beat in Angel' Maki

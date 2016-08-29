@@ -1,0 +1,46 @@
+1
+5
+60
+0
+[SR060] 'After School Songstress' Maki
+[IR051] Wonderful Rush Maki
+[UR155] 'Evening Breeze Girl' Kotori
+[R041] Mogyutto Rin
+[UR066] 'Devilish Girl' Nico
+[R037] Mogyutto Honoka
+[IR040] Mogyutto Umi
+[SR221] 'Mochi and Rice' Hanayo
+[SR152] 'Sharing a Candied Apple' Eli
+[SR161] 'Good Work!' Eli
+[R045] Mogyutto Nico
+[IR038] Mogyutto Eli
+[IR036] Natsu-iro Nico
+[IR047] Wonderful Rush Eli
+[R029] Natsu-iro Eli
+[UR222] 'Happy New Year' Honoka
+[R285] Bokura Eli
+[SR245] 'Animals Galore' Honoka
+[R051] Wonderful Rush Maki
+[R050] Wonderful Rush Rin
+[R039] Mogyutto Kotori
+[IR044] Mogyutto Hanayo
+[R046] Wonderful Rush Honoka
+[SR169] 'Angelic Whistle' Kotori
+[R044] Mogyutto Hanayo
+[R047] Wonderful Rush Eli
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[R031] Natsu-iro Umi
+[R033] Natsu-iro Maki
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[R038] Mogyutto Eli
+[IR286] Bokura Kotori
+[IR030] Natsu-iro Kotori
+[IR042] Mogyutto Maki
+[IR049] Wonderful Rush Umi
+[R290] Bokura Nozomi
+[R034] Natsu-iro Nozomi
+[R037] Mogyutto Honoka
+[R035] Natsu-iro Hanayo
+[R336] Snow Halation Kotori
+[R438] Korekara no Someday Nico
+[R338] Snow Halation Rin

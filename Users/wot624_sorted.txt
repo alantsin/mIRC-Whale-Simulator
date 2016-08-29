@@ -1,0 +1,133 @@
+0
+0
+45
+8
+[IPSR108] 'Mermaid Festa Vol.2' Honoka
+[IPSR307] 'Mermaid Festa Vol.2' Rin
+[IPSR352] 'Otomeshiki Renai Juku' Nozomi
+[IPSR400] 'Soldier Game' Maki
+[IPSR401] 'Otomeshiki Renai Juku' Nico
+[IPSR447] 'Soldier Game' Umi
+[IPUR068] 'Anemone Heart' Umi
+[IPUR082] 'Nawatobi' Hanayo
+[IPUR118] 'Nicopuri Joshidou' Nico
+[IPUR138] 'Garasu no Hanazono' Eli
+[IR029] Natsu-iro Eli
+[IR031] Natsu-iro Umi
+[IR032] Natsu-iro Rin
+[IR033] Natsu-iro Maki
+[IR034] Natsu-iro Nozomi
+[IR035] Natsu-iro Hanayo
+[IR036] Natsu-iro Nico
+[IR038] Mogyutto Eli
+[IR039] Mogyutto Kotori
+[IR041] Mogyutto Rin
+[IR042] Mogyutto Maki
+[IR043] Mogyutto Nozomi
+[IR044] Mogyutto Hanayo
+[IR050] Wonderful Rush Rin
+[IR051] Wonderful Rush Maki
+[IR053] Wonderful Rush Hanayo
+[IR284] Bokura Honoka
+[IR287] Bokura Umi
+[IR288] Bokura Rin
+[IR289] Bokura Maki
+[IR291] Bokura Hanayo
+[IR334] Snow Halation Honoka
+[IR335] Snow Halation Eli
+[IR338] Snow Halation Rin
+[IR339] Snow Halation Maki
+[IR341] Snow Halation Hanayo
+[IR342] Snow Halation Nico
+[IR434] Korekara no Someday Rin
+[IR435] Korekara no Someday Maki
+[IR437] Korekara no Someday Hanayo
+[ISR075] 'A Sheep's Feelings' Kotori
+[ISR081] 'White Bunny of Fortune' Umi
+[ISR157] 'Let's Go Moon Viewing, Meow!' Rin
+[ISR184] 'Giving Thanks to the Food' Umi
+[ISR198] 'Fairy of the Rink' Hanayo
+[ISR200] 'Candle Night' Honoka
+[ISR213] 'A Fuku Musume is Here' Nico
+[ISR264] 'A New Wind' Nozomi
+[ISR293] 'Fruits Girl' Maki
+[ISR313] 'Kiss of Awakening' Maki
+[ISR366] 'Mermaid Idol' Hanayo
+[IUR064] 'An Idol's Feelings' Hanayo
+[IUR105] 'The Legendary Ramen!' Rin
+[IUR126] 'The Melody of Our Vow' Maki
+[IUR272] 'Let's Go on a Trip!' Rin
+[IUR296] 'The Power of Sweetness' Umi
+[IUR322] 'Little Onigiri!' Hanayo
+[IUR346] 'Until That Day Comes' Honoka
+[R031] Natsu-iro Umi
+[R032] Natsu-iro Rin
+[R033] Natsu-iro Maki
+[R035] Natsu-iro Hanayo
+[R037] Mogyutto Honoka
+[R043] Mogyutto Nozomi
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R046] Wonderful Rush Honoka
+[R047] Wonderful Rush Eli
+[R051] Wonderful Rush Maki
+[R286] Bokura Kotori
+[R289] Bokura Maki
+[R290] Bokura Nozomi
+[R334] Snow Halation Honoka
+[R336] Snow Halation Kotori
+[R340] Snow Halation Nozomi
+[R341] Snow Halation Hanayo
+[R431] Korekara no Someday Eli
+[R432] Korekara no Someday Kotori
+[R434] Korekara no Someday Rin
+[R435] Korekara no Someday Maki
+[SR061] 'Spiritual Power' Nozomi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR078] 'Here's Your Order' Hanayo
+[SR093] 'Whimsical Kitten' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR103] 'Eli's Confessional' Eli
+[SR125] 'Summer Sunset Girl' Rin
+[SR129] 'The Fox's Wedding' Eli
+[SR136] 'Mysterious Sympathy' Hanayo
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR150] 'Breast Rub' Nozomi
+[SR153] 'Visiting the Stalls' Hanayo
+[SR157] 'Let's Go Moon Viewing, Meow!' Rin
+[SR162] 'The Capable Manager' Umi
+[SR169] 'Angelic Whistle' Kotori
+[SR170] 'First Place Smile' Maki
+[SR171] 'Nico Nico Support' Nico
+[SR174] 'The Autumn of Reading' Eli
+[SR182] 'The Angel of the Nurse's Office' Kotori
+[SR185] 'Handmade Ramen' Rin
+[SR192] 'Silent Night' Umi
+[SR211] 'Great Luck This Year!' Rin
+[SR219] 'Secret New Year's Money' Eli
+[SR224] 'Making a Prayer' Nozomi
+[SR246] 'Secret Feelings' Umi
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR252] 'Winter Memories' Rin
+[SR256] 'Happy Valentine's' Nozomi
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR276] 'I'm Really Happy!' Honoka
+[SR312] 'Magic Lamp' Rin
+[SR317] 'Gallant Maiden' Umi
+[SR319] 'Gooey Cheese' Honoka
+[SR344] 'Party With a Chaperone' Maki
+[SR350] 'Time Together With You' Eli
+[SR355] 'Friends from the Sea' Umi
+[SR356] 'A Real Mermaid' Rin
+[SR357] 'I'll Charm You' Nico
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR394] 'I Want to Give You a Smile' Umi
+[SR405] 'Picture Pancakes' Maki
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[UR105] 'The Legendary Ramen!' Rin
+[UR126] 'The Melody of Our Vow' Maki
+[UR330] 'Simple Dress' Eli
+[UR378] 'Pleasant Dreams' Kotori
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+Worth: 5162

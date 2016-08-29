@@ -1,0 +1,25 @@
+0
+0
+0
+1
+[IPUR082] 'Nawatobi' Hanayo
+[R031] Natsu-iro Umi
+[R036] Natsu-iro Nico
+[R050] Wonderful Rush Rin
+[R052] Wonderful Rush Nozomi
+[R052] Wonderful Rush Nozomi
+[R284] Bokura Honoka
+[R286] Bokura Kotori
+[R288] Bokura Rin
+[R289] Bokura Maki
+[R433] Korekara no Someday Umi
+[SR058] 'Mental Concentration' Umi
+[SR136] 'Mysterious Sympathy' Hanayo
+[SR198] 'Fairy of the Rink' Hanayo
+[SR213] 'A Fuku Musume is Here' Nico
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR263] 'Season of Melting Snow' Umi
+[SR294] 'Natural Blessing' Nozomi
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR365] 'Colorful Scales' Kotori
+[UR214] 'Happy New Year' Umi

@@ -1,0 +1,35 @@
+;Wolfram Alpha!
+;Using Wolfram Alpha API to get result.
+;Command !wa -query- or /wolfram -query-
+on $*:text:/^!wa /Si:#,?:{
+  wolfram $2-
+}
+alias wolfram {
+  if $sock(wolfram) || $sock($+(wolfram,$nick)) {
+    sockclose $v1
+  }
+  sockopen $iif($event == text,$+(wolfram,$nick),wolfram) api.wolframalpha.com 80
+  sockmark $iif($event == text,$+(wolfram,$nick) $iif(#,msg #,msg $nick),wolfram echo -a) $1-
+}
+on *:sockopen:wolfram*:{
+  tokenize 32 $sock($sockname).mark
+  sockwrite -nt $sockname GET $+(/v2/query?input=,$urlencode($3-),&format=plaintext&appid=JWH86T-2WYPY3ERT5) HTTP/1.1
+  sockwrite -nt $sockname Host: api.wolframalpha.com
+  sockwrite -nt $sockname Connection: close
+  sockwrite -nt $sockname $crlf
+}
+on *:sockread:wolfram*:{
+  tokenize 32 $sock($sockname).mark
+  var %wreader
+  sockread %wreader
+  if $regex($+(wolfram,$2),%wreader,/<plaintext>(.+?)<\/plaintext>/) {
+    set $+(%,wresult,$2) $($+(%,wresult,$2),2) $regml($+(wolfram,$2),1) $+ $chr(124) $+ 
+  }
+}
+on *:sockclose:wolfram*:{
+  tokenize 32 $sock($sockname).mark
+  $1-2 $iif($($+(%,wresult,$2),2), $+ $chr(124) $+  $utf16($($+(%,wresult,$2),2)),No result was found.)
+  unset $+(%,wresult,$2)
+}
+alias urlencode return $regsubex($1,/(\W)/g,% $+ $base($asc(\1),10,16,2)))
+alias UTF16 return $regsubex($1-,/\Q\:\E([a-f\d]{4})/ig,$chr($base(\1,16,10)))

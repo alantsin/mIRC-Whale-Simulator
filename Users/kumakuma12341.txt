@@ -1,0 +1,55 @@
+3
+0
+35
+0
+[R039] Mogyutto Kotori
+[SR072] 'Destined Card' Nozomi
+[R038] Mogyutto Eli
+[R041] Mogyutto Rin
+[R031] Natsu-iro Umi
+[R045] Mogyutto Nico
+[R028] Natsu-iro Honoka
+[R051] Wonderful Rush Maki
+[SR060] 'After School Songstress' Maki
+[R047] Wonderful Rush Eli
+[R038] Mogyutto Eli
+[SR122] 'The Beach's Sun' Honoka
+[SR063] 'Nico Nico Smile' Nico
+[R045] Mogyutto Nico
+[R034] Natsu-iro Nozomi
+[R028] Natsu-iro Honoka
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[R040] Mogyutto Umi
+[SR169] 'Angelic Whistle' Kotori
+[R052] Wonderful Rush Nozomi
+[R039] Mogyutto Kotori
+[R029] Natsu-iro Eli
+[R038] Mogyutto Eli
+[IPUR118] 'Nicopuri Joshidou' Nico
+[SR320] 'Even After the Spell's Worn Off' Eli
+[UR180] 'Soothing Menu' Hanayo
+[SR278] 'Sweet Ramen' Rin
+[SR059] 'The Energy of mu's' Rin
+[SR224] 'Making a Prayer' Nozomi
+[UR257] 'Maki's Secret' Maki
+[SR282] 'Under the Cherry Blossoms' Maki
+[R287] Bokura Umi
+[SR246] 'Secret Feelings' Umi
+[UR066] 'Devilish Girl' Nico
+[SR245] 'Animals Galore' Honoka
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR055] 'Full-Throttle Smile!' Honoka
+[IPUR138] 'Garasu no Hanazono' Eli
+[SR132] 'Songstress of the Beach' Maki
+[SR107] 'I'll Eat You Up' Honoka
+[SR171] 'Nico Nico Support' Nico
+[SR124] 'Today is Umi's Day' Umi
+[SR123] 'Charming Mermaid' Eli
+[SR246] 'Secret Feelings' Umi
+[SR122] 'The Beach's Sun' Honoka
+[UR134] 'Midsummer Fruits' Nozomi
+[SR189] 'Homura's Poster Girl' Honoka
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR250] 'Super Rare Chocolate' Nico
+[SR357] 'I'll Charm You' Nico

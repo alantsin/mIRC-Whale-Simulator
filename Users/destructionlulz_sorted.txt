@@ -1,0 +1,26 @@
+0
+1
+29
+4
+[IPUR067] 'Anemone Heart' Kotori
+[R048] Wonderful Rush Kotori
+[R285] Bokura Eli
+[R338] Snow Halation Rin
+[SR058] 'Mental Concentration' Umi
+[SR086] 'Love Bind' Umi
+[SR086] 'Love Bind' Umi
+[SR107] 'I'll Eat You Up' Honoka
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR162] 'The Capable Manager' Umi
+[SR177] 'Specially Made Borscht' Eli
+[SR184] 'Giving Thanks to the Food' Umi
+[SR221] 'Mochi and Rice' Hanayo
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR295] 'Sweets Idol' Nico
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR405] 'Picture Pancakes' Maki
+[SR425] 'May Everyone Be Healthy' Nico
+[UR079] 'Stage of Smiles' Honoka
+[UR250] 'Super Rare Chocolate' Nico
+[UR315] 'A Small Princess' Kotori
+[UR322] 'Little Onigiri!' Hanayo

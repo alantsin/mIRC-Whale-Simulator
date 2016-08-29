@@ -1,0 +1,39 @@
+0
+0
+0
+3
+[IPSR351] 'Soldier Game' Eli
+[IR037] Mogyutto Honoka
+[IR290] Bokura Nozomi
+[IR437] Korekara no Someday Hanayo
+[ISR395] 'Made to Order' Maki
+[R030] Natsu-iro Kotori
+[R035] Natsu-iro Hanayo
+[R038] Mogyutto Eli
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R053] Wonderful Rush Hanayo
+[R287] Bokura Umi
+[R334] Snow Halation Honoka
+[R335] Snow Halation Eli
+[R336] Snow Halation Kotori
+[R432] Korekara no Someday Kotori
+[R436] Korekara no Someday Nozomi
+[SR132] 'Songstress of the Beach' Maki
+[SR177] 'Specially Made Borscht' Eli
+[SR179] 'Family-Oriented Idol' Nico
+[SR261] 'Sunny Power' Honoka
+[SR270] 'Intensifying Feelings' Maki
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR312] 'Magic Lamp' Rin
+[SR313] 'Kiss of Awakening' Maki
+[SR327] 'Ladylike' Rin
+[SR357] 'I'll Charm You' Nico
+[SR375] 'A Different Me from Usual' Eli
+[SR396] 'The Secret of the Slit' Hanayo
+[SR422] 'Let's Play Until the End!' Honoka
+[SR440] 'No Trick for You!' Kotori
+[SR452] 'Together with Everyone...' Honoka
+[SR454] 'Happy Twins' Nozomi
+[UR187] 'Secret Home Cooking' Maki
+[UR272] 'Let's Go on a Trip!' Rin

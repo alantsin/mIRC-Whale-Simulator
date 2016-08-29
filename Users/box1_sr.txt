@@ -1,0 +1,43 @@
+[SR059] 'The Energy of mu's' Rin
+[SR060] 'After School Songstress' Maki
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR077] 'The Secret Examination Room' Maki
+[SR078] 'Here's Your Order' Hanayo
+[SR087] 'Take a Look at Rin, Meow' Rin
+[SR093] 'Whimsical Kitten' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR125] 'Summer Sunset Girl' Rin
+[SR132] 'Songstress of the Beach' Maki
+[SR133] 'Princess on the Shore' Hanayo
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR153] 'Visiting the Stalls' Hanayo
+[SR164] 'Furious Cheering' Hanayo
+[SR170] 'First Place Smile' Maki
+[SR185] 'Handmade Ramen' Rin
+[SR193] 'Christmas Bell' Rin
+[SR194] 'Christmas Carol' Maki
+[SR202] 'Christmas Feast' Hanayo
+[SR211] 'Great Luck This Year!' Rin
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR221] 'Mochi and Rice' Hanayo
+[SR247] 'Rin's Secret' Rin
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR270] 'Intensifying Feelings' Maki
+[SR278] 'Sweet Ramen' Rin
+[SR279] 'Leave It to Me!' Hanayo
+[SR312] 'Magic Lamp' Rin
+[SR313] 'Kiss of Awakening' Maki
+[SR327] 'Ladylike' Rin
+[SR344] 'Party With a Chaperone' Maki
+[SR345] 'My First Dress' Hanayo
+[SR356] 'A Real Mermaid' Rin
+[SR366] 'Mermaid Idol' Hanayo
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR395] 'Made to Order' Maki
+[SR396] 'The Secret of the Slit' Hanayo
+[SR405] 'Picture Pancakes' Maki
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[SR424] 'A Halloween of Hiding Embarrassment' Maki
+[SR441] 'Listen to What I Say!' Rin
+[SR455] 'I'm Touched!' Hanayo

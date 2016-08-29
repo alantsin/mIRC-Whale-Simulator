@@ -1,0 +1,76 @@
+3
+2
+14
+0
+[R031] Natsu-iro Umi
+[SR057] 'Soothing Goddess' Kotori
+[R048] Wonderful Rush Kotori
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R032] Natsu-iro Rin
+[R285] Bokura Eli
+[R039] Mogyutto Kotori
+[SR274] 'Beautiful Birds' Kotori
+[IR028] Natsu-iro Honoka
+[IR035] Natsu-iro Hanayo
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR103] 'Eli's Confessional' Eli
+[SR133] 'Princess on the Shore' Hanayo
+[SR123] 'Charming Mermaid' Eli
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[SR327] 'Ladylike' Rin
+[SR200] 'Candle Night' Honoka
+[SR221] 'Mochi and Rice' Hanayo
+[SR129] 'The Fox's Wedding' Eli
+[R342] Snow Halation Nico
+[SR100] 'I'll Teach You' Nico
+[R033] Natsu-iro Maki
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[SR312] 'Magic Lamp' Rin
+[UR296] 'The Power of Sweetness' Umi
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[SR329] 'Popular Model Nico' Nico
+[SR366] 'Mermaid Idol' Hanayo
+[UR280] 'Together with Alisa' Eli
+[SR364] 'The Little Mermaid's Strength' Eli
+[IR051] Wonderful Rush Maki
+[IR053] Wonderful Rush Hanayo
+[ISR122] 'The Beach's Sun' Honoka
+[R340] Snow Halation Nozomi
+[SR295] 'Sweets Idol' Nico
+[SR057] 'Soothing Goddess' Kotori
+[SR125] 'Summer Sunset Girl' Rin
+[SR211] 'Great Luck This Year!' Rin
+[R050] Wonderful Rush Rin
+[SR131] 'Sweet Marine Girl' Kotori
+[R040] Mogyutto Umi
+[R050] Wonderful Rush Rin
+[R284] Bokura Honoka
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR279] 'Leave It to Me!' Hanayo
+[UR094] 'I Will Take Your Heart' Eli
+[R045] Mogyutto Nico
+[R035] Natsu-iro Hanayo
+[IPUR138] 'Garasu no Hanazono' Eli
+[R039] Mogyutto Kotori
+[SR405] 'Picture Pancakes' Maki
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR250] 'Super Rare Chocolate' Nico
+[SR345] 'My First Dress' Hanayo
+[SR086] 'Love Bind' Umi
+[ISR345] 'My First Dress' Hanayo
+[ISR193] 'Christmas Bell' Rin
+[R031] Natsu-iro Umi
+[SR413] 'Loosened Ribbon' Eli
+[UR408] 'A Serving of Parfait!' Rin
+[SR313] 'Kiss of Awakening' Maki
+[R047] Wonderful Rush Eli
+[R341] Snow Halation Hanayo
+[SR356] 'A Real Mermaid' Rin
+[SR245] 'Animals Galore' Honoka
+[UR187] 'Secret Home Cooking' Maki
+[SR404] 'Look at the Back Too' Kotori

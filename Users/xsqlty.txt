@@ -1,0 +1,35 @@
+1
+4
+0
+0
+[R340] Snow Halation Nozomi
+[UR315] 'A Small Princess' Kotori
+[SR360] 'Breath of Relief' Nozomi
+[SR256] 'Happy Valentine's' Nozomi
+[SR247] 'Rin's Secret' Rin
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[UR105] 'The Legendary Ramen!' Rin
+[SR354] 'Swaying Dance' Honoka
+[SR375] 'A Different Me from Usual' Eli
+[R052] Wonderful Rush Nozomi
+[SR279] 'Leave It to Me!' Hanayo
+[SR312] 'Magic Lamp' Rin
+[SR075] 'A Sheep's Feelings' Kotori
+[SR254] 'A Piece of Chocolate' Eli
+[SR077] 'The Secret Examination Room' Maki
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR392] 'School Swimsuit Nico' Nico
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[SR132] 'Songstress of the Beach' Maki
+[SR058] 'Mental Concentration' Umi
+[R042] Mogyutto Maki
+[SR123] 'Charming Mermaid' Eli
+[SR245] 'Animals Galore' Honoka
+[SR163] 'Victory Charm' Nozomi
+[IPSR190] 'Kokuhaku Biyori, desu!' Kotori
+[ISR345] 'My First Dress' Hanayo
+[SR320] 'Even After the Spell's Worn Off' Eli
+[R342] Snow Halation Nico
+[R337] Snow Halation Umi
+[R053] Wonderful Rush Hanayo
+[R051] Wonderful Rush Maki

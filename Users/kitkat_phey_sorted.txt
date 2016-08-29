@@ -1,0 +1,46 @@
+0
+0
+0
+7
+[IPSR190] 'Kokuhaku Biyori, desu!' Kotori
+[IPSR401] 'Otomeshiki Renai Juku' Nico
+[IR034] Natsu-iro Nozomi
+[IR041] Mogyutto Rin
+[IR046] Wonderful Rush Honoka
+[IR437] Korekara no Someday Hanayo
+[R029] Natsu-iro Eli
+[R030] Natsu-iro Kotori
+[R031] Natsu-iro Umi
+[R033] Natsu-iro Maki
+[R036] Natsu-iro Nico
+[R037] Mogyutto Honoka
+[R039] Mogyutto Kotori
+[R040] Mogyutto Umi
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R046] Wonderful Rush Honoka
+[R048] Wonderful Rush Kotori
+[R048] Wonderful Rush Kotori
+[R049] Wonderful Rush Umi
+[R051] Wonderful Rush Maki
+[R285] Bokura Eli
+[R285] Bokura Eli
+[R290] Bokura Nozomi
+[R334] Snow Halation Honoka
+[R337] Snow Halation Umi
+[R339] Snow Halation Maki
+[R431] Korekara no Someday Eli
+[R432] Korekara no Someday Kotori
+[R432] Korekara no Someday Kotori
+[R433] Korekara no Someday Umi
+[R435] Korekara no Someday Maki
+[R438] Korekara no Someday Nico
+[SR090] 'Nico Is Popular' Nico
+[SR153] 'Visiting the Stalls' Hanayo
+[SR193] 'Christmas Bell' Rin
+[SR294] 'Natural Blessing' Nozomi
+[SR324] 'Let's Take It Slowly!' Honoka
+[SR375] 'A Different Me from Usual' Eli
+[SR412] 'Maid-in-Training' Honoka
+[SR461] 'Stargazing at Night' Umi
+[UR073] 'Love Arrow Shoot!' Umi

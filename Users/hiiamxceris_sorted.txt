@@ -1,0 +1,22 @@
+0
+0
+1
+2
+[R031] Natsu-iro Umi
+[R032] Natsu-iro Rin
+[R037] Mogyutto Honoka
+[R045] Mogyutto Nico
+[R049] Wonderful Rush Umi
+[R053] Wonderful Rush Hanayo
+[R291] Bokura Hanayo
+[SR056] 'Harasho' Eli
+[SR058] 'Mental Concentration' Umi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR123] 'Charming Mermaid' Eli
+[SR221] 'Mochi and Rice' Hanayo
+[SR269] 'Kotori's Pillow' Kotori
+[SR312] 'Magic Lamp' Rin
+[SR317] 'Gallant Maiden' Umi
+[UR126] 'The Melody of Our Vow' Maki
+[UR196] 'My Present to You' Eli
+Worth: 287

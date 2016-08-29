@@ -1,0 +1,66 @@
+1
+2
+22
+0
+[R045] Mogyutto Nico
+[SR193] 'Christmas Bell' Rin
+[R029] Natsu-iro Eli
+[R049] Wonderful Rush Umi
+[R054] Wonderful Rush Nico
+[UR222] 'Happy New Year' Honoka
+[SR177] 'Specially Made Borscht' Eli
+[R041] Mogyutto Rin
+[R030] Natsu-iro Kotori
+[R053] Wonderful Rush Hanayo
+[R037] Mogyutto Honoka
+[R291] Bokura Hanayo
+[SR278] 'Sweet Ramen' Rin
+[R045] Mogyutto Nico
+[R292] Bokura Nico
+[R032] Natsu-iro Rin
+[SR321] 'No Eating Me' Nico
+[UR094] 'I Will Take Your Heart' Eli
+[UR187] 'Secret Home Cooking' Maki
+[SR141] 'Summer Festival with Everyone' Honoka
+[SR133] 'Princess on the Shore' Hanayo
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[SR270] 'Intensifying Feelings' Maki
+[SR071] 'Heart of Flames' Honoka
+[SR072] 'Destined Card' Nozomi
+[SR078] 'Here's Your Order' Hanayo
+[SR193] 'Christmas Bell' Rin
+[SR078] 'Here's Your Order' Hanayo
+[SR144] 'Festival Girl' Nozomi
+[UR155] 'Evening Breeze Girl' Kotori
+[R032] Natsu-iro Rin
+[SR141] 'Summer Festival with Everyone' Honoka
+[UR180] 'Soothing Menu' Hanayo
+[R340] Snow Halation Nozomi
+[SR078] 'Here's Your Order' Hanayo
+[R342] Snow Halation Nico
+[SR081] 'White Bunny of Fortune' Umi
+[SR295] 'Sweets Idol' Nico
+[SR193] 'Christmas Bell' Rin
+[ISR194] 'Christmas Carol' Maki
+[SR195] 'A Good Girl on Christmas' Nico
+[R051] Wonderful Rush Maki
+[SR194] 'Christmas Carol' Maki
+[UR165] 'A Cheer for You' Honoka
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR355] 'Friends from the Sea' Umi
+[UR064] 'An Idol's Feelings' Hanayo
+[R292] Bokura Nico
+[SR099] 'You're My Next Prey' Maki
+[SR354] 'Swaying Dance' Honoka
+[UR073] 'Love Arrow Shoot!' Umi
+[R054] Wonderful Rush Nico
+[SR312] 'Magic Lamp' Rin
+[R033] Natsu-iro Maki
+[SR174] 'The Autumn of Reading' Eli
+[SR327] 'Ladylike' Rin
+[SR261] 'Sunny Power' Honoka
+[SR072] 'Destined Card' Nozomi
+[R047] Wonderful Rush Eli
+[UR187] 'Secret Home Cooking' Maki
+[R287] Bokura Umi

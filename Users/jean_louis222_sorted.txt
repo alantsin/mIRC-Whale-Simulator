@@ -1,0 +1,20 @@
+0
+0
+13
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[R029] Natsu-iro Eli
+[R030] Natsu-iro Kotori
+[R036] Natsu-iro Nico
+[R040] Mogyutto Umi
+[R041] Mogyutto Rin
+[R288] Bokura Rin
+[R289] Bokura Maki
+[R337] Snow Halation Umi
+[SR061] 'Spiritual Power' Nozomi
+[SR063] 'Nico Nico Smile' Nico
+[SR133] 'Princess on the Shore' Hanayo
+[SR192] 'Silent Night' Umi
+[SR193] 'Christmas Bell' Rin
+[SR320] 'Even After the Spell's Worn Off' Eli
+[UR172] 'A Goal Together' Rin
+Worth: 169

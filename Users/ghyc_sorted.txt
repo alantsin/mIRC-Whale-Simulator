@@ -1,0 +1,52 @@
+0
+0
+1
+22
+[IPUR068] 'Anemone Heart' Umi
+[IR029] Natsu-iro Eli
+[IR043] Mogyutto Nozomi
+[IR044] Mogyutto Hanayo
+[IR048] Wonderful Rush Kotori
+[IR289] Bokura Maki
+[IR39] Mogyutto Kotori
+[ISR081] 'White Bunny of Fortune' Umi
+[ISR123] 'Charming Mermaid' Eli
+[ISR154] 'Summer Memories' Nico
+[ISR295] 'Sweets Idol' Nico
+[ISR295] 'Sweets Idol' Nico
+[R028] Natsu-iro Honoka
+[R030] Natsu-iro Kotori
+[R033] Natsu-iro Maki
+[R034] Natsu-iro Nozomi
+[R035] Natsu-iro Hanayo
+[R039] Mogyutto Kotori
+[R041] Mogyutto Rin
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R045] Mogyutto Nico
+[R052] Wonderful Rush Nozomi
+[R287] Bokura Umi
+[R342] Snow Halation Nico
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR081] 'White Bunny of Fortune' Umi
+[SR090] 'Nico Is Popular' Nico
+[SR123] 'Charming Mermaid' Eli
+[SR144] 'Festival Girl' Nozomi
+[SR171] 'Nico Nico Support' Nico
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[SR195] 'A Good Girl on Christmas' Nico
+[SR219] 'Secret New Year's Money' Eli
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR254] 'A Piece of Chocolate' Eli
+[SR261] 'Sunny Power' Honoka
+[SR308] 'Rice and Miso Soup' Hanayo
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR343] 'Kotori Design' Kotori
+[UR064] 'An Idol's Feelings' Hanayo
+[UR066] 'Devilish Girl' Nico
+[UR079] 'Stage of Smiles' Honoka
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR180] 'Soothing Menu' Hanayo
+[UR296] 'The Power of Sweetness' Umi
+[UR408] 'A Serving of Parfait!' Rin

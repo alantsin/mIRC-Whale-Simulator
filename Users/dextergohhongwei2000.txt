@@ -1,0 +1,55 @@
+0
+3
+0
+0
+[R043] Mogyutto Nozomi
+[SR219] 'Secret New Year's Money' Eli
+[R041] Mogyutto Rin
+[R028] Natsu-iro Honoka
+[R036] Natsu-iro Nico
+[SR343] 'Kotori Design' Kotori
+[SR282] 'Under the Cherry Blossoms' Maki
+[SR202] 'Christmas Feast' Hanayo
+[SR058] 'Mental Concentration' Umi
+[SR072] 'Destined Card' Nozomi
+[SR057] 'Soothing Goddess' Kotori
+[UR064] 'An Idol's Feelings' Hanayo
+[SR320] 'Even After the Spell's Worn Off' Eli
+[ISR161] 'Good Work!' Eli
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[R051] Wonderful Rush Maki
+[SR356] 'A Real Mermaid' Rin
+[UR367] 'Devoted Feelings' Nozomi
+[SR267] 'What Girls Love' Nico
+[SR078] 'Here's Your Order' Hanayo
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[R335] Snow Halation Eli
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[R438] Korekara no Someday Nico
+[SR194] 'Christmas Carol' Maki
+[SR178] 'Here, Open Wide' Kotori
+[SR319] 'Gooey Cheese' Honoka
+[SR167] 'Let Me Serve You' Maki
+[UR187] 'Secret Home Cooking' Maki
+[SR270] 'Intensifying Feelings' Maki
+[ISR271] 'Challenger Nico' Nico
+[SR164] 'Furious Cheering' Hanayo
+[SR162] 'The Capable Manager' Umi
+[UR330] 'Simple Dress' Eli
+[SR259] 'Demons In' Maki
+[SR192] 'Silent Night' Umi
+[SR124] 'Today is Umi's Day' Umi
+[SR262] 'Otonokizaka's Big Sister' Eli
+[IUR134] 'Midsummer Fruits' Nozomi
+[SR092] 'Amazing Sweets' Kotori
+[IUR426] 'Under a Spell' Hanayo
+[R039] Mogyutto Kotori
+[SR247] 'Rin's Secret' Rin
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[UR214] 'Happy New Year' Umi
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[SR144] 'Festival Girl' Nozomi
+[SR123] 'Charming Mermaid' Eli
+[SR277] 'Lots of Sweetness' Kotori
+[SR184] 'Giving Thanks to the Food' Umi
+[SR100] 'I'll Teach You' Nico

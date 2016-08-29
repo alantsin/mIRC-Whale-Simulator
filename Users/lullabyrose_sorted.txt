@@ -1,0 +1,19 @@
+0
+1
+15
+[R033] Natsu-iro Maki
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R040] Mogyutto Umi
+[R049] Wonderful Rush Umi
+[R050] Wonderful Rush Rin
+[R052] Wonderful Rush Nozomi
+[R286] Bokura Kotori
+[R287] Bokura Umi
+[R290] Bokura Nozomi
+[SR071] 'Heart of Flames' Honoka
+[SR167] 'Let Me Serve You' Maki
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR177] 'Specially Made Borscht' Eli
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR247] 'Rin's Secret' Rin

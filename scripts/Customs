@@ -1,0 +1,1188 @@
+on *:TEXT:！うみだｈ２０１５:#:{
+  msg # Ctrl + Shift or Left Alt + Shift Kappa
+}
+
+on *:TEXT:!chunchun:#:{
+  msg # [Chun Chun] http://www.mediafire.com/listen/43baagpf8j3sr7y/Chun+Chun_59m56s+%28edited+version%29.mp3
+}
+
+on *:TEXT:!random:#:{
+  var %num = $rand(1,180)
+  msg # [Random] %num
+}
+
+on *:TEXT:!pyramid*:#:{
+  if ($nick = Umidah) {
+    var %pyramid = $2
+    msg # %pyramid
+    msg # %pyramid %pyramid
+    msg # %pyramid %pyramid %pyramid
+    msg # %pyramid %pyramid
+    msg # %pyramid
+  }
+  else {
+    msg # deIlluminati
+  }
+}
+
+alias settrap {
+  set %trap $1
+}
+
+alias settraprandom {
+  set %trap $1
+  set %traprandom 1
+}
+
+alias unsettrap {
+  set %trap 0
+  set %trapsetter 0
+  set %traprandom 0
+}
+
+on *:TEXT:!resetnyan:#:{
+  if ($nick = umidah) {
+    set %nyanpasu 0
+  }
+}
+
+on *:TEXT:!pun:#:{
+  splay -p pun.mp3
+  msg # [Pun] What's worse, DiCi's tastes or this pun? You decide!
+}
+
+on *:TEXT:!rigaway:#:{
+  if (%trap = rigaway) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = iamageeam || %worth >= 10000) {
+      if ($nick = iamageeam || %worth >= 20000) {
+        var %random = $rand(1,3)
+        if (%random = 1) {
+          var %winner = IAmAGeeAm
+        }
+        else if (%random = 2) {
+          var %winner = Zeraek
+        }
+        else {
+          var %winner = Wolsk
+        }
+        timer 1 360 msg # [Rigaway] The winner is: %winner
+      }
+      else {
+        var %random = $rand(1,3)
+        if (%random = 1) {
+          var %winner = IAmAGeeAm
+        }
+        else if (%random = 2) {
+          var %winner = Zeraek
+        }
+        else {
+          var %winner = Wolsk
+        }
+        msg # [Rigaway] The winner is: %winner
+      }
+    }
+    else {
+      msg # [Rigaway] You have been entered in the Rigaway
+    }
+  }
+}
+
+on *:TEXT:!trap*:#:{
+  if (%trapsetter = 0 || $nick = dawgslaya || $nick = umidah || %worth >= 20000) {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($2 = $null) {
+      if ($nick = dawgslaya || $nick = umidah || %worth >= 10000) {
+        var %num = $rand(1,10)
+        if (%num = 1) {
+          settraprandom rsync
+        }
+        else if (%num = 2) {
+          settraprandom nyanpasu
+        }
+        else if (%num = 3) {
+          settraprandom rincount
+        }
+        else if (%num = 4) {
+          settraprandom idolcount
+        }
+        else if (%num = 5) {
+          settraprandom salt
+        }
+        else if (%num = 6) {
+          settraprandom dodge
+        }
+        else if (%num = 7) {
+          settraprandom snipe
+        }
+        else if (%num = 8) {
+          settraprandom rip
+        }
+        else if (%num = 9) {
+          settraprandom nicovore
+        }
+        else if (%num = 10) {
+          settraprandom rigaway
+        }
+        set %trapsetter $nick
+        msg # [Trap] Trap set in random location
+      }
+      else {
+        msg # /me activated Trap Stun!
+      }
+    }
+    else if ($2 = rsync || $2 = nyanpasu || $2 = rincount || $2 = idolcount || $2 = salt || $2 = dodge || $2 = snipe || $2 = rip || $2 = nicovore || $2 = rigaway) {
+      if ($nick = dawgslaya || $nick = umidah || %worth >= 20000) {
+        settrap $2
+        set %trapsetter $nick
+        msg # [Trap] Trap set in ! $+ $2
+      }
+      else {
+        msg # /me activated Trap Stun!
+      }
+    }
+    else {
+      msg # /me activated Trap Stun!
+    }
+  }
+}
+
+on *:TEXT:!rsync:#:{
+  if (%trap = rsync) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = mirefire || %worth >= 10000) {
+      var %own = 0
+      while (%own = 0) { 
+        var %num = $rand(1,21)
+        if (%num = 1) {
+          var %play = [YN1]
+          var %card = [IPUR065]
+        }
+        else if (%num = 2) {
+          var %play = [YN2]
+          var %card = [IPUR065]
+        }
+        else if (%num = 3) {
+          var %play = [AH1]
+          var %card = [IPUR067]
+        }
+        else if (%num = 4) {
+          var %play = [AH2]
+          var %card = [IPUR068]
+        }
+        else if (%num = 5) {
+          var %play = [NT1]
+          var %card = [IPUR082]
+        }
+        else if (%num = 6) {
+          var %play = [NT2]
+          var %card = [IPUR082]
+        }
+        else if (%num = 7) {
+          var %play = [BA1]
+          var %card = [IPUR095]
+        }
+        else if (%num = 8) {
+          var %play = [BA2]
+          var %card = [IPUR096]
+        }
+        else if (%num = 9) {
+          var %play = [NP1]
+          var %card = [IPUR118]
+        }
+        else if (%num = 10) {
+          var %play = [NP2]
+          var %card = [IPUR118]
+        }
+        else if (%num = 11) {
+          var %play = [GH1]
+          var %card = [IPUR138]
+        }
+        else if (%num = 12) {
+          var %play = [GH2]
+          var %card = [IPUR139]
+        }
+        else if (%num = 13) {
+          var %play = [MF1]
+          var %card = [IPSR108]
+        }
+        else if (%num = 14) {
+          var %play = [MF2]
+          var %card = [IPSR307]
+        }
+        else if (%num = 15) {
+          var %play = [OS1]
+          var %card = [IPSR352]
+        }
+        else if (%num = 16) {
+          var %play = [OS2]
+          var %card = [IPSR401]
+        }
+        else if (%num = 17) {
+          var %play = [SG1]
+          var %card = [IPSR352]
+        }
+        else if (%num = 18) {
+          var %play = [SG2]
+          var %card = [IPSR400]
+        }
+        else if (%num = 19) {
+          var %play = [SG3]
+          var %card = [IPSR351]
+        }
+        else if (%num = 20) {
+          var %play = [KB1]
+          var %card = [IPSR190]
+        }
+        else if (%num = 21) {
+          var %play = [KB2]
+          var %card = [IPSR309]
+        }
+        if ($nick = mirefire || $nick = umidah || %worth >= 20000) {
+          var %link = $left(%play,-1)
+          %link = $right(%link,-1) 
+          msg # [R Sync] http://whale.moe/sounds/ $+ %link $+ .mp3
+          splay -p %play $+ .mp3
+          var %own = 1
+          break;
+        }
+        else {
+          var %idolcount = $lines($nick $+ .txt)
+          var %i = 4
+          while (%i < %idolcount) {
+            var %currentline = $read($nick $+ .txt, %i)
+            if (%card isin %currentline) {
+              var %link = $left(%play,-1)
+              %link = $right(%link,-1) 
+              msg # [Sync] http://whale.moe/sounds/ $+ %link $+ .mp3
+              splay -p %play $+ .mp3
+              var %own = 1
+              break
+            }
+            else {
+              inc %i
+            }
+          }
+        }
+      }
+    }
+    else {
+      msg # [R Sync] BYE BYE BYE
+    }
+  }
+}
+
+
+on *:TEXT:!nyanpasu:#:{
+  if (%trap = nyanpasu) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = annihilati0ns || %worth >= 10000) {
+      if ($nick = annihilati0ns || %worth >= 20000) {
+        var %num = $rand(1,6)
+        splay -p Nyanpasu $+ %num $+ .mp3
+        set %nyanpasu %nyanpasu + %num
+        msg # [Nyanpasu Count] %nyanpasu
+      }
+      else {
+        splay -p Nyanpasu1.mp3
+        set %nyanpasu %nyanpasu + 1
+        msg # [Nyanpasu Count] %nyanpasu
+      }
+    }
+    else {
+      msg # http://nyanpass.com/
+    }
+  }
+}
+
+on *:TEXT:!rincount:#:{
+  if (%trap = rincount) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = rampidzier || %worth >= 10000) {
+      var %rin = 0
+      var %iur = 0
+      var %isr = 0
+      var %ir = 0
+      var %ur = 0
+      var %sr = 0
+      var %r = 0
+      var %promo = 0
+      var %idolcount = $lines($nick $+ .txt)
+      var %i = 4
+      while (%i < %idolcount) {
+        var %currentline = $read($nick $+ .txt, %i)
+        if ([IUR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %iur = %iur + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([ISR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %isr = %isr + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([IR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %ir = %ir + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([UR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %ur = %ur + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([SR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %sr = %sr + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([R isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %r = %r + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([IPUR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %promo = %promo + 1
+            %rin = %rin + 1
+          }
+        }
+        else if ([IPSR isin %currentline) {
+          if ($regex(%currentline, Rin)) {
+            %promo = %promo + 1
+            %rin = %rin + 1
+          }
+        }
+        inc %i
+      }
+      msg # [Rin Count] $nick has %rin Rins nyaa~
+      if ($nick = rampidzier || $nick = umidah || %worth >= 20000) {
+        msg # [Rin Count] %iur [IUR], %isr [ISR], %ir [IR], %ur [UR], %sr [SR], %r [R], and %promo promo cards.
+      }
+    }
+    else {
+      msg # [Rin Count] RinShake
+    }
+  }
+}
+
+on *:TEXT:!idolcount:#:{
+  if (%trap = idolcount) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = maralina123 || %worth >= 10000) {
+      var %honoka = 0
+      var %eli = 0
+      var %kotori = 0
+      var %umi = 0
+      var %rin = 0
+      var %maki = 0
+      var %nozomi = 0
+      var %hanayo = 0
+      var %nico = 0
+      var %other =0
+      var %idolcount = $lines($nick $+ .txt)
+      var %i = 4
+      while (%i < %idolcount) {
+        var %currentline = $read($nick $+ .txt, %i)
+        if ($regex(%currentline, Honoka)) {
+          %honoka = %honoka + 1
+        }
+        else if ($regex(%currentline, Eli)) {
+          %eli = %eli + 1
+        }
+        else if ($regex(%currentline, Kotori)) {
+          %kotori = %kotori + 1
+        }
+        else if ($regex(%currentline, Umi)) {
+          %umi = %umi + 1
+        }
+        else if ($regex(%currentline, Rin)) {
+          %rin = %rin + 1
+        }
+        else if ($regex(%currentline, Maki)) {
+          %maki = %maki + 1
+        }
+        else if ($regex(%currentline, Nozomi)) {
+          %nozomi = %nozomi + 1
+        }
+        else if ($regex(%currentline, Hanayo)) {
+          %hanayo = %hanayo + 1
+        }
+        else if ($regex(%currentline, Nico)) {
+          %nico = %nico + 1
+        }
+        else {
+          %other = %other + 1
+        }
+        inc %i
+      }
+      if ($nick =  maralina123 || $nick = umidah || %worth >= 20000) {
+        msg # [Idol Count] $nick has %honoka Honoka, %eli Eli, %kotori Kotori, %umi Umi, %rin Rin, %maki Maki, %nozomi Nozomi, %hanayo Hanayo, %nico Nico.
+      }
+      else {
+        var %num = $rand(1,9)
+        if (%num = 1) {
+          msg # [Idol Count] $nick has %honoka Honoka
+        }
+        else if (%num = 2) {
+          msg # [Idol Count] $nick has %eli Eli
+        }
+        else if (%num = 3) {
+          msg # [Idol Count] $nick has %kotori Kotori
+        }
+        else if (%num = 4) {
+          msg # [Idol Count] $nick has %umi Umi
+        }
+        else if (%num = 5) {
+          msg # [Idol Count] $nick has %rin Rin
+        }
+        else if (%num = 6) {
+          msg # [Idol Count] $nick has %maki Maki
+        }
+        else if (%num = 7) {
+          msg # [Idol Count] $nick has %nozomi Nozomi
+        }
+        else if (%num = 8) {
+          msg # [Idol Count] $nick has %hanayo Hanayo
+        }
+        else {
+          msg # [Idol Count] $nick has %nico Nico
+        }
+      }
+    }
+    else {
+      msg # [Idol Count] http://whale.moe/ $+ $nick $+ _sorted.txt
+    }
+  }
+}
+
+on *:TEXT:!dailyh:#:{
+  if ($nick = diablocthulhu || $nick = umidah) {
+    msg # [Daily H] http://i.imgur.com/JEMyDWg.jpg
+  }
+  else {
+    msg # [Daily H] http://i.imgur.com/JEMyDWg.jpg
+  }
+}
+
+on *:TEXT:!hchat:#:{
+  if ($nick = diablocthulhu || $nick = umidah) {
+    msg # [H Chat] http://i.imgur.com/JEMyDWg.jpg
+  }
+  else {
+    msg # [H Chat] http://i.imgur.com/JEMyDWg.jpg
+  }
+}
+
+on *:TEXT:!salt:#:{
+  if (%trap = salt) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = xceris || $nick = umidah || %worth >= 20000) {
+      var %num = $rand(1,2)
+      if (%num = 1) {
+        var %salt = http://i.imgur.com/TS07paM.png
+      }
+      else {
+        var %salt = $read(ceris_salt.txt)
+      }
+      msg # [Salt] %salt
+    }
+    else if (%worth >= 10000) {
+      var %salt = $read(ceris_salt.txt)
+      msg # [Salt] %salt
+    }
+  }
+  else {
+    msg # [Salt] Not salty enough.
+  }
+}
+
+on *:TEXT:!snipe*:#:{
+  if (%trap = snipe) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    if ($nick == DiabloCthulhu) {
+      msg # [Makarov] Remember - No Russian.
+    }
+    else {
+      var %worth = 0
+      var %idolcount = $lines($nick $+ .txt)
+      var %i = 4
+      while (%i < %idolcount) {
+        var %currentline = $read($nick $+ .txt, %i)
+        if ($regex(%currentline, \[RSET[0-9]+\])) {
+          %worth = %worth + 1000
+        }
+        else if ($regex(%currentline, \[R[0-9]+\])) {
+          %worth = %worth + 1
+        }
+        else if ($regex(%currentline, \[IR[0-9]+\])) {
+          %worth = %worth + 5
+        }
+        else if ($regex(%currentline, \[SR[0-9]+\])) {
+          %worth = %worth + 10
+        }
+        else if ($regex(%currentline, \[ISR[0-9]+\])) {
+          %worth = %worth + 50
+        }
+        else if ($regex(%currentline, \[UR[0-9]+\])) {
+          %worth = %worth + 100
+        }
+        else if ($regex(%currentline, \[IUR[0-9]+\])) {
+          %worth = %worth + 500
+        }
+        else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+          %worth = %worth + 1
+        }
+        else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+          %worth = %worth + 1
+        }
+        else if ($regex(%currentline, \[WR[0-9]+\])) {
+          %worth = %worth + 1000
+        }
+        else if ($regex(%currentline, \[IWR[0-9]+\])) {
+          %worth = %worth + 10000
+        }
+        else {
+          %worth = %worth
+        }
+        inc %i
+      }
+      if ($nick = thepizzadino || %worth >= 10000) {
+        var %num = $rand(1,10)
+        var %dodge = $rand(1,2)
+        msg # [Snipe] $nick ▄︻̷̿┻̿═━━━━━━━ $2
+        if ($nick = thepizzadino || $nick = umidah || %worth >= 20000) {
+          if ($2 = coolguy314) {
+            if (%dodge = 1) {
+              msg # [Snipe] PERFECT DODGE
+            }
+            else {
+              msg # /timeout $2 10
+              msg # [Snipe] PERFECT KILL
+            }
+          }
+          else {
+            msg # /timeout $2 10
+            msg # [Snipe] PERFECT KILL
+          }
+        }
+        else if (%num = 1) {
+          if ($2 = coolguy314) {
+            if (%dodge = 1) {
+              msg # [Snipe] PERFECT DODGE
+            }
+            else {
+              timer 1 3 msg # /timeout $2 5
+              timer 1 4 msg # BOOM HEADSHOT
+            }
+          }
+          else {
+            timer 1 3 msg # /timeout $2 5
+            timer 1 4 msg # BOOM HEADSHOT
+          }
+        }
+      }
+      else {
+        msg # [Snipe] KZskull
+      }
+    }
+  }
+}
+
+
+on *:TEXT:!dodge:#:{
+  if (%trap = dodge) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = coolguy314 || $nick = Umidah || %worth >= 20000) {
+      part #
+      timer 1 10 join #
+      timer 1 11 msg # [Dodge] Re-joining game...
+    }
+    else if (%worth >= 10000) {
+      msg # [Dodge] Dodging game...
+      part #
+      timer 1 5 join #
+      timer 1 6 msg # [Dodge] Re-joining game...
+    }
+    else {
+      msg # [Dodge] You are not π enough to dodge.
+    }
+  }
+}
+
+on *:TEXT:!rip:#:{
+  if (%trap = rip) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = diablocthulhu || %worth >= 10000) {
+      msg # riPepperonis ~RIP~ riPepperonis
+      if ($nick = diablocthulhu || $nick = umidah || %worth >= 20000) {
+        timer 1 1 msg # So riPepperonis ~RIP~ riPepperonis
+      }
+    }
+    else {
+      msg # SoBayed
+    }
+  }
+}
+
+on *:TEXT:!nicovore:#:{
+  if (%trap = nicovore) {
+    if (%traprandom = 1) {
+      msg # /timeout $nick 10
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+    else {
+      msg # /timeout $nick 1
+      msg # [Trap] You activated %trapsetter $+ 's Trap Card!
+      unsettrap
+    }
+  }
+  else {
+    var %worth = 0
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 4
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if ($regex(%currentline, \[RSET[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[R[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IR[0-9]+\])) {
+        %worth = %worth + 5
+      }
+      else if ($regex(%currentline, \[SR[0-9]+\])) {
+        %worth = %worth + 10
+      }
+      else if ($regex(%currentline, \[ISR[0-9]+\])) {
+        %worth = %worth + 50
+      }
+      else if ($regex(%currentline, \[UR[0-9]+\])) {
+        %worth = %worth + 100
+      }
+      else if ($regex(%currentline, \[IUR[0-9]+\])) {
+        %worth = %worth + 500
+      }
+      else if ($regex(%currentline, \[IPUR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[IPSR[0-9]+\])) {
+        %worth = %worth + 1
+      }
+      else if ($regex(%currentline, \[WR[0-9]+\])) {
+        %worth = %worth + 1000
+      }
+      else if ($regex(%currentline, \[IWR[0-9]+\])) {
+        %worth = %worth + 10000
+      }
+      else {
+        %worth = %worth
+      }
+      inc %i
+    }
+    if ($nick = Juuninomae || %worth >= 10000) {
+      if ($nick = Juuninomae || $nick = umidah || %worth >= 20000) {
+        msg # NicoMunch Munch NicoMunch Munch NicoMunch Idol NicoMunch Lunch NicoMunch
+      }
+      else {
+        msg # NicoMunch NicoMunch NicoMunch NicoMunch NicoMunch
+      }
+    }
+    else {
+      msg # Tomaki
+    }
+  }
+}

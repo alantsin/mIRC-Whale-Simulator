@@ -1,0 +1,68 @@
+raw *:*: {
+  if (WHISPER isin $rawmsg) {
+    tokenize 59 $rawmsg
+    var %displayname = $remove($2, display-name=)
+    var %garbage = user-type= : $+ %displayname $+ ! $+ %displayname $+ @ $+ %displayname $+ .tmi.twitch.tv WHISPER whitericebot :
+    var %message = $remove($8, %garbage)
+    //  msg #_whitericebot_1448174506973 %displayname said: %message
+    checkMessage %displayname %message
+  }
+}
+
+alias checkMessage {
+  if ($2 == !test) {
+    msg #_whitericebot_1448174506973 .w $1 [Test] Success!
+  }
+  else if ($2 == !getscout) {
+    if (($1 == umidah) && ($gettok($2-, 2, 32) == set)) {
+      getScoutSet $gettok($2-, 3, 32) 
+    }
+    else {
+      getScout $1
+    }
+  }
+  else if (%mafiaRunning == $true) {
+    if ($2 == !currentplayers) {
+      currentPlayers $1
+    }
+    else if ($2 == !mafiahelp) {
+      mafiaHelp $1
+    }
+    else {
+      checkMafia $1 $2-
+    }
+  }
+}
+
+alias checkMafia {
+  if ($1 == %honoka) {
+    mafiaHonoka $2-
+  }
+  else if ($1 == %rin) {
+    mafiaRin $2-
+  }
+  else if ($1 == %kotori) {
+    mafiaKotori $2-
+  }
+  else if ($1 == %eli) {
+    mafiaEli $2-
+  }
+  else if ($1 == %maki) {
+    mafiaMaki $2-
+  }
+  else if ($1 == %maki) {
+    mafiaMaki $2-
+  }
+  else if ($1 == %umi) {
+    mafiaUmi $2-
+  }
+  else if ($1 == %hanayo) {
+    mafiaHanayo $2-
+  }
+  else if ($1 == %nico) {
+    mafiaNico $2-
+  }
+  else if ($1 == %nozomi) {
+    mafiaNozomi $2-
+  }
+}

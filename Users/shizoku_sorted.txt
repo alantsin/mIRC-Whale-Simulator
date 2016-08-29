@@ -1,0 +1,87 @@
+0
+0
+2
+[IPSR351] 'Soldier Game' Eli
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[IPUR082] 'Nawatobi' Hanayo
+[IPUR118] 'Nicopuri Joshidou' Nico
+[IR029] Natsu-iro Eli
+[IR030] Natsu-iro Kotori
+[IR031] Natsu-iro Umi
+[IR032] Natsu-iro Rin
+[IR033] Natsu-iro Maki
+[IR036] Natsu-iro Nico
+[IR040] Mogyutto Umi
+[IR041] Mogyutto Rin
+[IR042] Mogyutto Maki
+[IR043] Mogyutto Nozomi
+[IR046] Wonderful Rush Honoka
+[IR047] Wonderful Rush Eli
+[IR049] Wonderful Rush Umi
+[IR052] Wonderful Rush Nozomi
+[IR054] Wonderful Rush Nico
+[IR284] Bokura Honoka
+[IR288] Bokura Rin
+[IR290] Bokura Nozomi
+[ISR122] 'The Beach's Sun' Honoka
+[ISR141] 'Summer Festival with Everyone' Honoka
+[ISR153] 'Visiting the Stalls' Hanayo
+[ISR184] 'Giving Thanks to the Food' Umi
+[ISR219] 'Secret New Year's Money' Eli
+[ISR277] 'Lots of Sweetness' Kotori
+[IUR315] 'A Small Princess' Kotori
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R030] Natsu-iro Kotori
+[R031] Natsu-iro Umi
+[R034] Natsu-iro Nozomi
+[R035] Natsu-iro Hanayo
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R039] Mogyutto Kotori
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R048] Wonderful Rush Kotori
+[R050] Wonderful Rush Rin
+[R051] Wonderful Rush Maki
+[R054] Wonderful Rush Nico
+[R083] Alpaca
+[R285] Bokura Eli
+[R288] Bokura Rin
+[R291] Bokura Hanayo
+[R292] Bokura Nico
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR056] 'Harasho' Eli
+[SR057] 'Soothing Goddess' Kotori
+[SR061] 'Spiritual Power' Nozomi
+[SR071] 'Heart of Flames' Honoka
+[SR075] 'A Sheep's Feelings' Kotori
+[SR078] 'Here's Your Order' Hanayo
+[SR124] 'Today is Umi's Day' Umi
+[SR125] 'Summer Sunset Girl' Rin
+[SR132] 'Songstress of the Beach' Maki
+[SR133] 'Princess on the Shore' Hanayo
+[SR157] 'Let's Go Moon Viewing, Meow!' Rin
+[SR161] 'Good Work!' Eli
+[SR177] 'Specially Made Borscht' Eli
+[SR189] 'Homura's Poster Girl' Honoka
+[SR193] 'Christmas Bell' Rin
+[SR201] 'White Christmas' Kotori
+[SR202] 'Christmas Feast' Hanayo
+[SR224] 'Making a Prayer' Nozomi
+[SR261] 'Sunny Power' Honoka
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR263] 'Season of Melting Snow' Umi
+[SR269] 'Kotori's Pillow' Kotori
+[SR270] 'Intensifying Feelings' Maki
+[SR294] 'Natural Blessing' Nozomi
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR314] 'The Maiden in the Tower' Nozomi
+[SR321] 'No Eating Me' Nico
+[SR327] 'Ladylike' Rin
+[UR064] 'An Idol's Feelings' Hanayo
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR101] 'Destined Partner Nozomi
+[UR155] 'Evening Breeze Girl' Kotori
+[UR250] 'Super Rare Chocolate' Nico
+[UR272] 'Let's Go on a Trip!' Rin

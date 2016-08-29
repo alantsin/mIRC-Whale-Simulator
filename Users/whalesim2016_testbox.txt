@@ -1,0 +1,45 @@
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R030] Natsu-iro Kotori
+[R031] Natsu-iro Umi
+[R032] Natsu-iro Rin
+[R033] Natsu-iro Maki
+[R034] Natsu-iro Nozomi
+[R035] Natsu-iro Hanayo
+[R036] Natsu-iro Nico
+[R037] Mogyutto Honoka
+[R038] Mogyutto Eli
+[R039] Mogyutto Kotori
+[R040] Mogyutto Umi
+[R041] Mogyutto Rin
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R046] Wonderful Rush Honoka
+[R047] Wonderful Rush Eli
+[R048] Wonderful Rush Kotori
+[R049] Wonderful Rush Umi
+[R050] Wonderful Rush Rin
+[R051] Wonderful Rush Maki
+[R052] Wonderful Rush Nozomi
+[R053] Wonderful Rush Hanayo
+[R054] Wonderful Rush Nico
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR056] 'Harasho' Eli
+[SR057] 'Soothing Goddess' Kotori
+[SR058] 'Mental Concentration' Umi
+[SR059] 'The Energy of mu's' Rin
+[SR060] 'After School Songstress' Maki
+[SR061] 'Spiritual Power' Nozomi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR063] 'Nico Nico Smile' Nico
+[UR064] 'An Idol's Feelings' Hanayo
+[UR066] 'Devilish Girl' Nico
+[UR073] 'Love Arrow Shoot!' Umi
+[UR079] 'Stage of Smiles' Honoka
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR094] 'I Will Take Your Heart' Eli
+[UR101] 'Destined Partner' Nozomi
+[UR105] 'The Legendary Ramen!' Rin
+[UR126] 'The Melody of Our Vow' Maki

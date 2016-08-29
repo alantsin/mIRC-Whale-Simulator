@@ -1,0 +1,34 @@
+3
+8
+60
+0
+[R045] Mogyutto Nico
+[SR071] 'Heart of Flames' Honoka
+[R040] Mogyutto Umi
+[R047] Wonderful Rush Eli
+[R042] Mogyutto Maki
+[R289] Bokura Maki
+[R030] Natsu-iro Kotori
+[R038] Mogyutto Eli
+[R039] Mogyutto Kotori
+[R032] Natsu-iro Rin
+[R035] Natsu-iro Hanayo
+[SR264] 'A New Wind' Nozomi
+[R032] Natsu-iro Rin
+[SR059] 'The Energy of mu's' Rin
+[R288] Bokura Rin
+[R050] Wonderful Rush Rin
+[R028] Natsu-iro Honoka
+[SR169] 'Angelic Whistle' Kotori
+[R032] Natsu-iro Rin
+[R050] Wonderful Rush Rin
+[R033] Natsu-iro Maki
+[R029] Natsu-iro Eli
+[R288] Bokura Rin
+[R051] Wonderful Rush Maki
+[R290] Bokura Nozomi
+[R048] Wonderful Rush Kotori
+[SR062] 'Freshly Cooked Rice' Hanayo
+[R051] Wonderful Rush Maki
+[R045] Mogyutto Nico
+[R029] Natsu-iro Eli

@@ -1,0 +1,26 @@
+0
+2
+6
+[ISR184] 'Giving Thanks to the Food' Umi
+[R284] Bokura Honoka
+[R28] Natsu-iro Honoka
+[R30] Natsu-iro Kotori
+[R34] Natsu-iro Nozomi
+[R37] Mogyutto Honoka
+[R40] Mogyutto Umi
+[R42] Mogyutto Maki
+[R42] Mogyutto Maki
+[R44] Mogyutto Hanayo
+[R49] Wonderful Rush Umi
+[R51] Wonderful Rush Maki
+[SR174] 'The Autumn of Reading' Eli
+[SR245] 'Animals Galore' Honoka
+[SR254] 'A Piece of Chocolate' Eli
+[SR256] 'Happy Valentine's' Nozomi
+[SR271] 'Challenger Nico' Nico
+[SR321] 'No Eating Me' Nico
+[SR57] 'Soothing Goddess' Kotori
+[SR62] 'Freshly Cooked Rice' Hanayo
+[SR78] 'Here's Your Order' Hanayo
+[SR87] 'Take a Look at Rin, Meow' Rin
+[UR101] 'Destined Partner Nozomi

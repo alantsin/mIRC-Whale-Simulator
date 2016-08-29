@@ -1,0 +1,37 @@
+November 15, 2015:
+
+- Sunday daily box no longer gives guaranteed event SR when using a scout.
+
+- Sunday daily box is now exclusively Pick-up box, but without the Best Girl double appearance rate.
+
+November 13, 2015:
+
+- Honoka and Kotori now have doubled appearance rates on Daily Boxes.
+
+November 12, 2015:
+
+- Whale Simulator Worth Rankings! Type "!worth" to update the ranking and "!rankings" for the link to the rankings: http://www.whale.moe/rankings.txt
+
+November 11, 2015:
+
+- "!dailybox voucher" is the new command to use a voucher for the daily box. "!dailybox" will always use scouts now.
+
+November 10, 2015:
+
+- Constellation set added. Fruits set removed from normal scouting.
+
+November 9, 2015:
+
+- 10+1 scouts added! Type "!10scout" or "10scoutdailybox" when you have 10 or more scouts.
+
+- Daily stock for scouts in the Seal Shop have been upped to 20 per day from 15.
+
+November 8, 2015:
+
+- Scouts can now be saved!
+
+- New command "!getscout" to save your scout of the day.
+
+- Vouchers for scouts are now rewarded for 10 scouts, but give 2 vouchers on reward.
+
+- !botsnipe has been removed

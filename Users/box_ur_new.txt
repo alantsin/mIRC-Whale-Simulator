@@ -1,0 +1,14 @@
+[UR315] 'A Small Princess' Kotori
+[UR322] 'Little Onigiri!' Hanayo
+[UR330] 'Simple Dress' Eli
+[UR346] 'Until That Day Comes' Honoka
+[UR358] 'My Present Happiness' Maki
+[UR367] 'Devoted Feelings' Nozomi
+[UR378] 'Pleasant Dreams' Kotori
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[UR408] 'A Serving of Parfait!' Rin
+[UR415] 'Classic Maid' Umi
+[UR426] 'Under a Spell' Hanayo
+[UR442] 'Halloween Date' Nozomi
+[UR456] 'To the World of Mythology' Maki
+[UR464] 'Twinkling Stars' Rin

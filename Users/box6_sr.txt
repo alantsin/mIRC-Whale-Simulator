@@ -1,0 +1,43 @@
+[SR056] 'Harasho' Eli
+[SR060] 'After School Songstress' Maki
+[SR063] 'Nico Nico Smile' Nico
+[SR077] 'The Secret Examination Room' Maki
+[SR099] 'You're My Next Prey' Maki
+[SR103] 'Eli's Confessional' Eli
+[SR132] 'Songstress of the Beach' Maki
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR152] 'Sharing a Candied Apple' Eli
+[SR154] 'Summer Memories' Nico
+[SR161] 'Good Work!' Eli
+[SR170] 'First Place Smile' Maki
+[SR171] 'Nico Nico Support' Nico
+[SR177] 'Specially Made Borscht' Eli
+[SR179] 'Family-Oriented Idol' Nico
+[SR194] 'Christmas Carol' Maki
+[SR195] 'A Good Girl on Christmas' Nico
+[SR213] 'A Fuku Musume is Here' Nico
+[SR219] 'Secret New Year's Money' Eli
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR254] 'A Piece of Chocolate' Eli
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR270] 'Intensifying Feelings' Maki
+[SR271] 'Challenger Nico' Nico
+[SR293] 'Fruits Girl' Maki
+[SR295] 'Sweets Idol' Nico
+[SR313] 'Kiss of Awakening' Maki
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR321] 'No Eating Me' Nico
+[SR329] 'Popular Model Nico' Nico
+[SR344] 'Party With a Chaperone' Maki
+[SR357] 'I'll Charm You' Nico
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR375] 'A Different Me from Usual' Eli
+[SR395] 'Made to Order' Maki
+[SR405] 'Picture Pancakes' Maki
+[SR407] 'Cooking Power' Nico
+[SR413] 'Loosened Ribbon' Eli
+[SR424] 'A Halloween of Hiding Embarrassment' Maki
+[SR425] 'May Everyone Be Healthy' Nico
+[SR439] 'You're Getting a Trick' Eli
+[SR460] 'Unyielding Justice?' Eli
+[SR462] 'Yazawa Nico's Brilliance' Nico

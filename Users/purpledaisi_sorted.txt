@@ -1,0 +1,32 @@
+0
+0
+6
+[IR29] Natsu-iro Eli
+[ISR104] 'Feigning Sleep' Nozomi
+[R287] Bokura Umi
+[R288] Bokura Rin
+[R289] Bokura Maki
+[R291] Bokura Hanayo
+[R292] Bokura Nico
+[R32] Natsu-iro Rin
+[R38] Mogyutto Eli
+[R44] Mogyutto Hanayo
+[R45] Mogyutto Nico
+[R49] Wonderful Rush Umi
+[R51] Wonderful Rush Maki
+[SR104] 'Feigning Sleep' Nozomi
+[SR124] 'Today is Umi's Day' Umi
+[SR169] 'Angelic Whistle' Kotori
+[SR170] 'First Place Smile' Maki
+[SR185] 'Handmade Ramen' Rin
+[SR192] 'Silent Night' Umi
+[SR198] 'Fairy of the Rink' Hanayo
+[SR317] 'Gallant Maiden' Umi
+[SR62] 'Freshly Cooked Rice' Hanayo
+[SR62] 'Freshly Cooked Rice' Hanayo
+[SR81] 'White Bunny of Fortune' Umi
+[SR87] 'Take a Look at Rin, Meow' Rin
+[UR155] 'Evening Breeze Girl' Kotori
+[UR222] 'Happy New Year' Honoka
+[UR296] 'The Power of Sweetness' Umi
+[UR315] 'A Small Princess' Kotori

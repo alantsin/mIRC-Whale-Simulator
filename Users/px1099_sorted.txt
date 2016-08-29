@@ -1,0 +1,28 @@
+0
+0
+13
+2
+[IPSR400] 'Soldier Game' Maki
+[IPUR067] 'Anemone Heart' Kotori
+[R031] Natsu-iro Umi
+[R033] Natsu-iro Maki
+[R036] Natsu-iro Nico
+[R039] Mogyutto Kotori
+[R040] Mogyutto Umi
+[R045] Mogyutto Nico
+[R047] Wonderful Rush Eli
+[R052] Wonderful Rush Nozomi
+[R292] Bokura Nico
+[R338] Snow Halation Rin
+[SR059] 'The Energy of mu's' Rin
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR072] 'Destined Card' Nozomi
+[SR075] 'A Sheep's Feelings' Kotori
+[SR093] 'Whimsical Kitten' Rin
+[SR107] 'I'll Eat You Up' Honoka
+[SR212] 'New Year's Fortune Nozomi
+[SR213] 'A Fuku Musume is Here' Nico
+[SR355] 'Friends from the Sea' Umi
+[UR214] 'Happy New Year' Umi
+[UR322] 'Little Onigiri!' Hanayo
+[UR378] 'Pleasant Dreams' Kotori

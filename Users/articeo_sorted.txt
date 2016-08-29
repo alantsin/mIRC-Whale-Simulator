@@ -1,0 +1,28 @@
+0
+0
+0
+17
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[R028] Natsu-iro Honoka
+[R028] Natsu-iro Honoka
+[R039] Mogyutto Kotori
+[R042] Mogyutto Maki
+[R047] Wonderful Rush Eli
+[R049] Wonderful Rush Umi
+[R052] Wonderful Rush Nozomi
+[R287] Bokura Umi
+[R289] Bokura Maki
+[R292] Bokura Nico
+[R433] Korekara no Someday Umi
+[R434] Korekara no Someday Rin
+[R435] Korekara no Someday Maki
+[SR270] 'Intensifying Feelings' Maki
+[SR295] 'Sweets Idol' Nico
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR326] 'Snuggling Pose' Umi
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR365] 'Colorful Scales' Kotori
+[SR375] 'A Different Me from Usual' Eli
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR396] 'The Secret of the Slit' Hanayo
+[UR378] 'Pleasant Dreams' Kotori

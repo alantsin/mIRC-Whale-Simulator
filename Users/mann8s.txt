@@ -1,0 +1,58 @@
+0
+7
+0
+0
+[SR271] 'Challenger Nico' Nico
+[SR357] 'I'll Charm You' Nico
+[SR212] 'New Year's Fortune Nozomi
+[SR365] 'Colorful Scales' Kotori
+[SR163] 'Victory Charm' Nozomi
+[UR155] 'Evening Breeze Girl' Kotori
+[SR169] 'Angelic Whistle' Kotori
+[SR278] 'Sweet Ramen' Rin
+[UR322] 'Little Onigiri!' Hanayo
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[SR425] 'May Everyone Be Healthy' Nico
+[R433] Korekara no Someday Umi
+[R050] Wonderful Rush Rin
+[SR211] 'Great Luck This Year!' Rin
+[R028] Natsu-iro Honoka
+[R438] Korekara no Someday Nico
+[SR453] 'Letting My Singing Voice Resound' Kotori
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[R046] Wonderful Rush Honoka
+[R029] Natsu-iro Eli
+[SR329] 'Popular Model Nico' Nico
+[UR203] 'Your Santa' Nozomi
+[IPSR307] 'Mermaid Festa Vol.2' Rin
+[R045] Mogyutto Nico
+[R340] Snow Halation Nozomi
+[IPUR068] 'Anemone Heart' Umi
+[R040] Mogyutto Umi
+[R049] Wonderful Rush Umi
+[R032] Natsu-iro Rin
+[SR441] 'Listen to What I Say!' Rin
+[SR202] 'Christmas Feast' Hanayo
+[IR291] Bokura Hanayo
+[IR292] Bokura Nico
+[IR335] Snow Halation Eli
+[IR341] Snow Halation Hanayo
+[R342] Snow Halation Nico
+[R431] Korekara no Someday Eli
+[R030] Natsu-iro Kotori
+[R033] Natsu-iro Maki
+[IR044] Mogyutto Hanayo
+[IR287] Bokura Umi
+[R035] Natsu-iro Hanayo
+[IR051] Wonderful Rush Maki
+[R436] Korekara no Someday Nozomi
+[R048] Wonderful Rush Kotori
+[R335] Snow Halation Eli
+[SR440] 'No Trick for You!' Kotori
+[R043] Mogyutto Nozomi
+[IR042] Mogyutto Maki
+[SR061] 'Spiritual Power' Nozomi
+[R054] Wonderful Rush Nico
+[IR052] Wonderful Rush Nozomi
+[R284] Bokura Honoka
+[R053] Wonderful Rush Hanayo

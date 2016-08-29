@@ -1,0 +1,43 @@
+0
+7
+7
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[IR041] Mogyutto Rin
+[IR042] Mogyutto Maki
+[IR043] Mogyutto Nozomi
+[IR290] Bokura Nozomi
+[IR292] Bokura Nico
+[ISR71] 'Heart of Flames' Honoka
+[IUR088] 'An Angel's Singing Voice' Kotori
+[R035] Natsu-iro Hanayo
+[R037] Mogyutto Honoka
+[R037] Mogyutto Honoka
+[R047] Wonderful Rush Eli
+[R050] Wonderful Rush Rin
+[R052] Wonderful Rush Nozomi
+[R284] Bokura Honoka
+[R284] Bokura Honoka
+[R285] Bokura Eli
+[R286] Bokura Kotori
+[R288] Bokura Rin
+[R289] Bokura Maki
+[R292] Bokura Nico
+[SR072] 'Destined Card' Nozomi
+[SR099] 'You're My Next Prey' Maki
+[SR122] 'The Beach's Sun' Honoka
+[SR141] 'Summer Festival with Everyone' Honoka
+[SR170] 'First Place Smile' Maki
+[SR177] 'Specially Made Borscht' Eli
+[SR179] 'Family-Oriented Idol' Nico
+[SR185] 'Handmade Ramen' Rin
+[SR194] 'Christmas Carol' Maki
+[SR201] 'White Christmas' Kotori
+[SR201] 'White Christmas' Kotori
+[SR247] 'Rin's Secret' Rin
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR254] 'A Piece of Chocolate' Eli
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR343] 'Kotori Design' Kotori
+[SR345] 'My First Dress' Hanayo
+[SR350] 'Time Together With You' Eli
+[UR280] 'Together with Alisa' Eli

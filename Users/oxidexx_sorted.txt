@@ -1,0 +1,82 @@
+0
+1
+5
+7
+[ISR062] 'Freshly Cooked Rice' Hanayo
+[ISR162] 'The Capable Manager' Umi
+[ISR179] 'Family-Oriented Idol' Nico
+[R0285] Bokura Eli
+[R029] Natsu-iro Eli
+[R032] Natsu-iro Rin
+[R032] Natsu-iro Rin
+[R037] Mogyutto Honoka
+[R038] Mogyutto Eli
+[R039] Mogyutto Kotori
+[R039] Mogyutto Kotori
+[R039] Mogyutto Kotori
+[R040] Mogyutto Umi
+[R041] Mogyutto Rin
+[R041] Mogyutto Rin
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R044] Mogyutto Hanayo
+[R045] Mogyutto Nico
+[R046] Wonderful Rush Honoka
+[R048] Wonderful Rush Kotori
+[R285] Bokura Eli
+[R286] Bokura Kotori
+[R289] Bokura Maki
+[R335] Snow Halation Eli
+[SR056] 'Harasho' Eli
+[SR057] 'Soothing Goddess' Kotori
+[SR058] 'Mental Concentration' Umi
+[SR061] 'Spiritual Power' Nozomi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR072] 'Destined Card' Nozomi
+[SR090] 'Nico Is Popular' Nico
+[SR092] 'Amazing Sweets' Kotori
+[SR100] 'I'll Teach You' Nico
+[SR104] 'Feigning Sleep' Nozomi
+[SR133] 'Princess on the Shore' Hanayo
+[SR136] 'Mysterious Sympathy' Hanayo
+[SR144] 'Festival Girl' Nozomi
+[SR169] 'Angelic Whistle' Kotori
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR182] 'The Angel of the Nurse's Office' Kotori
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[SR195] 'A Good Girl on Christmas' Nico
+[SR195] 'A Good Girl on Christmas' Nico
+[SR198] 'Fairy of the Rink' Hanayo
+[SR206] 'On a Snowy Night' Umi
+[SR210] 'An Amazing First Dream' Kotori
+[SR217] 'Home-Cooked New Year's Food' Nico
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR247] 'Rin's Secret' Rin
+[SR256] 'Happy Valentine's' Nozomi
+[SR263] 'Season of Melting Snow' Umi
+[SR279] 'Leave It to Me!' Hanayo
+[SR293] 'Fruits Girl' Maki
+[SR308] 'Rice and Miso Soup' Hanayo
+[SR313] 'Kiss of Awakening' Maki
+[SR314] 'The Maiden in the Tower' Nozomi
+[SR321] 'No Eating Me' Nico
+[SR329] 'Popular Model Nico' Nico
+[SR332] 'A Big Puddle' Rin
+[SR365] 'Colorful Scales' Kotori
+[SR365] 'Colorful Scales' Kotori
+[SR366] 'Mermaid Idol' Hanayo
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR187] 'Secret Home Cooking' Maki
+[UR203] 'Your Santa' Nozomi
+[UR250] 'Super Rare Chocolate' Nico
+[UR257] 'Maki's Secret' Maki
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[UR296] 'The Power of Sweetness' Umi
+[UR367] 'Devoted Feelings' Nozomi
+[UR367] 'Devoted Feelings' Nozomi
+[UR378] 'Pleasant Dreams' Kotori
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[UR415] 'Classic Maid' Umi

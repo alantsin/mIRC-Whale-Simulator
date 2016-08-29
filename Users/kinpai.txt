@@ -1,0 +1,40 @@
+3
+4
+35
+0
+[R337] Snow Halation Umi
+[SR077] 'The Secret Examination Room' Maki
+[R049] Wonderful Rush Umi
+[R047] Wonderful Rush Eli
+[R054] Wonderful Rush Nico
+[IPUR067] 'Anemone Heart' Kotori
+[R341] Snow Halation Hanayo
+[R289] Bokura Maki
+[R292] Bokura Nico
+[SR319] 'Gooey Cheese' Honoka
+[SR202] 'Christmas Feast' Hanayo
+[SR072] 'Destined Card' Nozomi
+[SR308] 'Rice and Miso Soup' Hanayo
+[IPSR108] 'Mermaid Festa Vol.2' Honoka
+[R037] Mogyutto Honoka
+[SR374] 'Thanks to the World' Honoka
+[UR367] 'Devoted Feelings' Nozomi
+[SR245] 'Animals Galore' Honoka
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR364] 'The Little Mermaid's Strength' Eli
+[UR315] 'A Small Princess' Kotori
+[IPUR068] 'Anemone Heart' Umi
+[R340] Snow Halation Nozomi
+[R031] Natsu-iro Umi
+[R289] Bokura Maki
+[R335] Snow Halation Eli
+[R286] Bokura Kotori
+[R337] Snow Halation Umi
+[SR157] 'Let's Go Moon Viewing, Meow!' Rin
+[R051] Wonderful Rush Maki
+[IPSR401] 'Otomeshiki Renai Juku' Nico
+[R046] Wonderful Rush Honoka
+[R034] Natsu-iro Nozomi
+[R335] Snow Halation Eli
+[SR396] 'The Secret of the Slit' Hanayo
+[R045] Mogyutto Nico

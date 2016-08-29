@@ -1,0 +1,43 @@
+!dailyrice - Links the Daily Image, Daily Song, and Daily Box. Will be "N/A" if no Daily Image or Daily Song for that day.
+
+-----
+
+!news - Links any small channel updates. Also links the latest patch notes for Whale Simulator:
+http://whale.moe/patchnotes.txt
+
+-----
+
+!upcoming - Outlines any upcoming Whale Simulator updates.
+
+-----
+
+!quotes - Outlines instructions on how to use !umidah2015. Also links the quote database:
+http://whale.moe/umidah2015.txt
+
+!umidah2015 - Messages channel a random quote.
+
+!umidah2015 add QUOTE /  - Adds the string following the command into the quote database.
+
+!umidah2015 # - Messages channel the quote associated with that #
+
+!umidah2015 find STRING - Messages channel the most recent quote containing the search parameter, as well as a list of all other quotes (by number) that also contain the search parameter.
+
+-----
+
+!twitter - Links Umidah's Twitter account, as well as WhiteRiceBot's Twitter account which is used to archive Whale Simulator actions.
+
+https://twitter.com/Umidahh
+
+https://twitter.com/WhiteRiceBot
+
+-----
+
+!radio - Links R/a/dio and Touku FM, two online radio services frequently used while streaming.
+
+[R/a/dio] https://r-a-d.io/
+
+[Touku FM] http://toukufm.com
+
+-----
+
+!nowplaying - Messages channel what song is currently playing if listening to the above online radio streams.

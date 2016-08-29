@@ -1,0 +1,20 @@
+[UR073] 'Love Arrow Shoot!' Umi
+[UR079] 'Stage of Smiles' Honoka
+[UR079] 'Stage of Smiles' Honoka
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR088] 'An Angel's Singing Voice' Kotori
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR155] 'Evening Breeze Girl' Kotori
+[UR155] 'Evening Breeze Girl' Kotori
+[UR165] 'A Cheer for You' Honoka
+[UR165] 'A Cheer for You' Honoka
+[UR214] 'Happy New Year' Umi
+[UR222] 'Happy New Year' Honoka
+[UR222] 'Happy New Year' Honoka
+[UR315] 'A Small Princess' Kotori
+[UR315] 'A Small Princess' Kotori
+[UR346] 'Until That Day Comes' Honoka
+[UR346] 'Until That Day Comes' Honoka
+[UR378] 'Pleasant Dreams' Kotori
+[UR378] 'Pleasant Dreams' Kotori
+[UR415] 'Classic Maid' Umi

@@ -1,0 +1,43 @@
+0
+1
+18
+[IR28] Natsu-iro Honoka
+[IR29] Natsu-iro Eli
+[IR31] Natsu-iro Umi
+[IR33] Natsu-iro Maki
+[IR34] Natsu-iro Nozomi
+[IR46] Wonderful Rush Honoka
+[ISR143] 'Goldfish Scooping Master?' Maki
+[R285] Bokura Eli
+[R286] Bokura Kotori
+[R287] Bokura Umi
+[R289] Bokura Maki
+[R28] Natsu-iro Honoka
+[R30] Natsu-iro Kotori
+[R34] Natsu-iro Nozomi
+[R35] Natsu-iro Hanayo
+[R36] Natsu-iro Nico
+[R37] Mogyutto Honoka
+[R40] Mogyutto Umi
+[R40] Mogyutto Umi
+[R41] Mogyutto Rin
+[R41] Mogyutto Rin
+[R42] Mogyutto Maki
+[R43] Mogyutto Nozomi
+[R45] Mogyutto Nico
+[R46] Wonderful Rush Honoka
+[R47] Wonderful Rush Eli
+[R48] Wonderful Rush Kotori
+[R49] Wonderful Rush Umi
+[R50] Wonderful Rush Rin
+[R51] Wonderful Rush Maki
+[SR100] 'I'll Teach You' Nico
+[SR131] 'Sweet Marine Girl' Kotori
+[SR133] 'Princess on the Shore' Hanayo
+[SR141] 'Summer Festival with Everyone' Honoka
+[SR177] 'Specially Made Borscht' Eli
+[SR55] 'Full-Throttle Smile!' Honoka
+[SR78] 'Here's Your Order' Hanayo
+[SR87] 'Take a Look at Rin, Meow' Rin
+[UR126] 'The Melody of Our Vow' Maki
+[UR66] 'Devilish Girl' Nico

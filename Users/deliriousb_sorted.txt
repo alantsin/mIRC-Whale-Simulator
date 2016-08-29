@@ -1,0 +1,63 @@
+0
+0
+2
+2
+[IR033] Natsu-iro Maki
+[ISR277] 'Lots of Sweetness' Kotori
+[ISR278] 'Sweet Ramen' Rin
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R034] Natsu-iro Nozomi
+[R035] Natsu-iro Hanayo
+[R040] Mogyutto Umi
+[R042] Mogyutto Maki
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R045] Mogyutto Nico
+[R045] Mogyutto Nico
+[R049] Wonderful Rush Umi
+[R284] Bokura Honoka
+[R284] Bokura Honoka
+[R286] Bokura Kotori
+[R287] Bokura Umi
+[R288] Bokura Rin
+[R339] Snow Halation Maki
+[SR058] 'Mental Concentration' Umi
+[SR090] 'Nico Is Popular' Nico
+[SR093] 'Whimsical Kitten' Rin
+[SR122] 'The Beach's Sun' Honoka
+[SR125] 'Summer Sunset Girl' Rin
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[SR170] 'First Place Smile' Maki
+[SR184] 'Giving Thanks to the Food' Umi
+[SR202] 'Christmas Feast' Hanayo
+[SR206] 'On a Snowy Night' Umi
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR267] 'What Girls Love' Nico
+[SR271] 'Challenger Nico' Nico
+[SR278] 'Sweet Ramen' Rin
+[SR293] 'Fruits Girl' Maki
+[SR312] 'Magic Lamp' Rin
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR350] 'Time Together With You' Eli
+[SR356] 'A Real Mermaid' Rin
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[SR425] 'May Everyone Be Healthy' Nico
+[SR441] 'Listen to What I Say!' Rin
+[UR064] 'An Idol's Feelings' Hanayo
+[UR079] 'Stage of Smiles' Honoka
+[UR126] 'The Melody of Our Vow' Maki
+[UR172] 'A Goal Together' Rin
+[UR180] 'Soothing Menu' Hanayo
+[UR180] 'Soothing Menu' Hanayo
+[UR214] 'Happy New Year' Umi
+[UR222] 'Happy New Year' Honoka
+[UR257] 'Maki's Secret' Maki
+[UR296] 'The Power of Sweetness' Umi
+[UR358] 'My Present Happiness' Maki
+[UR397] 'Nico-nii's Chinese Restaurant' Nico

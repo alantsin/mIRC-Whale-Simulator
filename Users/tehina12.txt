@@ -1,0 +1,49 @@
+2
+4
+1
+0
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[SR061] 'Spiritual Power' Nozomi
+[SR365] 'Colorful Scales' Kotori
+[R292] Bokura Nico
+[R054] Wonderful Rush Nico
+[R431] Korekara no Someday Eli
+[R028] Natsu-iro Honoka
+[SR394] 'I Want to Give You a Smile' Umi
+[R032] Natsu-iro Rin
+[IR047] Wonderful Rush Eli
+[IR287] Bokura Umi
+[R289] Bokura Maki
+[IPUR067] 'Anemone Heart' Kotori
+[IR432] Korekara no Someday Kotori
+[R044] Mogyutto Hanayo
+[SR366] 'Mermaid Idol' Hanayo
+[R336] Snow Halation Kotori
+[R340] Snow Halation Nozomi
+[R288] Bokura Rin
+[R029] Natsu-iro Eli
+[R435] Korekara no Someday Maki
+[R438] Korekara no Someday Nico
+[R030] Natsu-iro Kotori
+[R338] Snow Halation Rin
+[SR462] 'Yazawa Nico's Brilliance' Nico
+[UR250] 'Super Rare Chocolate' Nico
+[UR442] 'Halloween Date' Nozomi
+[SR194] 'Christmas Carol' Maki
+[IR045] Mogyutto Nico
+[IR046] Wonderful Rush Honoka
+[IR334] Snow Halation Honoka
+[SR343] 'Kotori Design' Kotori
+[SR313] 'Kiss of Awakening' Maki
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[UR330] 'Simple Dress' Eli
+[SR152] 'Sharing a Candied Apple' Eli
+[SR454] 'Happy Twins' Nozomi
+[SR328] 'Dreamy Bride' Nozomi
+[SR177] 'Specially Made Borscht' Eli
+[SR276] 'I'm Really Happy!' Honoka
+[SR319] 'Gooey Cheese' Honoka
+[SR439] 'You're Getting a Trick' Eli
+[R336] Snow Halation Kotori
+[R284] Bokura Honoka
+[R044] Mogyutto Hanayo

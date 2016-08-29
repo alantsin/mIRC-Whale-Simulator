@@ -1,0 +1,59 @@
+1
+7
+0
+0
+[R291] Bokura Hanayo
+[UR088] 'An Angel's Singing Voice' Kotori
+[R284] Bokura Honoka
+[SR247] 'Rin's Secret' Rin
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR217] 'Home-Cooked New Year's Food' Nico
+[SR312] 'Magic Lamp' Rin
+[SR311] 'The Umi Who Returned a Favor' Umi
+[SR186] 'Full Course Meal of Fortune' Nozomi
+[IPUR068] 'Anemone Heart' Umi
+[UR155] 'Evening Breeze Girl' Kotori
+[SR129] 'The Fox's Wedding' Eli
+[SR219] 'Secret New Year's Money' Eli
+[R039] Mogyutto Kotori
+[SR206] 'On a Snowy Night' Umi
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[SR355] 'Friends from the Sea' Umi
+[R028] Natsu-iro Honoka
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR057] 'Soothing Goddess' Kotori
+[SR193] 'Christmas Bell' Rin
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR360] 'Breath of Relief' Nozomi
+[SR092] 'Amazing Sweets' Kotori
+[UR280] 'Together with Alisa' Eli
+[SR123] 'Charming Mermaid' Eli
+[SR356] 'A Real Mermaid' Rin
+[SR071] 'Heart of Flames' Honoka
+[ISR271] 'Challenger Nico' Nico
+[SR245] 'Animals Galore' Honoka
+[R051] Wonderful Rush Maki
+[UR105] 'The Legendary Ramen!' Rin
+[IPSR401] 'Otomeshiki Renai Juku' Nico
+[UR250] 'Super Rare Chocolate' Nico
+[R034] Natsu-iro Nozomi
+[SR460] 'Unyielding Justice?' Eli
+[R338] Snow Halation Rin
+[R290] Bokura Nozomi
+[SR263] 'Season of Melting Snow' Umi
+[ISR213] 'A Fuku Musume is Here' Nico
+[IUR172] 'A Goal Together' Rin
+[IR438] Korekara no Someday Nico
+[SR154] 'Summer Memories' Nico
+[ISR313] 'Kiss of Awakening' Maki
+[SR153] 'Visiting the Stalls' Hanayo
+[SR171] 'Nico Nico Support' Nico
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR350] 'Time Together With You' Eli
+[SR194] 'Christmas Carol' Maki
+[SR092] 'Amazing Sweets' Kotori
+[IUR187] 'Secret Home Cooking' Maki
+[SR314] 'The Maiden in the Tower' Nozomi
+[R029] Natsu-iro Eli
+[UR203] 'Your Santa' Nozomi
+[UR214] 'Happy New Year' Umi

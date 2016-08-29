@@ -1,0 +1,58 @@
+0
+0
+0
+1
+[IPUR065] 'Yume Naki Yume wa Yume ja nai' Honoka
+[ISR178] 'Here, Open Wide' Kotori
+[ISR314] 'The Maiden in the Tower' Nozomi
+[R028] Natsu-iro Honoka
+[R033] Natsu-iro Maki
+[R036] Natsu-iro Nico
+[R040] Mogyutto Umi
+[R047] Wonderful Rush Eli
+[R292] Bokura Nico
+[SR056] 'Harasho' Eli
+[SR057] 'Soothing Goddess' Kotori
+[SR061] 'Spiritual Power' Nozomi
+[SR071] 'Heart of Flames' Honoka
+[SR087] 'Take a Look at Rin, Meow' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR103] 'Eli's Confessional' Eli
+[SR125] 'Summer Sunset Girl' Rin
+[SR129] 'The Fox's Wedding' Eli
+[SR133] 'Princess on the Shore' Hanayo
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR161] 'Good Work!' Eli
+[SR167] 'Let Me Serve You' Maki
+[SR193] 'Christmas Bell' Rin
+[SR194] 'Christmas Carol' Maki
+[SR200] 'Candle Night' Honoka
+[SR213] 'A Fuku Musume is Here' Nico
+[SR246] 'Secret Feelings' Umi
+[SR247] 'Rin's Secret' Rin
+[SR254] 'A Piece of Chocolate' Eli
+[SR256] 'Happy Valentine's' Nozomi
+[SR261] 'Sunny Power' Honoka
+[SR264] 'A New Wind' Nozomi
+[SR270] 'Intensifying Feelings' Maki
+[SR278] 'Sweet Ramen' Rin
+[SR293] 'Fruits Girl' Maki
+[SR294] 'Natural Blessing' Nozomi
+[SR317] 'Gallant Maiden' Umi
+[SR324] 'Let's Take It Slowly!' Honoka
+[SR327] 'Ladylike' Rin
+[SR360] 'Breath of Relief' Nozomi
+[SR374] 'Thanks to the World' Honoka
+[SR377] 'Aromatic Chinese Tea' Nozomi
+[SR394] 'I Want to Give You a Smile' Umi
+[SR396] 'The Secret of the Slit' Hanayo
+[UR073] 'Love Arrow Shoot!' Umi
+[UR105] 'The Legendary Ramen!' Rin
+[UR126] 'The Melody of Our Vow' Maki
+[UR165] 'A Cheer for You' Honoka
+[UR187] 'Secret Home Cooking' Maki
+[UR214] 'Happy New Year' Umi
+[UR250] 'Super Rare Chocolate' Nico
+[UR265] 'Hanayo's Spring Outfit' Hanayo
+[UR367] 'Devoted Feelings' Nozomi
+Worth: 1357

@@ -1,0 +1,36 @@
+3
+4
+21
+0
+[R054] Wonderful Rush Nico
+[SR245] 'Animals Galore' Honoka
+[R288] Bokura Rin
+[SR356] 'A Real Mermaid' Rin
+[R029] Natsu-iro Eli
+[R034] Natsu-iro Nozomi
+[R338] Snow Halation Rin
+[R030] Natsu-iro Kotori
+[R036] Natsu-iro Nico
+[IR335] Snow Halation Eli
+[R289] Bokura Maki
+[R039] Mogyutto Kotori
+[SR317] 'Gallant Maiden' Umi
+[R284] Bokura Honoka
+[R052] Wonderful Rush Nozomi
+[R032] Natsu-iro Rin
+[SR189] 'Homura's Poster Girl' Honoka
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[SR210] 'An Amazing First Dream' Kotori
+[R047] Wonderful Rush Eli
+[SR162] 'The Capable Manager' Umi
+[R286] Bokura Kotori
+[SR192] 'Silent Night' Umi
+[SR308] 'Rice and Miso Soup' Hanayo
+[SR153] 'Visiting the Stalls' Hanayo
+[R049] Wonderful Rush Umi
+[IUR187] 'Secret Home Cooking' Maki
+[IUR126] 'The Melody of Our Vow' Maki
+[UR346] 'Until That Day Comes' Honoka
+[SR163] 'Victory Charm' Nozomi
+[SR264] 'A New Wind' Nozomi
+[R290] Bokura Nozomi

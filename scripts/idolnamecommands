@@ -1,0 +1,224 @@
+on *:TEXT:!honoka:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (honoka isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Honoka] $read(honoka.txt, %file)
+        splay -p honoka_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Honoka card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!eli:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (eli isin %currentline) {
+        var %file = $rand(1,47)
+        msg # [Eli] $read(eli.txt, %file)
+        splay -p eli_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Eli card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!kotori:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (kotori isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Kotori] $read(kotori.txt, %file)
+        splay -p kotori_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Kotori card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!umi:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (umi isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Umi] $read(umi.txt, %file)
+        splay -p umi_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Umi card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!rin:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (rin isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Rin] $read(rin.txt, %file)
+        splay -p rin_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Rin card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!maki:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (maki isin %currentline) {
+        var %file = $rand(1,49)
+        msg # [Maki] $read(maki.txt, %file)
+        splay -p maki_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Maki card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!nozomi:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (nozomi isin %currentline) {
+        var %file = $rand(1,50)
+        msg # [Nozomi] $read(nozomi.txt, %file)
+        splay -p nozomi_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Nozomi card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!hanayo:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (hanayo isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Hanayo] $read(hanayo.txt,n)
+        splay -p hanayo_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Hanayo card.
+    }
+  }
+  else {
+    newperson
+  }
+}
+
+on *:TEXT:!nico:#:{
+  if ($isfile($nick $+ .txt)) {
+    var %idolcount = $lines($nick $+ .txt)
+    var %i = 3
+    while (%i < %idolcount) {
+      var %currentline = $read($nick $+ .txt, %i)
+      if (nico isin %currentline) {
+        var %file = $rand(1,48)
+        msg # [Nico] $read(nico.txt, %file)
+        splay -p nico_ $+ %file $+ .ogg
+        break
+      }
+      else {
+        inc %i
+      }
+    }
+    if (%i >= %idolcount) {
+      msg # $nick does not have a Nico card.
+    }
+  }
+  else {
+    newperson
+  }
+}

@@ -1,0 +1,32 @@
+0
+1
+2
+49
+[IPUR067] 'Anemone Heart' Kotori
+[R030] Natsu-iro Kotori
+[R030] Natsu-iro Kotori
+[R032] Natsu-iro Rin
+[R032] Natsu-iro Rin
+[R034] Natsu-iro Nozomi
+[R036] Natsu-iro Nico
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R039] Mogyutto Kotori
+[R286] Bokura Kotori
+[R287] Bokura Umi
+[R337] Snow Halation Umi
+[R338] Snow Halation Rin
+[R340] Snow Halation Nozomi
+[SR058] 'Mental Concentration' Umi
+[SR060] 'After School Songstress' Maki
+[SR099] 'You're My Next Prey' Maki
+[SR161] 'Good Work!' Eli
+[SR213] 'A Fuku Musume is Here' Nico
+[SR221] 'Mochi and Rice' Hanayo
+[SR247] 'Rin's Secret' Rin
+[SR254] 'A Piece of Chocolate' Eli
+[SR259] 'Demons In' Maki
+[SR279] 'Leave It to Me!' Hanayo
+[SR365] 'Colorful Scales' Kotori
+[UR134] 'Midsummer Fruits' Nozomi
+[UR165] 'A Cheer for You' Honoka

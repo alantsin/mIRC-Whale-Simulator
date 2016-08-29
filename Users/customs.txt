@@ -1,0 +1,109 @@
+Command: !dodge
+
+Owner: Coolguy314
+
+Effect: WhiteRiceBot leaves the channel chat for 10 seconds. WhiteRiceBot will not message the channel prior to leaving, but will message when coming back.
+
+Nerfed Effect: WhiteRiceBot leaves the channel chat for only 5 seconds. WhiteRiceBot will message the channel prior to leaving, and will message again when coming back.
+
+-----
+
+Command: !idolcount
+
+Owner: Maralina123
+
+Effect: Tallies up all your cards, and returns the amount of each Love Live! girl.
+
+Nerfed Effect: Randomly chooses 1 Love Live! girl to count instead of counting all 9.
+
+-----
+
+Command: !nicovore
+
+Owner: Juuninomae
+
+Effect: Messages channel "NicoMunch Munch NicoMunch Munch NicoMunch Idol NicoMunch Lunch NicoMunch"
+
+Nerfed Effect: Messages channel "NicoMunch NicoMunch NicoMunch NicoMunch NicoMunch"
+
+-----
+
+Command: !nyanpasu
+
+Owner: Annihilati0ns
+
+Effect: Plays 1 of 6 Nyanpasu.mp3 files at random.
+
+Nerfed Effect: Only the first Nyanpasu.mp3 will play.
+
+-----
+
+Command: !rincount
+
+Owner: Rampidzier
+
+Effect: Lists the number of Rin cards in your Whale Simulator account, followed by a distribution of the rarities.
+
+Nerfed Effect: Only lists the number of Rin cards without the distribution.
+
+-----
+
+Command: !rigaway
+
+Owner: IAmAGeeAm
+
+Effect: Announces the winner of the rigaway an hour from using the command.
+
+Nerfed Effect: Announces the winner of the rigaway immediately.
+
+-----
+
+Command: !rsync
+
+Owner: Mirefire
+
+Effect: Plays a random song from the available !present songs.
+
+Nerfed Effect: The random song is chosen from the !present cards the user owns.
+
+-----
+
+Command: !rip
+
+Owner: DiabloCthulhu
+
+Effect: Messages channel "riPepperonis ~RIP~ riPepperonis" followed by "So riPepperonis ~RIP~ riPepperonis"
+
+Nerfed Effect: Only messages channel "riPepperonis ~RIP~ riPepperonis"
+
+-----
+
+Command: !salt
+
+Owner: xCeris
+
+Effect: Has a 50% chance to return a salty image, otherwise simulates rolling two 6-sided dice and displays the result in PJSalt.
+
+Nerfed Effect: Has no chance of returning the salty image.
+
+-----
+
+Command: !snipe $2
+
+Owner: Thepizzadino
+
+Effect: Times out the specified user $2 for 10 seconds. 
+
+Nerfed Effect: Has a 10% chance of timing out the specified user $2 for 10 seconds.
+
+-----
+
+Command: !trap $2
+
+Owner: Dawgslaya
+
+Effect: The parameter $2 determines which other custom command is effected. The next person to use the command $2 will be timed out from the channel for 1 second. Traps in random locations result in a time out of 10 seconds.
+
+Nerfed Effect: $2 cannot be specified and a random custom command will be chosen for the trap. The nerfed effect can be used by those with >= 20000 Worth by leaving $2 blank.
+
+-----

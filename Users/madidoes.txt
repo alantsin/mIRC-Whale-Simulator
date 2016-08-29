@@ -1,0 +1,20 @@
+3
+2
+3
+0
+[R291] Bokura Hanayo
+[SR202] 'Christmas Feast' Hanayo
+[R041] Mogyutto Rin
+[SR277] 'Lots of Sweetness' Kotori
+[SR357] 'I'll Charm You' Nico
+[SR360] 'Breath of Relief' Nozomi
+[SR169] 'Angelic Whistle' Kotori
+[SR356] 'A Real Mermaid' Rin
+[SR153] 'Visiting the Stalls' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[SR100] 'I'll Teach You' Nico
+[SR254] 'A Piece of Chocolate' Eli
+[UR322] 'Little Onigiri!' Hanayo
+[IPSR309] 'Kokuhaku Biyori, desu!' Hanayo
+[SR211] 'Great Luck This Year!' Rin
+[ISR171] 'Nico Nico Support' Nico

@@ -1,0 +1,98 @@
+0
+5
+0
+0
+[R033] Natsu-iro Maki
+[R342] Snow Halation Nico
+[R040] Mogyutto Umi
+[R341] Snow Halation Hanayo
+[IPUR118] 'Nicopuri Joshidou' Nico
+[ISR185] 'Handmade Ramen' Rin
+[UR203] 'Your Santa' Nozomi
+[SR192] 'Silent Night' Umi
+[R043] Mogyutto Nozomi
+[SR056] 'Harasho' Eli
+[SR321] 'No Eating Me' Nico
+[SR174] 'The Autumn of Reading' Eli
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[SR267] 'What Girls Love' Nico
+[SR270] 'Intensifying Feelings' Maki
+[IPSR108] 'Mermaid Festa Vol.2' Honoka
+[SR312] 'Magic Lamp' Rin
+[R291] Bokura Hanayo
+[ISR263] 'Season of Melting Snow' Umi
+[SR132] 'Songstress of the Beach' Maki
+[IPSR400] 'Soldier Game' Maki
+[R286] Bokura Kotori
+[UR280] 'Together with Alisa' Eli
+[R290] Bokura Nozomi
+[ISR320] 'Even After the Spell's Worn Off' Eli
+[SR269] 'Kotori's Pillow' Kotori
+[UR094] 'I Will Take Your Heart' Eli
+[IPSR309] 'Kokuhaku Biyori, desu!' Hanayo
+[R046] Wonderful Rush Honoka
+[SR195] 'A Good Girl on Christmas' Nico
+[R036] Natsu-iro Nico
+[IR044] Mogyutto Hanayo
+[SR271] 'Challenger Nico' Nico
+[ISR343] 'Kotori Design' Kotori
+[SR169] 'Angelic Whistle' Kotori
+[SR256] 'Happy Valentine's' Nozomi
+[ISR313] 'Kiss of Awakening' Maki
+[SR194] 'Christmas Carol' Maki
+[UR126] 'The Melody of Our Vow' Maki
+[SR212] 'New Year's Fortune Nozomi
+[SR133] 'Princess on the Shore' Hanayo
+[SR344] 'Party With a Chaperone' Maki
+[R030] Natsu-iro Kotori
+[IPSR307] 'Mermaid Festa Vol.2' Rin
+[R053] Wonderful Rush Hanayo
+[SR407] 'Cooking Power' Nico
+[SR164] 'Furious Cheering' Hanayo
+[IUR172] 'A Goal Together' Rin
+[SR162] 'The Capable Manager' Umi
+[IPSR447] 'Soldier Game' Umi
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[IR028] Natsu-iro Honoka
+[IUR315] 'A Small Princess' Kotori
+[SR354] 'Swaying Dance' Honoka
+[SR423] 'A Date with You' Umi
+[SR211] 'Great Luck This Year!' Rin
+[ISR125] 'Summer Sunset Girl' Rin
+[UR257] 'Maki's Secret' Maki
+[SR392] 'School Swimsuit Nico' Nico
+[IPUR067] 'Anemone Heart' Kotori
+[R431] Korekara no Someday Eli
+[SR278] 'Sweet Ramen' Rin
+[IR339] Snow Halation Maki
+[SR357] 'I'll Charm You' Nico
+[SR404] 'Look at the Back Too' Kotori
+[IPUR082] 'Nawatobi' Hanayo
+[R049] Wonderful Rush Umi
+[UR464] 'Twinkling Stars' Rin
+[UR180] 'Soothing Menu' Hanayo
+[SR055] 'Full-Throttle Smile!' Honoka
+[SR355] 'Friends from the Sea' Umi
+[UR101] 'Destined Partner' Nozomi
+[SR294] 'Natural Blessing' Nozomi
+[R031] Natsu-iro Umi
+[R337] Snow Halation Umi
+[IR337] Snow Halation Umi
+[UR378] 'Pleasant Dreams' Kotori
+[IUR064] 'An Idol's Feelings' Hanayo
+[UR272] 'Let's Go on a Trip!' Rin
+[ISR374] 'Thanks to the World' Honoka
+[SR185] 'Handmade Ramen' Rin
+[IR039] Mogyutto Kotori
+[R336] Snow Halation Kotori
+[R284] Bokura Honoka
+[R338] Snow Halation Rin
+[R430] Korekara no Someday Honoka
+[R044] Mogyutto Hanayo
+[UR134] 'Midsummer Fruits' Nozomi
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[IPSR351] 'Soldier Game' Eli
+[R053] Wonderful Rush Hanayo
+[R036] Natsu-iro Nico
+[R032] Natsu-iro Rin
+[R039] Mogyutto Kotori

@@ -1,0 +1,41 @@
+0
+0
+1
+[IPUR95] 'Beat in Angel' Rin
+[IR45] Mogyutto Nico
+[IR52] Wonderful Rush Nozomi
+[R287] Bokura Umi
+[R289] Bokura Maki
+[R28] Natsu-iro Honoka
+[R28] Natsu-iro Honoka
+[R29] Natsu-iro Eli
+[R31] Natsu-iro Umi
+[R34] Natsu-iro Nozomi
+[R35] Natsu-iro Hanayo
+[R36] Natsu-iro Nico
+[R38] Mogyutto Eli
+[R40] Mogyutto Umi
+[R45] Mogyutto Nico
+[R46] Wonderful Rush Honoka
+[R49] Wonderful Rush Umi
+[R53] Wonderful Rush Hanayo
+[SR132] 'Songstress of the Beach' Maki
+[SR152] 'Sharing a Candied Apple' Eli
+[SR171] 'Nico Nico Support' Nico
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR198] 'Fairy of the Rink' Hanayo
+[SR202] 'Christmas Feast' Hanayo
+[SR210] 'An Amazing First Dream' Kotori
+[SR219] 'Secret New Year's Money' Eli
+[SR248] 'Heart-Pounding Valentine's' Hanayo
+[SR261] 'Sunny Power' Honoka
+[SR264] 'A New Wind' Nozomi
+[SR278] 'Sweet Ramen' Rin
+[SR312] 'Magic Lamp' Rin
+[SR72] 'Destined Card' Nozomi
+[SR93] 'Whimsical Kitten' Rin
+[UR214] 'Happy New Year' Umi
+[UR257] 'Maki's Secret' Maki
+[UR280] 'Together with Alisa' Eli
+[UR315] 'A Small Princess' Kotori
+[UR66] 'Devilish Girl' Nico

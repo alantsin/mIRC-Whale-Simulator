@@ -1,0 +1,63 @@
+1
+2
+2
+0
+[R040] Mogyutto Umi
+[SR142] 'Let's Dance the Bon Dance, Meow!' Rin
+[UR064] 'An Idol's Feelings' Hanayo
+[R029] Natsu-iro Eli
+[R284] Bokura Honoka
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR058] 'Mental Concentration' Umi
+[SR350] 'Time Together With You' Eli
+[UR296] 'The Power of Sweetness' Umi
+[R034] Natsu-iro Nozomi
+[UR079] 'Stage of Smiles' Honoka
+[SR267] 'What Girls Love' Nico
+[R045] Mogyutto Nico
+[UR358] 'My Present Happiness' Maki
+[SR312] 'Magic Lamp' Rin
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR090] 'Nico Is Popular' Nico
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[UR172] 'A Goal Together' Rin
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR293] 'Fruits Girl' Maki
+[SR271] 'Challenger Nico' Nico
+[SR206] 'On a Snowy Night' Umi
+[UR222] 'Happy New Year' Honoka
+[UR180] 'Soothing Menu' Hanayo
+[SR170] 'First Place Smile' Maki
+[ISR277] 'Lots of Sweetness' Kotori
+[SR356] 'A Real Mermaid' Rin
+[IR033] Natsu-iro Maki
+[ISR278] 'Sweet Ramen' Rin
+[R043] Mogyutto Nozomi
+[R049] Wonderful Rush Umi
+[R042] Mogyutto Maki
+[R287] Bokura Umi
+[SR202] 'Christmas Feast' Hanayo
+[SR122] 'The Beach's Sun' Honoka
+[UR180] 'Soothing Menu' Hanayo
+[SR125] 'Summer Sunset Girl' Rin
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR406] 'Rock-Paper-Scissors Game' Nozomi
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[SR184] 'Giving Thanks to the Food' Umi
+[UR214] 'Happy New Year' Umi
+[SR320] 'Even After the Spell's Worn Off' Eli
+[SR441] 'Listen to What I Say!' Rin
+[SR278] 'Sweet Ramen' Rin
+[SR425] 'May Everyone Be Healthy' Nico
+[SR414] 'It's Cute Even When I Put It On!' Hanayo
+[UR126] 'The Melody of Our Vow' Maki
+[SR093] 'Whimsical Kitten' Rin
+[UR257] 'Maki's Secret' Maki
+[R028] Natsu-iro Honoka
+[R286] Bokura Kotori
+[R035] Natsu-iro Hanayo
+[R045] Mogyutto Nico
+[R288] Bokura Rin
+[R042] Mogyutto Maki
+[R284] Bokura Honoka
+[R339] Snow Halation Maki

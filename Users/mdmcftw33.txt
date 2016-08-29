@@ -1,0 +1,40 @@
+3
+2
+36
+0
+[UR222] 'Happy New Year' Honoka
+[R033] Natsu-iro Maki
+[R036] Natsu-iro Nico
+[R288] Bokura Rin
+[SR153] 'Visiting the Stalls' Hanayo
+[SR278] 'Sweet Ramen' Rin
+[R045] Mogyutto Nico
+[R029] Natsu-iro Eli
+[SR056] 'Harasho' Eli
+[SR174] 'The Autumn of Reading' Eli
+[UR172] 'A Goal Together' Rin
+[SR161] 'Good Work!' Eli
+[UR165] 'A Cheer for You' Honoka
+[UR315] 'A Small Princess' Kotori
+[SR261] 'Sunny Power' Honoka
+[SR210] 'An Amazing First Dream' Kotori
+[SR143] 'Goldfish Scooping Master?' Maki
+[SR201] 'White Christmas' Kotori
+[SR093] 'Whimsical Kitten' Rin
+[SR221] 'Mochi and Rice' Hanayo
+[R038] Mogyutto Eli
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[ISR254] 'A Piece of Chocolate' Eli
+[R039] Mogyutto Kotori
+[UR155] 'Evening Breeze Girl' Kotori
+[R285] Bokura Eli
+[UR272] 'Let's Go on a Trip!' Rin
+[UR134] 'Midsummer Fruits' Nozomi
+[IR338] Snow Halation Rin
+[SR124] 'Today is Umi's Day' Umi
+[SR254] 'A Piece of Chocolate' Eli
+[R336] Snow Halation Kotori
+[SR366] 'Mermaid Idol' Hanayo
+[SR200] 'Candle Night' Honoka
+[SR061] 'Spiritual Power' Nozomi
+[SR256] 'Happy Valentine's' Nozomi

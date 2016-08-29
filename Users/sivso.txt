@@ -1,0 +1,66 @@
+2
+5
+9
+0
+[R034] Natsu-iro Nozomi
+[SR313] 'Kiss of Awakening' Maki
+[UR222] 'Happy New Year' Honoka
+[SR057] 'Soothing Goddess' Kotori
+[UR296] 'The Power of Sweetness' Umi
+[SR356] 'A Real Mermaid' Rin
+[SR179] 'Family-Oriented Idol' Nico
+[R342] Snow Halation Nico
+[R045] Mogyutto Nico
+[R334] Snow Halation Honoka
+[SR374] 'Thanks to the World' Honoka
+[SR072] 'Destined Card' Nozomi
+[R052] Wonderful Rush Nozomi
+[R042] Mogyutto Maki
+[ISR217] 'Home-Cooked New Year's Food' Nico
+[SR311] 'The Umi Who Returned a Favor' Umi
+[IR334] Snow Halation Honoka
+[R051] Wonderful Rush Maki
+[R284] Bokura Honoka
+[R340] Snow Halation Nozomi
+[IR337] Snow Halation Umi
+[SR107] 'I'll Eat You Up' Honoka
+[SR360] 'Breath of Relief' Nozomi
+[SR319] 'Gooey Cheese' Honoka
+[R032] Natsu-iro Rin
+[UR172] 'A Goal Together' Rin
+[R031] Natsu-iro Umi
+[R036] Natsu-iro Nico
+[R028] Natsu-iro Honoka
+[R041] Mogyutto Rin
+[SR071] 'Heart of Flames' Honoka
+[SR133] 'Princess on the Shore' Hanayo
+[SR072] 'Destined Card' Nozomi
+[SR261] 'Sunny Power' Honoka
+[R341] Snow Halation Hanayo
+[IR339] Snow Halation Maki
+[R337] Snow Halation Umi
+[SR081] 'White Bunny of Fortune' Umi
+[R339] Snow Halation Maki
+[R286] Bokura Kotori
+[UR250] 'Super Rare Chocolate' Nico
+[R043] Mogyutto Nozomi
+[IR287] Bokura Umi
+[R049] Wonderful Rush Umi
+[R292] Bokura Nico
+[UR397] 'Nico-nii's Chinese Restaurant' Nico
+[SR058] 'Mental Concentration' Umi
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR185] 'Handmade Ramen' Rin
+[SR077] 'The Secret Examination Room' Maki
+[SR143] 'Goldfish Scooping Master?' Maki
+[IUR280] 'Together with Alisa' Eli
+[SR261] 'Sunny Power' Honoka
+[R048] Wonderful Rush Kotori
+[SR247] 'Rin's Secret' Rin
+[R290] Bokura Nozomi
+[SR071] 'Heart of Flames' Honoka
+[IUR073] 'Love Arrow Shoot!' Umi
+[ISR405] 'Picture Pancakes' Maki
+[SR395] 'Made to Order' Maki
+[SR247] 'Rin's Secret' Rin
+[SR345] 'My First Dress' Hanayo

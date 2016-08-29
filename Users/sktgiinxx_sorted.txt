@@ -1,0 +1,84 @@
+0
+0
+0
+4
+[IPSR307] 'Mermaid Festa Vol.2' Rin
+[IPSR351] 'Soldier Game' Eli
+[IPSR400] 'Soldier Game' Maki
+[IPUR067] 'Anemone Heart' Kotori
+[IPUR068] 'Anemone Heart' Umi
+[IPUR096] 'Beat in Angel' Maki
+[IPUR138] 'Garasu no Hanazono' Eli
+[IPUR139] 'Garasu no Hanazono' Nozomi
+[IR028] Natsu-iro Honoka
+[IR031] Natsu-iro Umi
+[IR049] Wonderful Rush Umi
+[IR052] Wonderful Rush Nozomi
+[IR290] Bokura Nozomi
+[ISR061] 'Spiritual Power' Nozomi
+[ISR132] 'Songstress of the Beach' Maki
+[ISR194] 'Christmas Carol' Maki
+[ISR365] 'Colorful Scales' Kotori
+[IUR073] 'Love Arrow Shoot!' Umi
+[R029] Natsu-iro Eli
+[R032] Natsu-iro Rin
+[R034] Natsu-iro Nozomi
+[R035] Natsu-iro Hanayo
+[R040] Mogyutto Umi
+[R041] Mogyutto Rin
+[R042] Mogyutto Maki
+[R043] Mogyutto Nozomi
+[R045] Mogyutto Nico
+[R048] Wonderful Rush Kotori
+[R050] Wonderful Rush Rin
+[R053] Wonderful Rush Hanayo
+[R054] Wonderful Rush Nico
+[R285] Bokura Eli
+[R289] Bokura Maki
+[R292] Bokura Nico
+[R341] Snow Halation Hanayo
+[R431] Korekara no Someday Eli
+[R434] Korekara no Someday Rin
+[SR057] 'Soothing Goddess' Kotori
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR071] 'Heart of Flames' Honoka
+[SR072] 'Destined Card' Nozomi
+[SR078] 'Here's Your Order' Hanayo
+[SR129] 'The Fox's Wedding' Eli
+[SR131] 'Sweet Marine Girl' Kotori
+[SR133] 'Princess on the Shore' Hanayo
+[SR141] 'Summer Festival with Everyone' Honoka
+[SR153] 'Visiting the Stalls' Hanayo
+[SR170] 'First Place Smile' Maki
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR192] 'Silent Night' Umi
+[SR193] 'Christmas Bell' Rin
+[SR210] 'An Amazing First Dream' Kotori
+[SR212] 'New Year's Fortune Nozomi
+[SR221] 'Mochi and Rice' Hanayo
+[SR246] 'Secret Feelings' Umi
+[SR254] 'A Piece of Chocolate' Eli
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR263] 'Season of Melting Snow' Umi
+[SR264] 'A New Wind' Nozomi
+[SR271] 'Challenger Nico' Nico
+[SR277] 'Lots of Sweetness' Kotori
+[SR279] 'Leave It to Me!' Hanayo
+[SR293] 'Fruits Girl' Maki
+[SR327] 'Ladylike' Rin
+[SR332] 'A Big Puddle' Rin
+[SR354] 'Swaying Dance' Honoka
+[SR394] 'I Want to Give You a Smile' Umi
+[SR395] 'Made to Order' Maki
+[SR396] 'The Secret of the Slit' Hanayo
+[UR126] 'The Melody of Our Vow' Maki
+[UR134] 'Midsummer Fruits' Nozomi
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[UR165] 'A Cheer for You' Honoka
+[UR196] 'My Present to You' Eli
+[UR296] 'The Power of Sweetness' Umi
+[UR330] 'Simple Dress' Eli
+[UR346] 'Until That Day Comes' Honoka
+[UR378] 'Pleasant Dreams' Kotori
+[UR442] 'Halloween Date' Nozomi
+Worth: 2072

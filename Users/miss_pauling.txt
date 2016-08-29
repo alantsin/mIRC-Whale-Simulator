@@ -1,0 +1,54 @@
+0
+3
+8
+0
+[UR145] 'Yukata-Clad Beauty in Late Summer' Umi
+[R289] Bokura Maki
+[R048] Wonderful Rush Kotori
+[R337] Snow Halation Umi
+[R045] Mogyutto Nico
+[R042] Mogyutto Maki
+[R031] Natsu-iro Umi
+[SR264] 'A New Wind' Nozomi
+[SR163] 'Victory Charm' Nozomi
+[SR345] 'My First Dress' Hanayo
+[SR184] 'Giving Thanks to the Food' Umi
+[SR058] 'Mental Concentration' Umi
+[SR366] 'Mermaid Idol' Hanayo
+[SR454] 'Happy Twins' Nozomi
+[SR154] 'Summer Memories' Nico
+[SR344] 'Party With a Chaperone' Maki
+[SR247] 'Rin's Secret' Rin
+[SR063] 'Nico Nico Smile' Nico
+[SR364] 'The Little Mermaid's Strength' Eli
+[SR321] 'No Eating Me' Nico
+[SR177] 'Specially Made Borscht' Eli
+[SR174] 'The Autumn of Reading' Eli
+[ISR099] 'You're My Next Prey' Maki
+[SR295] 'Sweets Idol' Nico
+[UR315] 'A Small Princess' Kotori
+[SR192] 'Silent Night' Umi
+[IR046] Wonderful Rush Honoka
+[IR286] Bokura Kotori
+[SR141] 'Summer Festival with Everyone' Honoka
+[IR433] Korekara no Someday Umi
+[SR369] 'Summer Water Girl' Kotori
+[SR171] 'Nico Nico Support' Nico
+[UR272] 'Let's Go on a Trip!' Rin
+[SR099] 'You're My Next Prey' Maki
+[SR440] 'No Trick for You!' Kotori
+[ISR461] 'Stargazing at Night' Umi
+[IUR203] 'Your Santa' Nozomi
+[SR412] 'Maid-in-Training' Honoka
+[SR104] 'Feigning Sleep' Nozomi
+[SR194] 'Christmas Carol' Maki
+[ISR221] 'Mochi and Rice' Hanayo
+[SR312] 'Magic Lamp' Rin
+[ISR461] 'Stargazing at Night' Umi
+[UR105] 'The Legendary Ramen!' Rin
+[SR357] 'I'll Charm You' Nico
+[SR326] 'Snuggling Pose' Umi
+[SR057] 'Soothing Goddess' Kotori
+[SR423] 'A Date with You' Umi
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR186] 'Full Course Meal of Fortune' Nozomi

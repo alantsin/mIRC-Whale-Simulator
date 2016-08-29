@@ -1,0 +1,30 @@
+0
+18
+6
+[IR28] Natsu-iro Honoka
+[IR32] Natsu-iro Rin
+[IR34] Natsu-iro Nozomi
+[R284] Bokura Honoka
+[R286] Bokura Kotori
+[R290] Bokura Nozomi
+[R31] Natsu-iro Umi
+[R32] Natsu-iro Rin
+[R33] Natsu-iro Maki
+[R36] Natsu-iro Nico
+[R40] Mogyutto Umi
+[R46] Wonderful Rush Honoka
+[R47] Wonderful Rush Eli
+[R48] Wonderful Rush Kotori
+[R49] Wonderful Rush Umi
+[R50] Wonderful Rush Rin
+[R52] Wonderful Rush Nozomi
+[R54] Wonderful Rush Nico
+[SR104] 'Feigning Sleep' Nozomi
+[SR129] 'The Fox's Wedding' Eli
+[SR154] 'Summer Memories' Nico
+[SR161] 'Good Work!' Eli
+[SR213] 'A Fuku Musume is Here' Nico
+[SR282] 'Under the Cherry Blossoms' Maki
+[SR313] 'Kiss of Awakening' Maki
+[SR87] 'Take a Look at Rin, Meow' Rin
+[UR272] 'Let's Go on a Trip!' Rin

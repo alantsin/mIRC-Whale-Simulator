@@ -1,0 +1,233 @@
+on *:TEXT:!sifcalc:#:{
+  msg # [SIF Calculator Commands] !bond <FullCombo#>, !lp <Rank#>, !rankup <Current Rank> <Current Exp> <Easy/Normal/Hard/EX> <EN/JP>
+}
+
+on *:TEXT:!cardstats*:#:{
+  if ($checkParametersCardStats($2, $3, $4, $5, $6, $7, $8)) {
+    if ($8 = 12) {
+      if ($9 >= 0) {
+        var %cardbasestats = $floor($calc($2 + $3 + ($9 * 0.24)))
+      }
+      else {
+        msg # [Card Statistics] A non-negative secondary stat is required when using the 12% center modifier.
+        halt
+      }
+    }
+    else {
+      var %centerbonus = $calc((($8 * 2) * 0.01) + 1)
+      var %cardbasestats = $floor($calc(($2 * %centerbonus) + $3))
+      msg # %cardbasestats
+      var %totalprocchance = $floor($calc($7 / $6))
+      var %appealmodifier = $calc(%totalprocchance * $5)
+    }
+  }
+  else {
+    msg # [Card Statistics] Check your syntax: "!cardstats <Primary Stat> <Bond Points> <% Activation Rate> <Increase by _> <Every _ Combo/Perfect> <Total Notes in Song> <0/3/6/9/12 Center Modifier> <Secondary Stat if $7 = 12>
+  }
+}
+
+alias checkParametersCardStats {
+  if ($1 >= 0) {
+    if ($2 >= 0) {
+      if (($3 >= 0) && ($3 < 100)) {
+        if ($4 >= 0) {
+          if ($5 >= 0) {
+            if ($6 >= 50) {
+              if (($7 = 0) || ($7 = 3) || ($7 = 6) || ($7 = 9) || ($7 = 12)) {
+                return $true
+              }
+              else {
+                msg # [Card Statistics] Parameter 7 must be one of <0,3,6,9,12>
+                return $false
+              }
+            }
+            else {
+              msg # [Card Statistics] Parameter 6 must be 50 notes or more.
+              return $false
+            }
+
+          }
+          else {
+            msg # [Card Statistics] Parameter 5 must be non-negative.
+            return $false
+          }
+        }
+        else {
+          msg # [Card Statistics] Parameter 4 must be non-negative.
+          return $false
+        }
+      }
+      else {
+        msg # [Card Statistics] Parameter 3 must be an integer between 0-100
+        return $false
+      }
+    }
+    else {
+      msg # [Card Statistics] Parameter 2 must be non-negative.
+      return $false
+    }
+  }
+  else {
+    msg # [Card Statistics] Parameter 1 must be non-negative.
+    return $false
+  }
+}
+
+on *:TEXT:!bond*:#:{
+  if ($2 > 200) {
+    var %max200 = $2 - 200
+  }
+  else {
+    var %max200 = 0
+  }
+  var %bond = $calc($floor($calc($2 / 10)) + $floor($calc(%max200 / 10)) + 4 * $floor($calc($2 / 50)) - $floor($calc(%max200 / 50)) + 5 * $floor($calc($2 / 100)))
+  msg # [Bond Calculator] A $2 Combo gives %bond Bond.
+}
+
+on *:TEXT:!rankup*:#:{
+  if ($checkparametersrankup($2, $3, $4)) {
+    var %songexp = $songexp($4)
+    var %songexpmedley = $floor($calc(%songexp * 1.1))
+    var %songlp = $songlp($4)
+    var %songlpmedley = $floor($calc(%songlp * 0.8))
+    if ($2 < 100) {
+      if ($5 == $null) {
+        msg # [Rank Up] "EN" or "JP" is a required parameter when Rank is less than 100.
+        halt
+      }
+      else if ($5 == EN) {
+        var %totalexp = $totalexp($2, $5)
+      }
+      else if ($5 == JP) {
+        var %totalexp = $calc($totalexp($2, $5) / 2)
+      }
+      else {
+        msg # [Rank Up] Something other than "EN" or "JP" was used as a parameter.
+        halt
+      }
+    }
+    else {
+      var %totalexp = $totalexp($2)
+    }
+    var %totalexp = %totalexp - $3
+    if (%totalexp <= 0) {
+      msg # [Rank Up] You can't have more experience than total experience!
+    }
+    else {
+      var %totalsongs = $ceil($calc(%totalexp / %songexp))
+      var %totalsongsmedley = $ceil($calc(%totalexp / %songexpmedley))
+      var %lp = $lp($2)
+      var %songspergem = $floor($calc(%lp / %songlp))
+      var %songspergemmedley = $floor($calc(%lp / %songlpmedley))
+      var %loveca = $ceil($calc(%totalsongs / %songspergem))
+      var %lovecamedley = $ceil($calc(%totalsongsmedley / %songspergemmedley))
+      timer 1 1 scid -at1 msg #_whitericebot_1448174506973 .w $nick [Rank Up] From $3 exp at Rank $2 $+ , you need to play %totalsongs $4 songs to reach Rank $calc($2 + 1) $+ .
+      timer 1 2 scid -at1 msg #_whitericebot_1448174506973 .w $nick [Rank Up] This will cost %loveca Love Gems worth of refills.
+      timer 1 3 scid -at1 msg #_whitericebot_1448174506973 .w $nick [Rank Up] Using Medley Festival's 10% Exp Boost, you need to play %totalsongsmedley songs instead.
+      timer 1 4 scid -at1 msg #_whitericebot_1448174506973 .w $nick [Rank Up] This will cost %lovecamedley Love Gems worth of refills.
+    }
+  }
+  else {
+    scid -at1 msg #_whitericebot_1448174506973 .w $nick [Rank Up] Check your syntax: "!rankup <Current Rank> <Current Exp> <Easy/Normal/Hard/EX> <EN/JP> ; Last parameter only necessary if Rank < 100.
+  }
+}
+
+on *:TEXT:!lp*:#:{
+  var %lp = $lp($2)
+  msg # [LP Calculator] At Rank $2 $+ , you have %lp max LP.
+}
+
+alias lp {
+  if ($1 >= 300) {
+    var %min300 = 300
+  }
+  else {
+    var %min300 = $1
+  }
+  if ($calc($1 - 300) >= 0) {
+    var %max300 = $calc($1 - 300)
+  }
+  else {
+    var %max300 = 0
+  }
+  return $calc(25 + $floor($calc(%min300 / 2)) + $floor($calc(%max300 / 3)))
+}
+
+alias checkparametersrankup {
+  if ($1 > 999) {
+    msg # [Rank Up] This calculator only takes Ranks between 2-999
+    halt
+  }
+  else {
+    if ($1 > 1) {
+      if ($2 isnum) {
+        if (($3 == easy) || ($3 == normal) || ($3 == hard) || ($3 == ex)) {
+          return $true
+        }
+        else {
+          return $false
+        }
+      }
+      else {
+        return $false
+      }
+    }
+    else {
+      return $false
+    }
+  }
+}
+
+alias songexp {
+  if ($1 = easy) {
+    return 12
+  }
+  else if ($1 = normal) {
+    return 26
+  }
+  else if ($1 = hard) {
+    return 46
+  }
+  else if ($1 = ex) {
+    return 83
+  }
+  else {
+    halt
+  }
+}
+
+alias songlp {
+  if ($1 = easy) {
+    return 5
+  }
+  else if ($1 = normal) {
+    return 10
+  }
+  else if ($1 = hard) {
+    return 15
+  }
+  else if ($1 = ex) {
+    return 25
+  }
+  else {
+    halt
+  }
+}
+
+alias totalexp {
+  if ($1 < 34) {
+    if ($2 = EN) {
+      return $read(ExpEN34.txt, $calc($1 - 1))
+    }
+    else if ($2 = JP) {
+      return $read(ExpJP34.txt, $calc($1 - 1))
+    }
+    else {
+      msg # Something went wrong.
+      halt
+    }
+  }
+  else {
+    return $ceil($calc((34.45 * $1) - 551))
+  }
+}

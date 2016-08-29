@@ -1,0 +1,40 @@
+3
+0
+43
+0
+[UR180] 'Soothing Menu' Hanayo
+[R031] Natsu-iro Umi
+[IPUR118] 'Nicopuri Joshidou' Nico
+[R030] Natsu-iro Kotori
+[R037] Mogyutto Honoka
+[R284] Bokura Honoka
+[R032] Natsu-iro Rin
+[R037] Mogyutto Honoka
+[R038] Mogyutto Eli
+[UR165] 'A Cheer for You' Honoka
+[SR086] 'Love Bind' Umi
+[IPUR095] 'Beat in Angel' Rin
+[SR276] 'I'm Really Happy!' Honoka
+[SR317] 'Gallant Maiden' Umi
+[SR262] 'Otonokizaka's Big Sister' Eli
+[SR132] 'Songstress of the Beach' Maki
+[UR203] 'Your Santa' Nozomi
+[SR198] 'Fairy of the Rink' Hanayo
+[SR271] 'Challenger Nico' Nico
+[SR059] 'The Energy of mu's' Rin
+[SR179] 'Family-Oriented Idol' Nico
+[UR073] 'Love Arrow Shoot!' Umi
+[SR062] 'Freshly Cooked Rice' Hanayo
+[SR255] 'Melt-in-Your-Mouth Sweets' Kotori
+[SR164] 'Furious Cheering' Hanayo
+[SR267] 'What Girls Love' Nico
+[R043] Mogyutto Nozomi
+[R051] Wonderful Rush Maki
+[UR280] 'Together with Alisa' Eli
+[R340] Snow Halation Nozomi
+[IR054] Wonderful Rush Nico
+[IR050] Wonderful Rush Rin
+[R334] Snow Halation Honoka
+[R334] Snow Halation Honoka
+[SR177] 'Specially Made Borscht' Eli
+[SR277] 'Lots of Sweetness' Kotori

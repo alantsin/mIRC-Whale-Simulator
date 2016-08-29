@@ -1,0 +1,27 @@
+alias getScout {
+  if ($read(listofnames.txt, w, $1)) {
+    if ($read(dailyscoutlist.txt, w, $1)) {
+      scid -at1 msg #_whitericebot_1448174506973 .w $1 [Get Scout] $1 has already received their daily scout!
+    }
+    else {
+      var %scout = $read($1 $+ .txt,0)
+      var %scout = %scout + %dailyscoutnumber
+      write -dl1 $1 $+ .txt
+      write -il1 $1 $+ .txt %scout
+      write dailyscoutlist.txt $1
+      scid -at1 msg #_whitericebot_1448174506973 .w $1 [Get Scout] $1 has received their daily scout!
+    }
+  }
+  else {
+    newpersonWhisper
+  }
+}
+
+alias getScoutSet {
+  set %dailyscoutnumber $1
+  msg #_whitericebot_1448174506973 .w umidah [Get Scout] Scout set to $1
+}
+
+alias newpersonWhisper {
+  msg #_whitericebot_1448174506973 .w $1 You seem to be new, $1 $+ . Type "/w whitericebot !scout" to start playing Whale Simulator!
+}

@@ -1,0 +1,22 @@
+0
+0
+0
+6
+[IR286] Bokura Kotori
+[R028] Natsu-iro Honoka
+[R029] Natsu-iro Eli
+[R031] Natsu-iro Umi
+[R033] Natsu-iro Maki
+[R038] Mogyutto Eli
+[R040] Mogyutto Umi
+[R051] Wonderful Rush Maki
+[R337] Snow Halation Umi
+[R339] Snow Halation Maki
+[R430] Korekara no Someday Honoka
+[R431] Korekara no Someday Eli
+[R433] Korekara no Someday Umi
+[R435] Korekara no Someday Maki
+[SR405] 'Picture Pancakes' Maki
+[UR214] 'Happy New Year' Umi
+[UR280] 'Together with Alisa' Eli
+[UR358] 'My Present Happiness' Maki

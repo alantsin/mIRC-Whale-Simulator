@@ -1,0 +1,34 @@
+0
+5
+6
+[IPUR118] 'Nicopuri Joshidou' Nico
+[IR033] Natsu-iro Maki
+[IR038] Mogyutto Eli
+[IR287] Bokura Umi
+[ISR129] 'The Fox's Wedding' Eli
+[ISR270] 'Intensifying Feelings' Maki
+[R028] Natsu-iro Honoka
+[R033] Natsu-iro Maki
+[R033] Natsu-iro Maki
+[R039] Mogyutto Kotori
+[R045] Mogyutto Nico
+[R047] Wonderful Rush Eli
+[R051] Wonderful Rush Maki
+[R053] Wonderful Rush Hanayo
+[R054] Wonderful Rush Nico
+[SR072] 'Destined Card' Nozomi
+[SR104] 'Feigning Sleep' Nozomi
+[SR133] 'Princess on the Shore' Hanayo
+[SR170] 'First Place Smile' Maki
+[SR176] 'Blissfully Snatching Food' Honoka
+[SR184] 'Giving Thanks to the Food' Umi
+[SR211] 'Great Luck This Year!' Rin
+[SR217] 'Home-Cooked New Year's Food' Nico
+[SR220] 'Once-in-a-Year Finest Clothes' Maki
+[SR247] 'Rin's Secret' Rin
+[SR262] 'Otonokizaka's Big Sister' Eli
+[UR064] 'An Idol's Feelings' Hanayo
+[UR079] 'Stage of Smiles' Honoka
+[UR127] 'A Midsummer's Hot Gaze' Nico
+[UR134] 'Midsummer Fruits' Nozomi
+[UR222] 'Happy New Year' Honoka

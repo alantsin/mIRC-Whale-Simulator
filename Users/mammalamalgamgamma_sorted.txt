@@ -1,0 +1,24 @@
+0
+11
+12
+7
+[IPUR095] 'Beat in Angel' Rin
+[R035] Natsu-iro Hanayo
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R040] Mogyutto Umi
+[R042] Mogyutto Maki
+[R044] Mogyutto Hanayo
+[R049] Wonderful Rush Umi
+[R291] Bokura Hanayo
+[R292] Bokura Nico
+[R334] Snow Halation Honoka
+[R337] Snow Halation Umi
+[R340] Snow Halation Nozomi
+[R432] Korekara no Someday Kotori
+[R433] Korekara no Someday Umi
+[R437] Korekara no Someday Hanayo
+[SR376] 'The Strongest Kung Fu Idol' Rin
+[SR423] 'A Date with You' Umi
+[SR425] 'May Everyone Be Healthy' Nico
+[WR000] Worth

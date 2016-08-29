@@ -1,0 +1,69 @@
+// Tapping channel command
+on *:TEXT:!tap2016 [*]:#:{
+  if (%currentlyTapping || %isPlaying) {
+    return
+  }
+  else {
+    if ($regex($2, \[[I]?[RSU]?[R][0-9]+\]) = 1) {
+      if ($isfile($nick $+ .txt)) {
+        var %read = $read($nick $+ .txt, ns, $2)
+        if (%read == $null) {
+          scid -at1 msg #_whitericebot_1448174506973 .w $nick [Tap] $nick does not have that card.
+        }
+        else {
+          set %currentlyTapping $true
+          popup $2
+        }
+      }
+      else {
+        newperson
+      }
+    }
+  }
+}
+
+// Helper alias popup for !tap
+alias popup {
+  if ($isfile($qt(F:\Stream Popups\images\ $+ $1 $+ .gif))) {
+    copy -o $qt(F:\Stream Popups\images\popup.gif) $qt(F:\Stream Popups\images\popup_backup.gif) 
+    copy -o $qt(F:\Stream Popups\images\ $+ $1 $+ .gif) $qt(F:\Stream Popups\images\popup.gif)
+    timerReplaceImageTap 1 2 copy -o $qt(F:\Stream Popups\images\popup_backup.gif) $qt(F:\Stream Popups\images\popup.gif)
+  }
+  else {
+  }
+  set %isPlaying $true
+  timerPlaySound 1 1 splay -p $1 $+ .mp3
+  timerTapOver 1 3 set %currentlyTapping $false
+}
+
+on *:TEXT:!scout2016:#:{
+  var %pull = $read(whalesim2016_testbox.txt, n)
+  scid -at1 msg #_whitericebot_1448174506973 .w $nick [Test Scout] $nick got %pull $+ !
+  displayScout %pull
+}
+
+// Helper alias displayScout for !scout
+alias displayScout {
+  if (%currentlyScouting) {
+    return
+  }
+  else if ($isfile($qt(F:\Stream Popups\images\ $+ $1 $+ .gif))) {
+    set %currentlyScouting $true
+    if ([UR isin $1) {
+      var %envelope = ur
+    }
+    else if ([SR isin $1) {
+      var %envelope = sr
+    }
+    else {
+      var %envelope = r
+    }
+    copy -o $qt(F:\Stream Popups\images\scout.gif) $qt(F:\Stream Popups\images\scout_backup.gif)
+    copy -o $qt(F:\Stream Popups\images\pull.gif) $qt(F:\Stream Popups\images\pull_backup.gif) 
+    copy -o $qt(F:\Stream Popups\images\ $+ %envelope $+ _scout $+ .gif) $qt(F:\Stream Popups\images\scout.gif)
+    timerPull 1 1 copy -o $qt(F:\Stream Popups\images\ $+ $1 $+ .gif) $qt(F:\Stream Popups\images\pull.gif)
+    timerReplaceImagePull 1 3 copy -o $qt(F:\Stream Popups\images\pull_backup.gif) $qt(F:\Stream Popups\images\pull.gif)
+    timerReplaceImageScout 1 3 copy -o $qt(F:\Stream Popups\images\scout_backup.gif) $qt(F:\Stream Popups\images\scout.gif)
+    timerScoutOver 1 4 set %currentlyScouting $false
+  }
+}

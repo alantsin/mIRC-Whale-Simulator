@@ -1,0 +1,33 @@
+0
+0
+0
+8
+[IR042] Mogyutto Maki
+[IR287] Bokura Umi
+[IR339] Snow Halation Maki
+[ISR377] 'Aromatic Chinese Tea' Nozomi
+[R028] Natsu-iro Honoka
+[R032] Natsu-iro Rin
+[R033] Natsu-iro Maki
+[R045] Mogyutto Nico
+[R046] Wonderful Rush Honoka
+[R048] Wonderful Rush Kotori
+[R051] Wonderful Rush Maki
+[R052] Wonderful Rush Nozomi
+[R286] Bokura Kotori
+[R334] Snow Halation Honoka
+[R335] Snow Halation Eli
+[R336] Snow Halation Kotori
+[R340] Snow Halation Nozomi
+[R433] Korekara no Someday Umi
+[R434] Korekara no Someday Rin
+[R434] Korekara no Someday Rin
+[R435] Korekara no Someday Maki
+[SR060] 'After School Songstress' Maki
+[SR163] 'Victory Charm' Nozomi
+[SR312] 'Magic Lamp' Rin
+[SR327] 'Ladylike' Rin
+[SR343] 'Kotori Design' Kotori
+[SR365] 'Colorful Scales' Kotori
+[UR203] 'Your Santa' Nozomi
+[UR358] 'My Present Happiness' Maki

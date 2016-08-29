@@ -1,0 +1,24 @@
+0
+19
+3
+6
+[IPSR351] 'Soldier Game' Eli
+[R036] Natsu-iro Nico
+[R038] Mogyutto Eli
+[R040] Mogyutto Umi
+[R042] Mogyutto Maki
+[R044] Mogyutto Hanayo
+[R050] Wonderful Rush Rin
+[R052] Wonderful Rush Nozomi
+[R053] Wonderful Rush Hanayo
+[R286] Bokura Kotori
+[R289] Bokura Maki
+[R336] Snow Halation Kotori
+[R337] Snow Halation Umi
+[R341] Snow Halation Hanayo
+[R342] Snow Halation Nico
+[R434] Korekara no Someday Rin
+[R434] Korekara no Someday Rin
+[R436] Korekara no Someday Nozomi
+[R438] Korekara no Someday Nico
+[SR328] 'Dreamy Bride' Nozomi
